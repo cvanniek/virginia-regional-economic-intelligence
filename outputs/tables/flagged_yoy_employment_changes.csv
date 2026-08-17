@@ -1,0 +1,14 @@
+year,area_fips,locality_name,industry_code,industry_title,own_code,agglvl_code,disclosure_code,annual_avg_estabs,annual_avg_emplvl,total_annual_wages,annual_avg_wkly_wage,avg_annual_pay,is_suppressed,employment_change_yoy,employment_growth_yoy,prior_year_employment,large_yoy_change_flag
+2022,51001,Accomack County,56,Administrative and Support and Waste Management,5,74,,40,272.0,10565592.0,748.0,38904.0,False,148.0,1.193548387096774,124.0,True
+2021,51019,Bedford County,55,Management of Companies and Enterprises,5,74,,10,240.0,13775497.0,1104.0,57398.0,False,126.0,1.1052631578947367,114.0,True
+2023,51033,Caroline County,56,Administrative and Support and Waste Management,5,74,,41,683.0,25087964.0,706.0,36732.0,False,439.0,1.7991803278688523,244.0,True
+2025,51036,Charles City County,48-49,Transportation and Warehousing,5,74,,14,496.0,26537455.0,1029.0,53521.0,False,360.0,2.6470588235294117,136.0,True
+2020,51069,Frederick County,55,Management of Companies and Enterprises,5,74,,10,574.0,34599854.0,1160.0,60331.0,False,409.0,2.478787878787879,165.0,True
+2023,51103,Lancaster County,31-33,Manufacturing,5,74,,20,338.0,36544490.0,2082.0,108280.0,False,225.0,1.9911504424778763,113.0,True
+2021,51135,Nottoway County,54,"Professional, Scientific, and Technical Services",5,74,,27,395.0,28923400.0,1410.0,73301.0,False,283.0,2.5267857142857144,112.0,True
+2021,51147,Prince Edward County,23,Construction,5,74,,45,481.0,27753529.0,1109.0,57660.0,False,243.0,1.0210084033613445,238.0,True
+2025,51179,Stafford County,48-49,Transportation and Warehousing,5,74,,82,6230.0,278874843.0,861.0,44763.0,False,4094.0,1.9166666666666665,2136.0,True
+2022,51179,Stafford County,51,Information,5,74,,35,594.0,64157899.0,2076.0,107964.0,False,415.0,2.3184357541899443,179.0,True
+2023,51740,Portsmouth city,71,"Arts, Entertainment, and Recreation",5,74,,22,1222.0,54758275.0,862.0,44810.0,False,947.0,3.4436363636363634,275.0,True
+2025,51800,Suffolk city,48-49,Transportation and Warehousing,5,74,,102,9944.0,385415331.0,745.0,38758.0,False,7076.0,2.4672245467224547,2868.0,True
+2025,51820,Waynesboro city,48-49,Transportation and Warehousing,5,74,,17,980.0,32687596.0,642.0,33372.0,False,616.0,1.6923076923076925,364.0,True

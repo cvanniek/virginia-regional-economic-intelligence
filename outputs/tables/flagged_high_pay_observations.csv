@@ -1,0 +1,14 @@
+year,area_fips,locality_name,industry_code,industry_title,own_code,agglvl_code,disclosure_code,annual_avg_estabs,annual_avg_emplvl,total_annual_wages,annual_avg_wkly_wage,avg_annual_pay,is_suppressed,employment_change_yoy,employment_growth_yoy,prior_year_employment,high_pay_flag
+2019,51013,Arlington County,22,Utilities,5,74,,5,355.0,152609687.0,8257.0,429382.0,False,,,,True
+2020,51013,Arlington County,22,Utilities,5,74,,7,387.0,153585570.0,7629.0,396691.0,False,32.0,0.09014084507042264,355.0,True
+2021,51013,Arlington County,22,Utilities,5,74,,10,402.0,159888951.0,7649.0,397734.0,False,15.0,0.03875968992248069,387.0,True
+2022,51013,Arlington County,22,Utilities,5,74,,12,360.0,175485344.0,9383.0,487911.0,False,-42.0,-0.10447761194029848,402.0,True
+2023,51013,Arlington County,22,Utilities,5,74,,14,325.0,146841402.0,8689.0,451820.0,False,-35.0,-0.09722222222222221,360.0,True
+2024,51013,Arlington County,22,Utilities,5,74,,16,386.0,155528084.0,7747.0,402836.0,False,61.0,0.1876923076923076,325.0,True
+2025,51013,Arlington County,22,Utilities,5,74,,18,412.0,158809796.0,7419.0,385773.0,False,26.0,0.06735751295336789,386.0,True
+2025,51013,Arlington County,55,Management of Companies and Enterprises,5,74,,89,7881.0,2371968113.0,5788.0,300976.0,False,2570.0,0.48390133684805114,5311.0,True
+2024,51023,Botetourt County,55,Management of Companies and Enterprises,5,74,,7,128.0,40531588.0,6074.0,315831.0,False,9.0,0.07563025210084029,119.0,True
+2025,51093,Isle of Wight County,55,Management of Companies and Enterprises,5,74,,16,375.0,127352709.0,6537.0,339909.0,False,-9.0,-0.0234375,384.0,True
+2021,51111,Lunenburg County,42,Wholesale Trade,5,74,,9,96.0,41153700.0,8208.0,426832.0,False,-7.0,-0.06796116504854366,103.0,True
+2019,51740,Portsmouth city,55,Management of Companies and Enterprises,5,74,,6,37.0,40290206.0,21228.0,1103841.0,False,,,,True
+2024,51760,Richmond city,11,"Agriculture, Forestry, Fishing and Hunting",5,74,,8,20.0,6123740.0,5888.0,306187.0,False,4.0,0.25,16.0,True

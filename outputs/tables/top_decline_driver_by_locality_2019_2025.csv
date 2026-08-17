@@ -1,0 +1,134 @@
+area_fips,locality_name,industry_title,2019,2025,employment_change,employment_growth_pct
+51059,Fairfax County,"Professional, Scientific, and Technical Services",159986.0,154006.0,-5980.0,-0.037378270598677384
+51087,Henrico County,Finance and Insurance,16236.0,11163.0,-5073.0,-0.31245380635624537
+51013,Arlington County,Administrative and Support and Waste Management,11431.0,6975.0,-4456.0,-0.3898171638526813
+51510,Alexandria city,"Professional, Scientific, and Technical Services",16222.0,12688.0,-3534.0,-0.21785229934656639
+51550,Chesapeake city,Retail Trade,15523.0,12904.0,-2619.0,-0.16871738710300843
+51700,Newport News city,Administrative and Support and Waste Management,6278.0,3821.0,-2457.0,-0.3913666772857598
+51041,Chesterfield County,Administrative and Support and Waste Management,10979.0,8848.0,-2131.0,-0.19409782311685947
+51810,Virginia Beach city,Finance and Insurance,8241.0,6224.0,-2017.0,-0.24475185050357967
+51710,Norfolk city,Educational Services,3374.0,1746.0,-1628.0,-0.4825133372851215
+51650,Hampton city,Administrative and Support and Waste Management,3618.0,2124.0,-1494.0,-0.4129353233830846
+51680,Lynchburg city,Administrative and Support and Waste Management,2666.0,1203.0,-1463.0,-0.5487621905476369
+51740,Portsmouth city,Health Care and Social Assistance,7082.0,5637.0,-1445.0,-0.20403840722959615
+51093,Isle of Wight County,Manufacturing,3108.0,1730.0,-1378.0,-0.44337194337194336
+51155,Pulaski County,Manufacturing,5213.0,3935.0,-1278.0,-0.2451563399194322
+51153,Prince William County,Retail Trade,21450.0,20336.0,-1114.0,-0.051934731934731936
+51165,Rockingham County,Manufacturing,7469.0,6372.0,-1097.0,-0.14687374481188914
+51161,Roanoke County,Health Care and Social Assistance,6297.0,5308.0,-989.0,-0.15705891694457677
+51085,Hanover County,Management of Companies and Enterprises,1390.0,444.0,-946.0,-0.6805755395683454
+51610,Falls Church city,Administrative and Support and Waste Management,1127.0,192.0,-935.0,-0.8296362023070097
+51770,Roanoke city,Finance and Insurance,3022.0,2107.0,-915.0,-0.3027796161482462
+51191,Washington County,Manufacturing,3245.0,2358.0,-887.0,-0.2733436055469954
+51171,Shenandoah County,Manufacturing,3475.0,2606.0,-869.0,-0.25007194244604314
+51760,Richmond city,Manufacturing,5694.0,4883.0,-811.0,-0.1424306287319986
+51095,James City County,Management of Companies and Enterprises,1013.0,224.0,-789.0,-0.7788746298124383
+51173,Smyth County,Administrative and Support and Waste Management,1471.0,685.0,-786.0,-0.5343303874915024
+51081,Greensville County,Manufacturing,1267.0,560.0,-707.0,-0.5580110497237569
+51540,Charlottesville city,Administrative and Support and Waste Management,2562.0,1920.0,-642.0,-0.2505854800936768
+51003,Albemarle County,Retail Trade,6108.0,5478.0,-630.0,-0.1031434184675835
+51035,Carroll County,Manufacturing,1245.0,643.0,-602.0,-0.4835341365461847
+51590,Danville city,Manufacturing,3936.0,3341.0,-595.0,-0.15116869918699186
+51121,Montgomery County,Retail Trade,5006.0,4452.0,-554.0,-0.11066719936076708
+51690,Martinsville city,Retail Trade,1434.0,896.0,-538.0,-0.37517433751743373
+51199,York County,Accommodation and Food Services,3810.0,3310.0,-500.0,-0.13123359580052493
+51840,Winchester city,Retail Trade,4192.0,3694.0,-498.0,-0.11879770992366412
+51107,Loudoun County,Manufacturing,7888.0,7452.0,-436.0,-0.0552738336713996
+51053,Dinwiddie County,Administrative and Support and Waste Management,769.0,336.0,-433.0,-0.5630689206762028
+51137,Orange County,Manufacturing,1482.0,1050.0,-432.0,-0.291497975708502
+51195,Wise County,Administrative and Support and Waste Management,1084.0,680.0,-404.0,-0.3726937269372694
+51023,Botetourt County,Administrative and Support and Waste Management,1267.0,901.0,-366.0,-0.2888713496448303
+51025,Brunswick County,Administrative and Support and Waste Management,582.0,230.0,-352.0,-0.6048109965635738
+51660,Harrisonburg city,Retail Trade,4685.0,4341.0,-344.0,-0.07342582710779082
+51089,Henry County,Administrative and Support and Waste Management,1223.0,891.0,-332.0,-0.2714636140637776
+51775,Salem city,Accommodation and Food Services,1803.0,1475.0,-328.0,-0.18191902384914033
+51640,Galax city,Manufacturing,1325.0,1007.0,-318.0,-0.24
+51149,Prince George County,"Professional, Scientific, and Technical Services",592.0,275.0,-317.0,-0.535472972972973
+51630,Fredericksburg city,Retail Trade,3662.0,3349.0,-313.0,-0.08547241944292736
+51193,Westmoreland County,Manufacturing,516.0,210.0,-306.0,-0.5930232558139535
+51019,Bedford County,Wholesale Trade,1007.0,707.0,-300.0,-0.29791459781529295
+51147,Prince Edward County,Administrative and Support and Waste Management,476.0,178.0,-298.0,-0.6260504201680672
+51113,Madison County,Retail Trade,714.0,430.0,-284.0,-0.39775910364145656
+51177,Spotsylvania County,"Professional, Scientific, and Technical Services",2216.0,1935.0,-281.0,-0.12680505415162455
+51061,Fauquier County,Accommodation and Food Services,2293.0,2025.0,-268.0,-0.11687745311818579
+51187,Warren County,Administrative and Support and Waste Management,951.0,687.0,-264.0,-0.277602523659306
+51830,Williamsburg city,Retail Trade,1317.0,1054.0,-263.0,-0.19969627942293092
+51570,Colonial Heights city,Retail Trade,2904.0,2645.0,-259.0,-0.08918732782369146
+51730,Petersburg city,Other Services,802.0,549.0,-253.0,-0.31546134663341646
+51117,Mecklenburg County,Manufacturing,1036.0,789.0,-247.0,-0.2384169884169884
+51027,Buchanan County,Construction,347.0,106.0,-241.0,-0.6945244956772334
+51179,Stafford County,Accommodation and Food Services,3755.0,3529.0,-226.0,-0.06018641810918775
+51143,Pittsylvania County,Retail Trade,1116.0,899.0,-217.0,-0.19444444444444445
+51820,Waynesboro city,Manufacturing,1341.0,1124.0,-217.0,-0.16181953765846382
+51520,Bristol city,Retail Trade,1444.0,1228.0,-216.0,-0.14958448753462603
+51141,Patrick County,"Professional, Scientific, and Technical Services",285.0,77.0,-208.0,-0.7298245614035088
+51685,Manassas Park city,Construction,1272.0,1078.0,-194.0,-0.15251572327044025
+51133,Northumberland County,Manufacturing,654.0,472.0,-182.0,-0.2782874617737003
+51185,Tazewell County,Manufacturing,1222.0,1044.0,-178.0,-0.14566284779050737
+51031,Campbell County,Manufacturing,4832.0,4662.0,-170.0,-0.03518211920529801
+51600,Fairfax city,Retail Trade,3338.0,3170.0,-168.0,-0.05032953864589575
+51790,Staunton city,Manufacturing,493.0,326.0,-167.0,-0.33874239350912777
+51167,Russell County,"Professional, Scientific, and Technical Services",559.0,394.0,-165.0,-0.295169946332737
+51720,Norton city,Health Care and Social Assistance,1054.0,891.0,-163.0,-0.15464895635673626
+51750,Radford city,Accommodation and Food Services,722.0,570.0,-152.0,-0.21052631578947367
+51111,Lunenburg County,Manufacturing,442.0,290.0,-152.0,-0.3438914027149321
+51670,Hopewell city,Retail Trade,672.0,521.0,-151.0,-0.22470238095238096
+51067,Franklin County,Other Services,576.0,430.0,-146.0,-0.2534722222222222
+51047,Culpeper County,Health Care and Social Assistance,2434.0,2293.0,-141.0,-0.05792933442892358
+51620,Franklin city,Retail Trade,972.0,838.0,-134.0,-0.13786008230452676
+51163,Rockbridge County,Manufacturing,930.0,800.0,-130.0,-0.13978494623655913
+51083,Halifax County,Administrative and Support and Waste Management,353.0,224.0,-129.0,-0.3654390934844193
+51001,Accomack County,Retail Trade,1300.0,1176.0,-124.0,-0.09538461538461539
+51015,Augusta County,Accommodation and Food Services,1661.0,1542.0,-119.0,-0.0716435881998796
+51135,Nottoway County,Manufacturing,363.0,247.0,-116.0,-0.31955922865013775
+51043,Clarke County,Wholesale Trade,215.0,100.0,-115.0,-0.5348837209302325
+51119,Middlesex County,Wholesale Trade,179.0,70.0,-109.0,-0.6089385474860335
+51125,Nelson County,Manufacturing,635.0,527.0,-108.0,-0.1700787401574803
+51005,Alleghany County,Manufacturing,445.0,339.0,-106.0,-0.23820224719101124
+51183,Sussex County,Administrative and Support and Waste Management,364.0,259.0,-105.0,-0.28846153846153844
+51009,Amherst County,Transportation and Warehousing,225.0,127.0,-98.0,-0.43555555555555553
+51197,Wythe County,Construction,419.0,324.0,-95.0,-0.22673031026252982
+51097,King and Queen County,Manufacturing,141.0,47.0,-94.0,-0.6666666666666666
+51181,Surry County,Construction,167.0,74.0,-93.0,-0.5568862275449101
+51109,Louisa County,Administrative and Support and Waste Management,540.0,448.0,-92.0,-0.17037037037037037
+51115,Mathews County,Other Services,157.0,67.0,-90.0,-0.5732484076433121
+51079,Greene County,"Professional, Scientific, and Technical Services",251.0,164.0,-87.0,-0.3466135458167331
+51159,Richmond County,"Professional, Scientific, and Technical Services",126.0,40.0,-86.0,-0.6825396825396826
+51073,Gloucester County,Retail Trade,1946.0,1863.0,-83.0,-0.04265159301130524
+51065,Fluvanna County,Accommodation and Food Services,298.0,219.0,-79.0,-0.2651006711409396
+51037,Charlotte County,Transportation and Warehousing,253.0,176.0,-77.0,-0.30434782608695654
+51063,Floyd County,Administrative and Support and Waste Management,160.0,94.0,-66.0,-0.4125
+51131,Northampton County,"Agriculture, Forestry, Fishing and Hunting",797.0,733.0,-64.0,-0.08030112923462986
+51036,Charles City County,Manufacturing,195.0,132.0,-63.0,-0.3230769230769231
+51580,Covington city,Administrative and Support and Waste Management,114.0,53.0,-61.0,-0.5350877192982456
+51075,Goochland County,Transportation and Warehousing,187.0,130.0,-57.0,-0.3048128342245989
+51139,Page County,Manufacturing,678.0,621.0,-57.0,-0.084070796460177
+51099,King George County,Transportation and Warehousing,124.0,69.0,-55.0,-0.4435483870967742
+51077,Grayson County,Manufacturing,407.0,354.0,-53.0,-0.13022113022113022
+51069,Frederick County,Information,273.0,220.0,-53.0,-0.19413919413919414
+51033,Caroline County,Accommodation and Food Services,507.0,459.0,-48.0,-0.09467455621301775
+51103,Lancaster County,Finance and Insurance,246.0,201.0,-45.0,-0.18292682926829268
+51101,King William County,"Professional, Scientific, and Technical Services",153.0,108.0,-45.0,-0.29411764705882354
+51169,Scott County,Retail Trade,590.0,545.0,-45.0,-0.07627118644067797
+51683,Manassas city,Educational Services,313.0,269.0,-44.0,-0.14057507987220447
+51007,Amelia County,Wholesale Trade,160.0,117.0,-43.0,-0.26875
+51800,Suffolk city,Management of Companies and Enterprises,617.0,576.0,-41.0,-0.06645056726094004
+51029,Buckingham County,Administrative and Support and Waste Management,85.0,46.0,-39.0,-0.4588235294117647
+51057,Essex County,Finance and Insurance,111.0,76.0,-35.0,-0.3153153153153153
+51105,Lee County,Manufacturing,173.0,144.0,-29.0,-0.1676300578034682
+51049,Cumberland County,"Agriculture, Forestry, Fishing and Hunting",71.0,43.0,-28.0,-0.39436619718309857
+51595,Emporia city,Real Estate and Rental and Leasing,48.0,23.0,-25.0,-0.5208333333333334
+51157,Rappahannock County,Manufacturing,101.0,78.0,-23.0,-0.22772277227722773
+51678,Lexington city,Real Estate and Rental and Leasing,46.0,25.0,-21.0,-0.45652173913043476
+51071,Giles County,"Professional, Scientific, and Technical Services",284.0,266.0,-18.0,-0.06338028169014084
+51127,New Kent County,Wholesale Trade,90.0,72.0,-18.0,-0.2
+51045,Craig County,Retail Trade,124.0,106.0,-18.0,-0.14516129032258066
+51530,Buena Vista city,Retail Trade,153.0,136.0,-17.0,-0.1111111111111111
+51051,Dickenson County,Other Services,60.0,47.0,-13.0,-0.21666666666666667
+51011,Appomattox County,Wholesale Trade,60.0,50.0,-10.0,-0.16666666666666666
+51021,Bland County,Retail Trade,125.0,120.0,-5.0,-0.04
+51017,Bath County,Retail Trade,58.0,53.0,-5.0,-0.08620689655172414
+51175,Southampton County,Real Estate and Rental and Leasing,34.0,32.0,-2.0,-0.058823529411764705
+51145,Powhatan County,Manufacturing,268.0,267.0,-1.0,-0.0037313432835820895
+51735,Poquoson city,Retail Trade,217.0,219.0,2.0,0.009216589861751152
+51091,Highland County,Construction,39.0,47.0,8.0,0.20512820512820512

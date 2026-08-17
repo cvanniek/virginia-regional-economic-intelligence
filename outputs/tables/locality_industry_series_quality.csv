@@ -1,0 +1,2595 @@
+area_fips,locality_name,industry_code,industry_title,years_present,published_employment_years,suppressed_years,quality_category
+51001,Accomack County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51001,Accomack County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51001,Accomack County,22,Utilities,7,0,7,Limited coverage
+51001,Accomack County,23,Construction,7,7,0,Complete
+51001,Accomack County,31-33,Manufacturing,7,7,0,Complete
+51001,Accomack County,42,Wholesale Trade,7,7,0,Complete
+51001,Accomack County,44-45,Retail Trade,7,7,0,Complete
+51001,Accomack County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51001,Accomack County,51,Information,7,7,0,Complete
+51001,Accomack County,52,Finance and Insurance,7,7,0,Complete
+51001,Accomack County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51001,Accomack County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51001,Accomack County,55,Management of Companies and Enterprises,7,2,5,Limited coverage
+51001,Accomack County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51001,Accomack County,61,Educational Services,7,5,2,High coverage
+51001,Accomack County,62,Health Care and Social Assistance,7,5,2,High coverage
+51001,Accomack County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51001,Accomack County,72,Accommodation and Food Services,7,7,0,Complete
+51001,Accomack County,81,Other Services,7,7,0,Complete
+51001,Accomack County,99,Unclassified,7,7,0,Complete
+51003,Albemarle County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51003,Albemarle County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51003,Albemarle County,22,Utilities,7,7,0,Complete
+51003,Albemarle County,23,Construction,7,7,0,Complete
+51003,Albemarle County,31-33,Manufacturing,7,7,0,Complete
+51003,Albemarle County,42,Wholesale Trade,7,7,0,Complete
+51003,Albemarle County,44-45,Retail Trade,7,7,0,Complete
+51003,Albemarle County,48-49,Transportation and Warehousing,7,7,0,Complete
+51003,Albemarle County,51,Information,7,7,0,Complete
+51003,Albemarle County,52,Finance and Insurance,7,7,0,Complete
+51003,Albemarle County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51003,Albemarle County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51003,Albemarle County,55,Management of Companies and Enterprises,7,7,0,Complete
+51003,Albemarle County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51003,Albemarle County,61,Educational Services,7,7,0,Complete
+51003,Albemarle County,62,Health Care and Social Assistance,7,7,0,Complete
+51003,Albemarle County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51003,Albemarle County,72,Accommodation and Food Services,7,7,0,Complete
+51003,Albemarle County,81,Other Services,7,7,0,Complete
+51003,Albemarle County,99,Unclassified,7,7,0,Complete
+51005,Alleghany County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51005,Alleghany County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51005,Alleghany County,22,Utilities,7,0,7,Limited coverage
+51005,Alleghany County,23,Construction,7,5,2,High coverage
+51005,Alleghany County,31-33,Manufacturing,7,7,0,Complete
+51005,Alleghany County,42,Wholesale Trade,7,0,7,Limited coverage
+51005,Alleghany County,44-45,Retail Trade,7,7,0,Complete
+51005,Alleghany County,48-49,Transportation and Warehousing,7,7,0,Complete
+51005,Alleghany County,51,Information,7,1,6,Limited coverage
+51005,Alleghany County,52,Finance and Insurance,7,0,7,Limited coverage
+51005,Alleghany County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51005,Alleghany County,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51005,Alleghany County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51005,Alleghany County,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51005,Alleghany County,61,Educational Services,7,5,2,High coverage
+51005,Alleghany County,62,Health Care and Social Assistance,7,5,2,High coverage
+51005,Alleghany County,71,"Arts, Entertainment, and Recreation",7,5,2,High coverage
+51005,Alleghany County,72,Accommodation and Food Services,7,5,2,High coverage
+51005,Alleghany County,81,Other Services,7,7,0,Complete
+51005,Alleghany County,99,Unclassified,7,1,6,Limited coverage
+51007,Amelia County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51007,Amelia County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51007,Amelia County,22,Utilities,7,0,7,Limited coverage
+51007,Amelia County,23,Construction,7,7,0,Complete
+51007,Amelia County,31-33,Manufacturing,7,7,0,Complete
+51007,Amelia County,42,Wholesale Trade,7,7,0,Complete
+51007,Amelia County,44-45,Retail Trade,7,7,0,Complete
+51007,Amelia County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51007,Amelia County,51,Information,7,3,4,Moderate coverage
+51007,Amelia County,52,Finance and Insurance,7,7,0,Complete
+51007,Amelia County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51007,Amelia County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51007,Amelia County,55,Management of Companies and Enterprises,4,0,4,Limited coverage
+51007,Amelia County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51007,Amelia County,61,Educational Services,7,5,2,High coverage
+51007,Amelia County,62,Health Care and Social Assistance,7,5,2,High coverage
+51007,Amelia County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51007,Amelia County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51007,Amelia County,81,Other Services,7,7,0,Complete
+51007,Amelia County,99,Unclassified,7,3,4,Moderate coverage
+51009,Amherst County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51009,Amherst County,23,Construction,7,6,1,High coverage
+51009,Amherst County,31-33,Manufacturing,7,7,0,Complete
+51009,Amherst County,42,Wholesale Trade,7,7,0,Complete
+51009,Amherst County,44-45,Retail Trade,7,7,0,Complete
+51009,Amherst County,48-49,Transportation and Warehousing,7,7,0,Complete
+51009,Amherst County,51,Information,7,6,1,High coverage
+51009,Amherst County,52,Finance and Insurance,7,6,1,High coverage
+51009,Amherst County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51009,Amherst County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51009,Amherst County,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51009,Amherst County,56,Administrative and Support and Waste Management,7,1,6,Limited coverage
+51009,Amherst County,61,Educational Services,7,1,6,Limited coverage
+51009,Amherst County,62,Health Care and Social Assistance,7,1,6,Limited coverage
+51009,Amherst County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51009,Amherst County,72,Accommodation and Food Services,7,7,0,Complete
+51009,Amherst County,81,Other Services,7,7,0,Complete
+51009,Amherst County,99,Unclassified,7,6,1,High coverage
+51011,Appomattox County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51011,Appomattox County,21,"Mining, Quarrying, and Oil and Gas Extraction",6,0,6,Limited coverage
+51011,Appomattox County,22,Utilities,7,0,7,Limited coverage
+51011,Appomattox County,23,Construction,7,7,0,Complete
+51011,Appomattox County,31-33,Manufacturing,7,7,0,Complete
+51011,Appomattox County,42,Wholesale Trade,7,7,0,Complete
+51011,Appomattox County,44-45,Retail Trade,7,7,0,Complete
+51011,Appomattox County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51011,Appomattox County,51,Information,7,2,5,Limited coverage
+51011,Appomattox County,52,Finance and Insurance,7,7,0,Complete
+51011,Appomattox County,53,Real Estate and Rental and Leasing,7,5,2,High coverage
+51011,Appomattox County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51011,Appomattox County,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51011,Appomattox County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51011,Appomattox County,61,Educational Services,7,0,7,Limited coverage
+51011,Appomattox County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51011,Appomattox County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51011,Appomattox County,72,Accommodation and Food Services,7,7,0,Complete
+51011,Appomattox County,81,Other Services,7,7,0,Complete
+51011,Appomattox County,99,Unclassified,7,3,4,Moderate coverage
+51013,Arlington County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51013,Arlington County,21,"Mining, Quarrying, and Oil and Gas Extraction",6,0,6,Limited coverage
+51013,Arlington County,22,Utilities,7,7,0,Complete
+51013,Arlington County,23,Construction,7,7,0,Complete
+51013,Arlington County,31-33,Manufacturing,7,3,4,Moderate coverage
+51013,Arlington County,42,Wholesale Trade,7,7,0,Complete
+51013,Arlington County,44-45,Retail Trade,7,7,0,Complete
+51013,Arlington County,48-49,Transportation and Warehousing,7,7,0,Complete
+51013,Arlington County,51,Information,7,6,1,High coverage
+51013,Arlington County,52,Finance and Insurance,7,7,0,Complete
+51013,Arlington County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51013,Arlington County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51013,Arlington County,55,Management of Companies and Enterprises,7,7,0,Complete
+51013,Arlington County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51013,Arlington County,61,Educational Services,7,7,0,Complete
+51013,Arlington County,62,Health Care and Social Assistance,7,7,0,Complete
+51013,Arlington County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51013,Arlington County,72,Accommodation and Food Services,7,7,0,Complete
+51013,Arlington County,81,Other Services,7,7,0,Complete
+51013,Arlington County,99,Unclassified,7,6,1,High coverage
+51015,Augusta County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51015,Augusta County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,6,1,High coverage
+51015,Augusta County,22,Utilities,7,0,7,Limited coverage
+51015,Augusta County,23,Construction,7,7,0,Complete
+51015,Augusta County,31-33,Manufacturing,7,7,0,Complete
+51015,Augusta County,42,Wholesale Trade,7,0,7,Limited coverage
+51015,Augusta County,44-45,Retail Trade,7,7,0,Complete
+51015,Augusta County,48-49,Transportation and Warehousing,7,7,0,Complete
+51015,Augusta County,51,Information,7,7,0,Complete
+51015,Augusta County,52,Finance and Insurance,7,7,0,Complete
+51015,Augusta County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51015,Augusta County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51015,Augusta County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51015,Augusta County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51015,Augusta County,61,Educational Services,7,7,0,Complete
+51015,Augusta County,62,Health Care and Social Assistance,7,7,0,Complete
+51015,Augusta County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51015,Augusta County,72,Accommodation and Food Services,7,7,0,Complete
+51015,Augusta County,81,Other Services,7,7,0,Complete
+51015,Augusta County,99,Unclassified,7,7,0,Complete
+51017,Bath County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51017,Bath County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51017,Bath County,22,Utilities,7,0,7,Limited coverage
+51017,Bath County,23,Construction,7,6,1,High coverage
+51017,Bath County,31-33,Manufacturing,7,6,1,High coverage
+51017,Bath County,42,Wholesale Trade,6,0,6,Limited coverage
+51017,Bath County,44-45,Retail Trade,7,6,1,High coverage
+51017,Bath County,48-49,Transportation and Warehousing,5,1,4,Limited coverage
+51017,Bath County,51,Information,7,3,4,Moderate coverage
+51017,Bath County,52,Finance and Insurance,7,3,4,Moderate coverage
+51017,Bath County,53,Real Estate and Rental and Leasing,7,3,4,Moderate coverage
+51017,Bath County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51017,Bath County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51017,Bath County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51017,Bath County,61,Educational Services,6,1,5,Limited coverage
+51017,Bath County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51017,Bath County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51017,Bath County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51017,Bath County,81,Other Services,7,7,0,Complete
+51017,Bath County,99,Unclassified,7,3,4,Moderate coverage
+51019,Bedford County,11,"Agriculture, Forestry, Fishing and Hunting",7,3,4,Moderate coverage
+51019,Bedford County,21,"Mining, Quarrying, and Oil and Gas Extraction",4,0,4,Limited coverage
+51019,Bedford County,22,Utilities,7,5,2,High coverage
+51019,Bedford County,23,Construction,7,7,0,Complete
+51019,Bedford County,31-33,Manufacturing,7,7,0,Complete
+51019,Bedford County,42,Wholesale Trade,7,7,0,Complete
+51019,Bedford County,44-45,Retail Trade,7,7,0,Complete
+51019,Bedford County,48-49,Transportation and Warehousing,7,5,2,High coverage
+51019,Bedford County,51,Information,7,7,0,Complete
+51019,Bedford County,52,Finance and Insurance,7,7,0,Complete
+51019,Bedford County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51019,Bedford County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51019,Bedford County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51019,Bedford County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51019,Bedford County,61,Educational Services,7,7,0,Complete
+51019,Bedford County,62,Health Care and Social Assistance,7,7,0,Complete
+51019,Bedford County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51019,Bedford County,72,Accommodation and Food Services,7,7,0,Complete
+51019,Bedford County,81,Other Services,7,7,0,Complete
+51019,Bedford County,99,Unclassified,7,7,0,Complete
+51021,Bland County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51021,Bland County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51021,Bland County,22,Utilities,2,0,2,Limited coverage
+51021,Bland County,23,Construction,7,3,4,Moderate coverage
+51021,Bland County,31-33,Manufacturing,7,7,0,Complete
+51021,Bland County,42,Wholesale Trade,7,3,4,Moderate coverage
+51021,Bland County,44-45,Retail Trade,7,5,2,High coverage
+51021,Bland County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51021,Bland County,51,Information,3,0,3,Limited coverage
+51021,Bland County,52,Finance and Insurance,7,2,5,Limited coverage
+51021,Bland County,53,Real Estate and Rental and Leasing,4,0,4,Limited coverage
+51021,Bland County,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51021,Bland County,55,Management of Companies and Enterprises,4,0,4,Limited coverage
+51021,Bland County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51021,Bland County,61,Educational Services,7,0,7,Limited coverage
+51021,Bland County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51021,Bland County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51021,Bland County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51021,Bland County,81,Other Services,7,4,3,Moderate coverage
+51021,Bland County,99,Unclassified,7,1,6,Limited coverage
+51023,Botetourt County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51023,Botetourt County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51023,Botetourt County,22,Utilities,7,1,6,Limited coverage
+51023,Botetourt County,23,Construction,7,7,0,Complete
+51023,Botetourt County,31-33,Manufacturing,7,7,0,Complete
+51023,Botetourt County,42,Wholesale Trade,7,7,0,Complete
+51023,Botetourt County,44-45,Retail Trade,7,7,0,Complete
+51023,Botetourt County,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51023,Botetourt County,51,Information,7,7,0,Complete
+51023,Botetourt County,52,Finance and Insurance,7,7,0,Complete
+51023,Botetourt County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51023,Botetourt County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51023,Botetourt County,55,Management of Companies and Enterprises,7,7,0,Complete
+51023,Botetourt County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51023,Botetourt County,61,Educational Services,7,0,7,Limited coverage
+51023,Botetourt County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51023,Botetourt County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51023,Botetourt County,72,Accommodation and Food Services,7,7,0,Complete
+51023,Botetourt County,81,Other Services,7,7,0,Complete
+51023,Botetourt County,99,Unclassified,7,7,0,Complete
+51025,Brunswick County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51025,Brunswick County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51025,Brunswick County,22,Utilities,7,0,7,Limited coverage
+51025,Brunswick County,23,Construction,7,7,0,Complete
+51025,Brunswick County,31-33,Manufacturing,7,7,0,Complete
+51025,Brunswick County,42,Wholesale Trade,7,0,7,Limited coverage
+51025,Brunswick County,44-45,Retail Trade,7,7,0,Complete
+51025,Brunswick County,48-49,Transportation and Warehousing,7,7,0,Complete
+51025,Brunswick County,51,Information,7,4,3,Moderate coverage
+51025,Brunswick County,52,Finance and Insurance,7,6,1,High coverage
+51025,Brunswick County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51025,Brunswick County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51025,Brunswick County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51025,Brunswick County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51025,Brunswick County,61,Educational Services,7,0,7,Limited coverage
+51025,Brunswick County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51025,Brunswick County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51025,Brunswick County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51025,Brunswick County,81,Other Services,7,6,1,High coverage
+51025,Brunswick County,99,Unclassified,7,4,3,Moderate coverage
+51027,Buchanan County,11,"Agriculture, Forestry, Fishing and Hunting",7,2,5,Limited coverage
+51027,Buchanan County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,2,5,Limited coverage
+51027,Buchanan County,22,Utilities,7,0,7,Limited coverage
+51027,Buchanan County,23,Construction,7,7,0,Complete
+51027,Buchanan County,31-33,Manufacturing,7,7,0,Complete
+51027,Buchanan County,42,Wholesale Trade,7,4,3,Moderate coverage
+51027,Buchanan County,44-45,Retail Trade,7,7,0,Complete
+51027,Buchanan County,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51027,Buchanan County,51,Information,7,7,0,Complete
+51027,Buchanan County,52,Finance and Insurance,7,7,0,Complete
+51027,Buchanan County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51027,Buchanan County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51027,Buchanan County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51027,Buchanan County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51027,Buchanan County,61,Educational Services,7,7,0,Complete
+51027,Buchanan County,62,Health Care and Social Assistance,7,7,0,Complete
+51027,Buchanan County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51027,Buchanan County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51027,Buchanan County,81,Other Services,7,7,0,Complete
+51027,Buchanan County,99,Unclassified,7,7,0,Complete
+51029,Buckingham County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51029,Buckingham County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51029,Buckingham County,22,Utilities,7,0,7,Limited coverage
+51029,Buckingham County,23,Construction,7,7,0,Complete
+51029,Buckingham County,31-33,Manufacturing,7,7,0,Complete
+51029,Buckingham County,42,Wholesale Trade,7,0,7,Limited coverage
+51029,Buckingham County,44-45,Retail Trade,7,7,0,Complete
+51029,Buckingham County,48-49,Transportation and Warehousing,7,7,0,Complete
+51029,Buckingham County,51,Information,7,1,6,Limited coverage
+51029,Buckingham County,52,Finance and Insurance,7,7,0,Complete
+51029,Buckingham County,53,Real Estate and Rental and Leasing,7,5,2,High coverage
+51029,Buckingham County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51029,Buckingham County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51029,Buckingham County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51029,Buckingham County,61,Educational Services,7,7,0,Complete
+51029,Buckingham County,62,Health Care and Social Assistance,7,7,0,Complete
+51029,Buckingham County,72,Accommodation and Food Services,7,7,0,Complete
+51029,Buckingham County,81,Other Services,7,7,0,Complete
+51029,Buckingham County,99,Unclassified,7,1,6,Limited coverage
+51031,Campbell County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51031,Campbell County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51031,Campbell County,22,Utilities,7,7,0,Complete
+51031,Campbell County,23,Construction,7,7,0,Complete
+51031,Campbell County,31-33,Manufacturing,7,7,0,Complete
+51031,Campbell County,42,Wholesale Trade,7,7,0,Complete
+51031,Campbell County,44-45,Retail Trade,7,7,0,Complete
+51031,Campbell County,48-49,Transportation and Warehousing,7,7,0,Complete
+51031,Campbell County,51,Information,7,7,0,Complete
+51031,Campbell County,52,Finance and Insurance,7,7,0,Complete
+51031,Campbell County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51031,Campbell County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51031,Campbell County,55,Management of Companies and Enterprises,7,7,0,Complete
+51031,Campbell County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51031,Campbell County,61,Educational Services,7,6,1,High coverage
+51031,Campbell County,62,Health Care and Social Assistance,7,6,1,High coverage
+51031,Campbell County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51031,Campbell County,72,Accommodation and Food Services,7,7,0,Complete
+51031,Campbell County,81,Other Services,7,7,0,Complete
+51031,Campbell County,99,Unclassified,7,7,0,Complete
+51033,Caroline County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51033,Caroline County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51033,Caroline County,22,Utilities,7,7,0,Complete
+51033,Caroline County,23,Construction,7,7,0,Complete
+51033,Caroline County,31-33,Manufacturing,7,6,1,High coverage
+51033,Caroline County,42,Wholesale Trade,7,7,0,Complete
+51033,Caroline County,44-45,Retail Trade,7,7,0,Complete
+51033,Caroline County,48-49,Transportation and Warehousing,7,7,0,Complete
+51033,Caroline County,51,Information,7,5,2,High coverage
+51033,Caroline County,52,Finance and Insurance,7,6,1,High coverage
+51033,Caroline County,53,Real Estate and Rental and Leasing,7,5,2,High coverage
+51033,Caroline County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51033,Caroline County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51033,Caroline County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51033,Caroline County,61,Educational Services,7,0,7,Limited coverage
+51033,Caroline County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51033,Caroline County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51033,Caroline County,72,Accommodation and Food Services,7,7,0,Complete
+51033,Caroline County,81,Other Services,7,7,0,Complete
+51033,Caroline County,99,Unclassified,7,6,1,High coverage
+51035,Carroll County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51035,Carroll County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51035,Carroll County,22,Utilities,7,0,7,Limited coverage
+51035,Carroll County,23,Construction,7,7,0,Complete
+51035,Carroll County,31-33,Manufacturing,7,7,0,Complete
+51035,Carroll County,42,Wholesale Trade,7,6,1,High coverage
+51035,Carroll County,44-45,Retail Trade,7,7,0,Complete
+51035,Carroll County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51035,Carroll County,51,Information,7,2,5,Limited coverage
+51035,Carroll County,52,Finance and Insurance,7,7,0,Complete
+51035,Carroll County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51035,Carroll County,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51035,Carroll County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51035,Carroll County,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51035,Carroll County,61,Educational Services,7,0,7,Limited coverage
+51035,Carroll County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51035,Carroll County,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51035,Carroll County,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51035,Carroll County,81,Other Services,7,7,0,Complete
+51035,Carroll County,99,Unclassified,7,2,5,Limited coverage
+51036,Charles City County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51036,Charles City County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51036,Charles City County,22,Utilities,7,0,7,Limited coverage
+51036,Charles City County,23,Construction,7,7,0,Complete
+51036,Charles City County,31-33,Manufacturing,7,7,0,Complete
+51036,Charles City County,42,Wholesale Trade,7,6,1,High coverage
+51036,Charles City County,44-45,Retail Trade,7,0,7,Limited coverage
+51036,Charles City County,48-49,Transportation and Warehousing,7,7,0,Complete
+51036,Charles City County,51,Information,7,0,7,Limited coverage
+51036,Charles City County,52,Finance and Insurance,7,0,7,Limited coverage
+51036,Charles City County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51036,Charles City County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51036,Charles City County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51036,Charles City County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51036,Charles City County,61,Educational Services,7,0,7,Limited coverage
+51036,Charles City County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51036,Charles City County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51036,Charles City County,72,Accommodation and Food Services,7,7,0,Complete
+51036,Charles City County,81,Other Services,7,6,1,High coverage
+51036,Charles City County,99,Unclassified,7,0,7,Limited coverage
+51037,Charlotte County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51037,Charlotte County,21,"Mining, Quarrying, and Oil and Gas Extraction",3,0,3,Limited coverage
+51037,Charlotte County,23,Construction,7,7,0,Complete
+51037,Charlotte County,31-33,Manufacturing,7,7,0,Complete
+51037,Charlotte County,42,Wholesale Trade,7,7,0,Complete
+51037,Charlotte County,44-45,Retail Trade,7,7,0,Complete
+51037,Charlotte County,48-49,Transportation and Warehousing,7,7,0,Complete
+51037,Charlotte County,51,Information,7,4,3,Moderate coverage
+51037,Charlotte County,52,Finance and Insurance,7,7,0,Complete
+51037,Charlotte County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51037,Charlotte County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51037,Charlotte County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51037,Charlotte County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51037,Charlotte County,61,Educational Services,4,1,3,Limited coverage
+51037,Charlotte County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51037,Charlotte County,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51037,Charlotte County,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51037,Charlotte County,81,Other Services,7,7,0,Complete
+51037,Charlotte County,99,Unclassified,7,4,3,Moderate coverage
+51041,Chesterfield County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51041,Chesterfield County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,5,2,High coverage
+51041,Chesterfield County,22,Utilities,7,7,0,Complete
+51041,Chesterfield County,23,Construction,7,7,0,Complete
+51041,Chesterfield County,31-33,Manufacturing,7,7,0,Complete
+51041,Chesterfield County,42,Wholesale Trade,7,7,0,Complete
+51041,Chesterfield County,44-45,Retail Trade,7,7,0,Complete
+51041,Chesterfield County,48-49,Transportation and Warehousing,7,7,0,Complete
+51041,Chesterfield County,51,Information,7,7,0,Complete
+51041,Chesterfield County,52,Finance and Insurance,7,7,0,Complete
+51041,Chesterfield County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51041,Chesterfield County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51041,Chesterfield County,55,Management of Companies and Enterprises,7,7,0,Complete
+51041,Chesterfield County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51041,Chesterfield County,61,Educational Services,7,7,0,Complete
+51041,Chesterfield County,62,Health Care and Social Assistance,7,7,0,Complete
+51041,Chesterfield County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51041,Chesterfield County,72,Accommodation and Food Services,7,7,0,Complete
+51041,Chesterfield County,81,Other Services,7,7,0,Complete
+51041,Chesterfield County,99,Unclassified,7,7,0,Complete
+51043,Clarke County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51043,Clarke County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51043,Clarke County,22,Utilities,1,0,1,Limited coverage
+51043,Clarke County,23,Construction,7,7,0,Complete
+51043,Clarke County,31-33,Manufacturing,7,7,0,Complete
+51043,Clarke County,42,Wholesale Trade,7,7,0,Complete
+51043,Clarke County,44-45,Retail Trade,7,7,0,Complete
+51043,Clarke County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51043,Clarke County,51,Information,7,7,0,Complete
+51043,Clarke County,52,Finance and Insurance,7,7,0,Complete
+51043,Clarke County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51043,Clarke County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51043,Clarke County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51043,Clarke County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51043,Clarke County,61,Educational Services,7,7,0,Complete
+51043,Clarke County,62,Health Care and Social Assistance,7,7,0,Complete
+51043,Clarke County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51043,Clarke County,72,Accommodation and Food Services,7,7,0,Complete
+51043,Clarke County,81,Other Services,7,7,0,Complete
+51043,Clarke County,99,Unclassified,7,7,0,Complete
+51045,Craig County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51045,Craig County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51045,Craig County,22,Utilities,7,0,7,Limited coverage
+51045,Craig County,23,Construction,7,2,5,Limited coverage
+51045,Craig County,31-33,Manufacturing,7,0,7,Limited coverage
+51045,Craig County,42,Wholesale Trade,7,0,7,Limited coverage
+51045,Craig County,44-45,Retail Trade,7,7,0,Complete
+51045,Craig County,48-49,Transportation and Warehousing,4,0,4,Limited coverage
+51045,Craig County,51,Information,7,0,7,Limited coverage
+51045,Craig County,52,Finance and Insurance,7,0,7,Limited coverage
+51045,Craig County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51045,Craig County,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51045,Craig County,55,Management of Companies and Enterprises,2,0,2,Limited coverage
+51045,Craig County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51045,Craig County,61,Educational Services,7,0,7,Limited coverage
+51045,Craig County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51045,Craig County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51045,Craig County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51045,Craig County,81,Other Services,7,5,2,High coverage
+51045,Craig County,99,Unclassified,7,0,7,Limited coverage
+51047,Culpeper County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51047,Culpeper County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,6,1,High coverage
+51047,Culpeper County,22,Utilities,7,0,7,Limited coverage
+51047,Culpeper County,23,Construction,7,6,1,High coverage
+51047,Culpeper County,31-33,Manufacturing,7,7,0,Complete
+51047,Culpeper County,42,Wholesale Trade,7,7,0,Complete
+51047,Culpeper County,44-45,Retail Trade,7,7,0,Complete
+51047,Culpeper County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51047,Culpeper County,51,Information,7,6,1,High coverage
+51047,Culpeper County,52,Finance and Insurance,7,7,0,Complete
+51047,Culpeper County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51047,Culpeper County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51047,Culpeper County,55,Management of Companies and Enterprises,7,7,0,Complete
+51047,Culpeper County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51047,Culpeper County,61,Educational Services,7,7,0,Complete
+51047,Culpeper County,62,Health Care and Social Assistance,7,7,0,Complete
+51047,Culpeper County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51047,Culpeper County,72,Accommodation and Food Services,7,7,0,Complete
+51047,Culpeper County,81,Other Services,7,7,0,Complete
+51047,Culpeper County,99,Unclassified,7,6,1,High coverage
+51049,Cumberland County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51049,Cumberland County,22,Utilities,3,0,3,Limited coverage
+51049,Cumberland County,23,Construction,7,7,0,Complete
+51049,Cumberland County,31-33,Manufacturing,7,7,0,Complete
+51049,Cumberland County,42,Wholesale Trade,7,1,6,Limited coverage
+51049,Cumberland County,44-45,Retail Trade,7,7,0,Complete
+51049,Cumberland County,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51049,Cumberland County,51,Information,6,1,5,Limited coverage
+51049,Cumberland County,52,Finance and Insurance,7,3,4,Moderate coverage
+51049,Cumberland County,53,Real Estate and Rental and Leasing,4,0,4,Limited coverage
+51049,Cumberland County,54,"Professional, Scientific, and Technical Services",7,2,5,Limited coverage
+51049,Cumberland County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51049,Cumberland County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51049,Cumberland County,61,Educational Services,7,0,7,Limited coverage
+51049,Cumberland County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51049,Cumberland County,72,Accommodation and Food Services,7,6,1,High coverage
+51049,Cumberland County,81,Other Services,7,7,0,Complete
+51049,Cumberland County,99,Unclassified,7,5,2,High coverage
+51051,Dickenson County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51051,Dickenson County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,4,3,Moderate coverage
+51051,Dickenson County,23,Construction,7,6,1,High coverage
+51051,Dickenson County,31-33,Manufacturing,7,6,1,High coverage
+51051,Dickenson County,42,Wholesale Trade,7,5,2,High coverage
+51051,Dickenson County,44-45,Retail Trade,7,7,0,Complete
+51051,Dickenson County,48-49,Transportation and Warehousing,7,5,2,High coverage
+51051,Dickenson County,51,Information,7,5,2,High coverage
+51051,Dickenson County,52,Finance and Insurance,7,1,6,Limited coverage
+51051,Dickenson County,53,Real Estate and Rental and Leasing,5,0,5,Limited coverage
+51051,Dickenson County,54,"Professional, Scientific, and Technical Services",7,4,3,Moderate coverage
+51051,Dickenson County,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51051,Dickenson County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51051,Dickenson County,61,Educational Services,3,0,3,Limited coverage
+51051,Dickenson County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51051,Dickenson County,71,"Arts, Entertainment, and Recreation",5,0,5,Limited coverage
+51051,Dickenson County,72,Accommodation and Food Services,7,1,6,Limited coverage
+51051,Dickenson County,81,Other Services,7,7,0,Complete
+51051,Dickenson County,99,Unclassified,7,4,3,Moderate coverage
+51053,Dinwiddie County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51053,Dinwiddie County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51053,Dinwiddie County,22,Utilities,7,0,7,Limited coverage
+51053,Dinwiddie County,23,Construction,7,6,1,High coverage
+51053,Dinwiddie County,31-33,Manufacturing,7,7,0,Complete
+51053,Dinwiddie County,42,Wholesale Trade,7,0,7,Limited coverage
+51053,Dinwiddie County,44-45,Retail Trade,7,7,0,Complete
+51053,Dinwiddie County,48-49,Transportation and Warehousing,7,7,0,Complete
+51053,Dinwiddie County,51,Information,4,0,4,Limited coverage
+51053,Dinwiddie County,52,Finance and Insurance,7,6,1,High coverage
+51053,Dinwiddie County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51053,Dinwiddie County,54,"Professional, Scientific, and Technical Services",7,1,6,Limited coverage
+51053,Dinwiddie County,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51053,Dinwiddie County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51053,Dinwiddie County,61,Educational Services,7,4,3,Moderate coverage
+51053,Dinwiddie County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51053,Dinwiddie County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51053,Dinwiddie County,72,Accommodation and Food Services,7,7,0,Complete
+51053,Dinwiddie County,81,Other Services,7,7,0,Complete
+51053,Dinwiddie County,99,Unclassified,7,3,4,Moderate coverage
+51057,Essex County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51057,Essex County,23,Construction,7,6,1,High coverage
+51057,Essex County,31-33,Manufacturing,7,7,0,Complete
+51057,Essex County,42,Wholesale Trade,7,7,0,Complete
+51057,Essex County,44-45,Retail Trade,7,7,0,Complete
+51057,Essex County,48-49,Transportation and Warehousing,7,7,0,Complete
+51057,Essex County,51,Information,7,4,3,Moderate coverage
+51057,Essex County,52,Finance and Insurance,7,7,0,Complete
+51057,Essex County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51057,Essex County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51057,Essex County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51057,Essex County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51057,Essex County,61,Educational Services,7,0,7,Limited coverage
+51057,Essex County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51057,Essex County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51057,Essex County,72,Accommodation and Food Services,7,7,0,Complete
+51057,Essex County,81,Other Services,7,7,0,Complete
+51057,Essex County,99,Unclassified,7,4,3,Moderate coverage
+51059,Fairfax County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51059,Fairfax County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51059,Fairfax County,22,Utilities,7,7,0,Complete
+51059,Fairfax County,23,Construction,7,7,0,Complete
+51059,Fairfax County,31-33,Manufacturing,7,7,0,Complete
+51059,Fairfax County,42,Wholesale Trade,7,7,0,Complete
+51059,Fairfax County,44-45,Retail Trade,7,7,0,Complete
+51059,Fairfax County,48-49,Transportation and Warehousing,7,7,0,Complete
+51059,Fairfax County,51,Information,7,7,0,Complete
+51059,Fairfax County,52,Finance and Insurance,7,7,0,Complete
+51059,Fairfax County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51059,Fairfax County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51059,Fairfax County,55,Management of Companies and Enterprises,7,7,0,Complete
+51059,Fairfax County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51059,Fairfax County,61,Educational Services,7,7,0,Complete
+51059,Fairfax County,62,Health Care and Social Assistance,7,7,0,Complete
+51059,Fairfax County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51059,Fairfax County,72,Accommodation and Food Services,7,7,0,Complete
+51059,Fairfax County,81,Other Services,7,7,0,Complete
+51059,Fairfax County,99,Unclassified,7,7,0,Complete
+51061,Fauquier County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51061,Fauquier County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51061,Fauquier County,22,Utilities,7,7,0,Complete
+51061,Fauquier County,23,Construction,7,7,0,Complete
+51061,Fauquier County,31-33,Manufacturing,7,6,1,High coverage
+51061,Fauquier County,42,Wholesale Trade,7,7,0,Complete
+51061,Fauquier County,44-45,Retail Trade,7,7,0,Complete
+51061,Fauquier County,48-49,Transportation and Warehousing,7,7,0,Complete
+51061,Fauquier County,51,Information,7,6,1,High coverage
+51061,Fauquier County,52,Finance and Insurance,7,7,0,Complete
+51061,Fauquier County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51061,Fauquier County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51061,Fauquier County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51061,Fauquier County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51061,Fauquier County,61,Educational Services,7,7,0,Complete
+51061,Fauquier County,62,Health Care and Social Assistance,7,7,0,Complete
+51061,Fauquier County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51061,Fauquier County,72,Accommodation and Food Services,7,7,0,Complete
+51061,Fauquier County,81,Other Services,7,7,0,Complete
+51061,Fauquier County,99,Unclassified,7,6,1,High coverage
+51063,Floyd County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51063,Floyd County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51063,Floyd County,23,Construction,7,6,1,High coverage
+51063,Floyd County,31-33,Manufacturing,7,7,0,Complete
+51063,Floyd County,42,Wholesale Trade,7,7,0,Complete
+51063,Floyd County,44-45,Retail Trade,7,7,0,Complete
+51063,Floyd County,48-49,Transportation and Warehousing,7,7,0,Complete
+51063,Floyd County,51,Information,7,1,6,Limited coverage
+51063,Floyd County,52,Finance and Insurance,7,6,1,High coverage
+51063,Floyd County,53,Real Estate and Rental and Leasing,7,5,2,High coverage
+51063,Floyd County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51063,Floyd County,55,Management of Companies and Enterprises,1,0,1,Limited coverage
+51063,Floyd County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51063,Floyd County,61,Educational Services,7,7,0,Complete
+51063,Floyd County,62,Health Care and Social Assistance,7,7,0,Complete
+51063,Floyd County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51063,Floyd County,72,Accommodation and Food Services,7,7,0,Complete
+51063,Floyd County,81,Other Services,7,7,0,Complete
+51063,Floyd County,99,Unclassified,7,1,6,Limited coverage
+51065,Fluvanna County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51065,Fluvanna County,21,"Mining, Quarrying, and Oil and Gas Extraction",3,0,3,Limited coverage
+51065,Fluvanna County,22,Utilities,7,3,4,Moderate coverage
+51065,Fluvanna County,23,Construction,7,7,0,Complete
+51065,Fluvanna County,31-33,Manufacturing,7,7,0,Complete
+51065,Fluvanna County,42,Wholesale Trade,7,4,3,Moderate coverage
+51065,Fluvanna County,44-45,Retail Trade,7,7,0,Complete
+51065,Fluvanna County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51065,Fluvanna County,51,Information,7,7,0,Complete
+51065,Fluvanna County,52,Finance and Insurance,7,7,0,Complete
+51065,Fluvanna County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51065,Fluvanna County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51065,Fluvanna County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51065,Fluvanna County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51065,Fluvanna County,61,Educational Services,7,7,0,Complete
+51065,Fluvanna County,62,Health Care and Social Assistance,7,7,0,Complete
+51065,Fluvanna County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51065,Fluvanna County,72,Accommodation and Food Services,7,7,0,Complete
+51065,Fluvanna County,81,Other Services,7,7,0,Complete
+51065,Fluvanna County,99,Unclassified,7,7,0,Complete
+51067,Franklin County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51067,Franklin County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,1,6,Limited coverage
+51067,Franklin County,22,Utilities,7,0,7,Limited coverage
+51067,Franklin County,23,Construction,7,7,0,Complete
+51067,Franklin County,31-33,Manufacturing,7,7,0,Complete
+51067,Franklin County,42,Wholesale Trade,7,7,0,Complete
+51067,Franklin County,44-45,Retail Trade,7,7,0,Complete
+51067,Franklin County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51067,Franklin County,51,Information,7,7,0,Complete
+51067,Franklin County,52,Finance and Insurance,7,7,0,Complete
+51067,Franklin County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51067,Franklin County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51067,Franklin County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51067,Franklin County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51067,Franklin County,61,Educational Services,7,6,1,High coverage
+51067,Franklin County,62,Health Care and Social Assistance,7,6,1,High coverage
+51067,Franklin County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51067,Franklin County,72,Accommodation and Food Services,7,7,0,Complete
+51067,Franklin County,81,Other Services,7,7,0,Complete
+51067,Franklin County,99,Unclassified,7,7,0,Complete
+51069,Frederick County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51069,Frederick County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51069,Frederick County,22,Utilities,7,3,4,Moderate coverage
+51069,Frederick County,23,Construction,7,7,0,Complete
+51069,Frederick County,31-33,Manufacturing,7,7,0,Complete
+51069,Frederick County,42,Wholesale Trade,7,3,4,Moderate coverage
+51069,Frederick County,44-45,Retail Trade,7,7,0,Complete
+51069,Frederick County,48-49,Transportation and Warehousing,7,7,0,Complete
+51069,Frederick County,51,Information,7,7,0,Complete
+51069,Frederick County,52,Finance and Insurance,7,7,0,Complete
+51069,Frederick County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51069,Frederick County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51069,Frederick County,55,Management of Companies and Enterprises,7,7,0,Complete
+51069,Frederick County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51069,Frederick County,61,Educational Services,7,7,0,Complete
+51069,Frederick County,62,Health Care and Social Assistance,7,7,0,Complete
+51069,Frederick County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51069,Frederick County,72,Accommodation and Food Services,7,7,0,Complete
+51069,Frederick County,81,Other Services,7,7,0,Complete
+51069,Frederick County,99,Unclassified,7,7,0,Complete
+51071,Giles County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51071,Giles County,21,"Mining, Quarrying, and Oil and Gas Extraction",4,0,4,Limited coverage
+51071,Giles County,22,Utilities,7,0,7,Limited coverage
+51071,Giles County,23,Construction,7,2,5,Limited coverage
+51071,Giles County,31-33,Manufacturing,7,4,3,Moderate coverage
+51071,Giles County,42,Wholesale Trade,7,0,7,Limited coverage
+51071,Giles County,44-45,Retail Trade,7,7,0,Complete
+51071,Giles County,48-49,Transportation and Warehousing,7,7,0,Complete
+51071,Giles County,51,Information,7,6,1,High coverage
+51071,Giles County,52,Finance and Insurance,7,7,0,Complete
+51071,Giles County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51071,Giles County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51071,Giles County,55,Management of Companies and Enterprises,7,2,5,Limited coverage
+51071,Giles County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51071,Giles County,61,Educational Services,4,0,4,Limited coverage
+51071,Giles County,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51071,Giles County,71,"Arts, Entertainment, and Recreation",7,5,2,High coverage
+51071,Giles County,72,Accommodation and Food Services,7,5,2,High coverage
+51071,Giles County,81,Other Services,7,7,0,Complete
+51071,Giles County,99,Unclassified,7,6,1,High coverage
+51073,Gloucester County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51073,Gloucester County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51073,Gloucester County,22,Utilities,7,0,7,Limited coverage
+51073,Gloucester County,23,Construction,7,7,0,Complete
+51073,Gloucester County,31-33,Manufacturing,7,7,0,Complete
+51073,Gloucester County,42,Wholesale Trade,7,0,7,Limited coverage
+51073,Gloucester County,44-45,Retail Trade,7,7,0,Complete
+51073,Gloucester County,48-49,Transportation and Warehousing,7,7,0,Complete
+51073,Gloucester County,51,Information,7,7,0,Complete
+51073,Gloucester County,52,Finance and Insurance,7,7,0,Complete
+51073,Gloucester County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51073,Gloucester County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51073,Gloucester County,55,Management of Companies and Enterprises,7,4,3,Moderate coverage
+51073,Gloucester County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51073,Gloucester County,61,Educational Services,7,7,0,Complete
+51073,Gloucester County,62,Health Care and Social Assistance,7,7,0,Complete
+51073,Gloucester County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51073,Gloucester County,72,Accommodation and Food Services,7,7,0,Complete
+51073,Gloucester County,81,Other Services,7,7,0,Complete
+51073,Gloucester County,99,Unclassified,7,7,0,Complete
+51075,Goochland County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51075,Goochland County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51075,Goochland County,23,Construction,7,7,0,Complete
+51075,Goochland County,31-33,Manufacturing,7,6,1,High coverage
+51075,Goochland County,42,Wholesale Trade,7,7,0,Complete
+51075,Goochland County,44-45,Retail Trade,7,7,0,Complete
+51075,Goochland County,48-49,Transportation and Warehousing,7,7,0,Complete
+51075,Goochland County,51,Information,7,3,4,Moderate coverage
+51075,Goochland County,52,Finance and Insurance,7,0,7,Limited coverage
+51075,Goochland County,53,Real Estate and Rental and Leasing,7,4,3,Moderate coverage
+51075,Goochland County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51075,Goochland County,55,Management of Companies and Enterprises,7,7,0,Complete
+51075,Goochland County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51075,Goochland County,61,Educational Services,7,7,0,Complete
+51075,Goochland County,62,Health Care and Social Assistance,7,7,0,Complete
+51075,Goochland County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51075,Goochland County,72,Accommodation and Food Services,7,7,0,Complete
+51075,Goochland County,81,Other Services,7,7,0,Complete
+51075,Goochland County,99,Unclassified,7,5,2,High coverage
+51077,Grayson County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51077,Grayson County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51077,Grayson County,22,Utilities,7,0,7,Limited coverage
+51077,Grayson County,23,Construction,7,6,1,High coverage
+51077,Grayson County,31-33,Manufacturing,7,7,0,Complete
+51077,Grayson County,42,Wholesale Trade,7,6,1,High coverage
+51077,Grayson County,44-45,Retail Trade,7,7,0,Complete
+51077,Grayson County,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51077,Grayson County,51,Information,7,0,7,Limited coverage
+51077,Grayson County,52,Finance and Insurance,7,7,0,Complete
+51077,Grayson County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51077,Grayson County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51077,Grayson County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51077,Grayson County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51077,Grayson County,61,Educational Services,7,0,7,Limited coverage
+51077,Grayson County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51077,Grayson County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51077,Grayson County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51077,Grayson County,81,Other Services,7,6,1,High coverage
+51077,Grayson County,99,Unclassified,7,0,7,Limited coverage
+51079,Greene County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51079,Greene County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51079,Greene County,22,Utilities,7,0,7,Limited coverage
+51079,Greene County,23,Construction,7,7,0,Complete
+51079,Greene County,31-33,Manufacturing,7,7,0,Complete
+51079,Greene County,42,Wholesale Trade,7,4,3,Moderate coverage
+51079,Greene County,44-45,Retail Trade,7,7,0,Complete
+51079,Greene County,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51079,Greene County,51,Information,7,7,0,Complete
+51079,Greene County,52,Finance and Insurance,7,7,0,Complete
+51079,Greene County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51079,Greene County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51079,Greene County,55,Management of Companies and Enterprises,5,0,5,Limited coverage
+51079,Greene County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51079,Greene County,61,Educational Services,7,0,7,Limited coverage
+51079,Greene County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51079,Greene County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51079,Greene County,72,Accommodation and Food Services,7,7,0,Complete
+51079,Greene County,81,Other Services,7,7,0,Complete
+51079,Greene County,99,Unclassified,7,7,0,Complete
+51081,Greensville County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51081,Greensville County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51081,Greensville County,22,Utilities,7,0,7,Limited coverage
+51081,Greensville County,23,Construction,7,7,0,Complete
+51081,Greensville County,31-33,Manufacturing,7,7,0,Complete
+51081,Greensville County,42,Wholesale Trade,7,0,7,Limited coverage
+51081,Greensville County,44-45,Retail Trade,7,7,0,Complete
+51081,Greensville County,48-49,Transportation and Warehousing,7,7,0,Complete
+51081,Greensville County,51,Information,4,0,4,Limited coverage
+51081,Greensville County,52,Finance and Insurance,7,0,7,Limited coverage
+51081,Greensville County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51081,Greensville County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51081,Greensville County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51081,Greensville County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51081,Greensville County,61,Educational Services,4,0,4,Limited coverage
+51081,Greensville County,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51081,Greensville County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51081,Greensville County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51081,Greensville County,81,Other Services,7,6,1,High coverage
+51081,Greensville County,99,Unclassified,7,3,4,Moderate coverage
+51083,Halifax County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51083,Halifax County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51083,Halifax County,22,Utilities,7,0,7,Limited coverage
+51083,Halifax County,23,Construction,7,7,0,Complete
+51083,Halifax County,31-33,Manufacturing,7,7,0,Complete
+51083,Halifax County,42,Wholesale Trade,7,0,7,Limited coverage
+51083,Halifax County,44-45,Retail Trade,7,7,0,Complete
+51083,Halifax County,48-49,Transportation and Warehousing,7,7,0,Complete
+51083,Halifax County,51,Information,7,6,1,High coverage
+51083,Halifax County,52,Finance and Insurance,7,7,0,Complete
+51083,Halifax County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51083,Halifax County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51083,Halifax County,55,Management of Companies and Enterprises,7,7,0,Complete
+51083,Halifax County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51083,Halifax County,61,Educational Services,7,0,7,Limited coverage
+51083,Halifax County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51083,Halifax County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51083,Halifax County,72,Accommodation and Food Services,7,7,0,Complete
+51083,Halifax County,81,Other Services,7,7,0,Complete
+51083,Halifax County,99,Unclassified,7,6,1,High coverage
+51085,Hanover County,11,"Agriculture, Forestry, Fishing and Hunting",7,3,4,Moderate coverage
+51085,Hanover County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,3,4,Moderate coverage
+51085,Hanover County,22,Utilities,7,6,1,High coverage
+51085,Hanover County,23,Construction,7,7,0,Complete
+51085,Hanover County,31-33,Manufacturing,7,7,0,Complete
+51085,Hanover County,42,Wholesale Trade,7,6,1,High coverage
+51085,Hanover County,44-45,Retail Trade,7,7,0,Complete
+51085,Hanover County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51085,Hanover County,51,Information,7,7,0,Complete
+51085,Hanover County,52,Finance and Insurance,7,7,0,Complete
+51085,Hanover County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51085,Hanover County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51085,Hanover County,55,Management of Companies and Enterprises,7,7,0,Complete
+51085,Hanover County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51085,Hanover County,61,Educational Services,7,7,0,Complete
+51085,Hanover County,62,Health Care and Social Assistance,7,7,0,Complete
+51085,Hanover County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51085,Hanover County,72,Accommodation and Food Services,7,7,0,Complete
+51085,Hanover County,81,Other Services,7,7,0,Complete
+51085,Hanover County,99,Unclassified,7,7,0,Complete
+51087,Henrico County,11,"Agriculture, Forestry, Fishing and Hunting",7,3,4,Moderate coverage
+51087,Henrico County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,3,4,Moderate coverage
+51087,Henrico County,22,Utilities,7,7,0,Complete
+51087,Henrico County,23,Construction,7,7,0,Complete
+51087,Henrico County,31-33,Manufacturing,7,6,1,High coverage
+51087,Henrico County,42,Wholesale Trade,7,7,0,Complete
+51087,Henrico County,44-45,Retail Trade,7,7,0,Complete
+51087,Henrico County,48-49,Transportation and Warehousing,7,7,0,Complete
+51087,Henrico County,51,Information,7,6,1,High coverage
+51087,Henrico County,52,Finance and Insurance,7,7,0,Complete
+51087,Henrico County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51087,Henrico County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51087,Henrico County,55,Management of Companies and Enterprises,7,7,0,Complete
+51087,Henrico County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51087,Henrico County,61,Educational Services,7,7,0,Complete
+51087,Henrico County,62,Health Care and Social Assistance,7,7,0,Complete
+51087,Henrico County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51087,Henrico County,72,Accommodation and Food Services,7,7,0,Complete
+51087,Henrico County,81,Other Services,7,7,0,Complete
+51087,Henrico County,99,Unclassified,7,6,1,High coverage
+51089,Henry County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51089,Henry County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51089,Henry County,22,Utilities,7,0,7,Limited coverage
+51089,Henry County,23,Construction,7,7,0,Complete
+51089,Henry County,31-33,Manufacturing,7,7,0,Complete
+51089,Henry County,42,Wholesale Trade,7,0,7,Limited coverage
+51089,Henry County,44-45,Retail Trade,7,7,0,Complete
+51089,Henry County,48-49,Transportation and Warehousing,7,7,0,Complete
+51089,Henry County,51,Information,7,7,0,Complete
+51089,Henry County,52,Finance and Insurance,7,7,0,Complete
+51089,Henry County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51089,Henry County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51089,Henry County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51089,Henry County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51089,Henry County,61,Educational Services,7,5,2,High coverage
+51089,Henry County,62,Health Care and Social Assistance,7,5,2,High coverage
+51089,Henry County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51089,Henry County,72,Accommodation and Food Services,7,7,0,Complete
+51089,Henry County,81,Other Services,7,7,0,Complete
+51089,Henry County,99,Unclassified,7,7,0,Complete
+51091,Highland County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51091,Highland County,23,Construction,7,7,0,Complete
+51091,Highland County,31-33,Manufacturing,7,6,1,High coverage
+51091,Highland County,42,Wholesale Trade,7,0,7,Limited coverage
+51091,Highland County,44-45,Retail Trade,7,6,1,High coverage
+51091,Highland County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51091,Highland County,51,Information,7,2,5,Limited coverage
+51091,Highland County,52,Finance and Insurance,7,1,6,Limited coverage
+51091,Highland County,53,Real Estate and Rental and Leasing,7,1,6,Limited coverage
+51091,Highland County,54,"Professional, Scientific, and Technical Services",7,4,3,Moderate coverage
+51091,Highland County,55,Management of Companies and Enterprises,2,0,2,Limited coverage
+51091,Highland County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51091,Highland County,61,Educational Services,7,1,6,Limited coverage
+51091,Highland County,62,Health Care and Social Assistance,7,1,6,Limited coverage
+51091,Highland County,71,"Arts, Entertainment, and Recreation",2,0,2,Limited coverage
+51091,Highland County,72,Accommodation and Food Services,6,1,5,Limited coverage
+51091,Highland County,81,Other Services,7,6,1,High coverage
+51091,Highland County,99,Unclassified,7,4,3,Moderate coverage
+51093,Isle of Wight County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51093,Isle of Wight County,21,"Mining, Quarrying, and Oil and Gas Extraction",6,0,6,Limited coverage
+51093,Isle of Wight County,22,Utilities,7,0,7,Limited coverage
+51093,Isle of Wight County,23,Construction,7,7,0,Complete
+51093,Isle of Wight County,31-33,Manufacturing,7,7,0,Complete
+51093,Isle of Wight County,42,Wholesale Trade,7,0,7,Limited coverage
+51093,Isle of Wight County,44-45,Retail Trade,7,7,0,Complete
+51093,Isle of Wight County,48-49,Transportation and Warehousing,7,7,0,Complete
+51093,Isle of Wight County,51,Information,7,7,0,Complete
+51093,Isle of Wight County,52,Finance and Insurance,7,6,1,High coverage
+51093,Isle of Wight County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51093,Isle of Wight County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51093,Isle of Wight County,55,Management of Companies and Enterprises,7,7,0,Complete
+51093,Isle of Wight County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51093,Isle of Wight County,61,Educational Services,7,2,5,Limited coverage
+51093,Isle of Wight County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51093,Isle of Wight County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51093,Isle of Wight County,72,Accommodation and Food Services,7,7,0,Complete
+51093,Isle of Wight County,81,Other Services,7,7,0,Complete
+51093,Isle of Wight County,99,Unclassified,7,7,0,Complete
+51095,James City County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51095,James City County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51095,James City County,22,Utilities,7,0,7,Limited coverage
+51095,James City County,23,Construction,7,7,0,Complete
+51095,James City County,31-33,Manufacturing,7,7,0,Complete
+51095,James City County,42,Wholesale Trade,7,0,7,Limited coverage
+51095,James City County,44-45,Retail Trade,7,7,0,Complete
+51095,James City County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51095,James City County,51,Information,7,7,0,Complete
+51095,James City County,52,Finance and Insurance,7,7,0,Complete
+51095,James City County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51095,James City County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51095,James City County,55,Management of Companies and Enterprises,7,7,0,Complete
+51095,James City County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51095,James City County,61,Educational Services,7,7,0,Complete
+51095,James City County,62,Health Care and Social Assistance,7,7,0,Complete
+51095,James City County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51095,James City County,72,Accommodation and Food Services,7,7,0,Complete
+51095,James City County,81,Other Services,7,7,0,Complete
+51095,James City County,99,Unclassified,7,7,0,Complete
+51097,King and Queen County,11,"Agriculture, Forestry, Fishing and Hunting",7,2,5,Limited coverage
+51097,King and Queen County,21,"Mining, Quarrying, and Oil and Gas Extraction",5,0,5,Limited coverage
+51097,King and Queen County,22,Utilities,7,0,7,Limited coverage
+51097,King and Queen County,23,Construction,7,7,0,Complete
+51097,King and Queen County,31-33,Manufacturing,7,7,0,Complete
+51097,King and Queen County,42,Wholesale Trade,7,0,7,Limited coverage
+51097,King and Queen County,44-45,Retail Trade,7,6,1,High coverage
+51097,King and Queen County,48-49,Transportation and Warehousing,7,7,0,Complete
+51097,King and Queen County,51,Information,7,0,7,Limited coverage
+51097,King and Queen County,52,Finance and Insurance,7,2,5,Limited coverage
+51097,King and Queen County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51097,King and Queen County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51097,King and Queen County,55,Management of Companies and Enterprises,2,0,2,Limited coverage
+51097,King and Queen County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51097,King and Queen County,61,Educational Services,4,0,4,Limited coverage
+51097,King and Queen County,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51097,King and Queen County,71,"Arts, Entertainment, and Recreation",4,0,4,Limited coverage
+51097,King and Queen County,72,Accommodation and Food Services,7,3,4,Moderate coverage
+51097,King and Queen County,81,Other Services,7,5,2,High coverage
+51097,King and Queen County,99,Unclassified,7,2,5,Limited coverage
+51099,King George County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51099,King George County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51099,King George County,22,Utilities,5,0,5,Limited coverage
+51099,King George County,23,Construction,7,7,0,Complete
+51099,King George County,31-33,Manufacturing,7,6,1,High coverage
+51099,King George County,42,Wholesale Trade,7,4,3,Moderate coverage
+51099,King George County,44-45,Retail Trade,7,7,0,Complete
+51099,King George County,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51099,King George County,51,Information,7,5,2,High coverage
+51099,King George County,52,Finance and Insurance,7,7,0,Complete
+51099,King George County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51099,King George County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51099,King George County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51099,King George County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51099,King George County,61,Educational Services,7,2,5,Limited coverage
+51099,King George County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51099,King George County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51099,King George County,72,Accommodation and Food Services,7,7,0,Complete
+51099,King George County,81,Other Services,7,7,0,Complete
+51099,King George County,99,Unclassified,7,5,2,High coverage
+51101,King William County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51101,King William County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,3,4,Moderate coverage
+51101,King William County,22,Utilities,4,0,4,Limited coverage
+51101,King William County,23,Construction,7,6,1,High coverage
+51101,King William County,31-33,Manufacturing,7,7,0,Complete
+51101,King William County,42,Wholesale Trade,7,3,4,Moderate coverage
+51101,King William County,44-45,Retail Trade,7,7,0,Complete
+51101,King William County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51101,King William County,51,Information,7,3,4,Moderate coverage
+51101,King William County,52,Finance and Insurance,7,7,0,Complete
+51101,King William County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51101,King William County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51101,King William County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51101,King William County,61,Educational Services,7,0,7,Limited coverage
+51101,King William County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51101,King William County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51101,King William County,72,Accommodation and Food Services,7,7,0,Complete
+51101,King William County,81,Other Services,7,7,0,Complete
+51101,King William County,99,Unclassified,7,3,4,Moderate coverage
+51103,Lancaster County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51103,Lancaster County,22,Utilities,7,0,7,Limited coverage
+51103,Lancaster County,23,Construction,7,7,0,Complete
+51103,Lancaster County,31-33,Manufacturing,7,7,0,Complete
+51103,Lancaster County,42,Wholesale Trade,7,0,7,Limited coverage
+51103,Lancaster County,44-45,Retail Trade,7,7,0,Complete
+51103,Lancaster County,48-49,Transportation and Warehousing,7,7,0,Complete
+51103,Lancaster County,51,Information,7,7,0,Complete
+51103,Lancaster County,52,Finance and Insurance,7,7,0,Complete
+51103,Lancaster County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51103,Lancaster County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51103,Lancaster County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51103,Lancaster County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51103,Lancaster County,61,Educational Services,7,0,7,Limited coverage
+51103,Lancaster County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51103,Lancaster County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51103,Lancaster County,72,Accommodation and Food Services,7,7,0,Complete
+51103,Lancaster County,81,Other Services,7,7,0,Complete
+51103,Lancaster County,99,Unclassified,7,7,0,Complete
+51105,Lee County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51105,Lee County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51105,Lee County,22,Utilities,7,7,0,Complete
+51105,Lee County,23,Construction,7,7,0,Complete
+51105,Lee County,31-33,Manufacturing,7,7,0,Complete
+51105,Lee County,42,Wholesale Trade,7,7,0,Complete
+51105,Lee County,44-45,Retail Trade,7,7,0,Complete
+51105,Lee County,48-49,Transportation and Warehousing,7,7,0,Complete
+51105,Lee County,51,Information,7,5,2,High coverage
+51105,Lee County,52,Finance and Insurance,7,7,0,Complete
+51105,Lee County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51105,Lee County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51105,Lee County,55,Management of Companies and Enterprises,7,7,0,Complete
+51105,Lee County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51105,Lee County,61,Educational Services,2,0,2,Limited coverage
+51105,Lee County,62,Health Care and Social Assistance,7,5,2,High coverage
+51105,Lee County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51105,Lee County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51105,Lee County,81,Other Services,7,7,0,Complete
+51105,Lee County,99,Unclassified,7,5,2,High coverage
+51107,Loudoun County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51107,Loudoun County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51107,Loudoun County,22,Utilities,7,6,1,High coverage
+51107,Loudoun County,23,Construction,7,7,0,Complete
+51107,Loudoun County,31-33,Manufacturing,7,7,0,Complete
+51107,Loudoun County,42,Wholesale Trade,7,6,1,High coverage
+51107,Loudoun County,44-45,Retail Trade,7,7,0,Complete
+51107,Loudoun County,48-49,Transportation and Warehousing,7,7,0,Complete
+51107,Loudoun County,51,Information,7,7,0,Complete
+51107,Loudoun County,52,Finance and Insurance,7,7,0,Complete
+51107,Loudoun County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51107,Loudoun County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51107,Loudoun County,55,Management of Companies and Enterprises,7,7,0,Complete
+51107,Loudoun County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51107,Loudoun County,61,Educational Services,7,7,0,Complete
+51107,Loudoun County,62,Health Care and Social Assistance,7,7,0,Complete
+51107,Loudoun County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51107,Loudoun County,72,Accommodation and Food Services,7,7,0,Complete
+51107,Loudoun County,81,Other Services,7,7,0,Complete
+51107,Loudoun County,99,Unclassified,7,7,0,Complete
+51109,Louisa County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51109,Louisa County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51109,Louisa County,22,Utilities,7,5,2,High coverage
+51109,Louisa County,23,Construction,7,6,1,High coverage
+51109,Louisa County,31-33,Manufacturing,7,6,1,High coverage
+51109,Louisa County,42,Wholesale Trade,7,2,5,Limited coverage
+51109,Louisa County,44-45,Retail Trade,7,7,0,Complete
+51109,Louisa County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51109,Louisa County,51,Information,7,3,4,Moderate coverage
+51109,Louisa County,52,Finance and Insurance,7,7,0,Complete
+51109,Louisa County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51109,Louisa County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51109,Louisa County,55,Management of Companies and Enterprises,7,7,0,Complete
+51109,Louisa County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51109,Louisa County,61,Educational Services,7,6,1,High coverage
+51109,Louisa County,62,Health Care and Social Assistance,7,6,1,High coverage
+51109,Louisa County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51109,Louisa County,72,Accommodation and Food Services,7,7,0,Complete
+51109,Louisa County,81,Other Services,7,7,0,Complete
+51109,Louisa County,99,Unclassified,7,3,4,Moderate coverage
+51111,Lunenburg County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51111,Lunenburg County,23,Construction,7,7,0,Complete
+51111,Lunenburg County,31-33,Manufacturing,7,7,0,Complete
+51111,Lunenburg County,42,Wholesale Trade,7,7,0,Complete
+51111,Lunenburg County,44-45,Retail Trade,7,7,0,Complete
+51111,Lunenburg County,48-49,Transportation and Warehousing,7,7,0,Complete
+51111,Lunenburg County,51,Information,7,3,4,Moderate coverage
+51111,Lunenburg County,52,Finance and Insurance,7,0,7,Limited coverage
+51111,Lunenburg County,53,Real Estate and Rental and Leasing,7,0,7,Limited coverage
+51111,Lunenburg County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51111,Lunenburg County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51111,Lunenburg County,56,Administrative and Support and Waste Management,7,1,6,Limited coverage
+51111,Lunenburg County,61,Educational Services,3,0,3,Limited coverage
+51111,Lunenburg County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51111,Lunenburg County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51111,Lunenburg County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51111,Lunenburg County,81,Other Services,7,7,0,Complete
+51111,Lunenburg County,99,Unclassified,7,3,4,Moderate coverage
+51113,Madison County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51113,Madison County,23,Construction,7,7,0,Complete
+51113,Madison County,31-33,Manufacturing,7,7,0,Complete
+51113,Madison County,42,Wholesale Trade,7,4,3,Moderate coverage
+51113,Madison County,44-45,Retail Trade,7,7,0,Complete
+51113,Madison County,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51113,Madison County,51,Information,7,1,6,Limited coverage
+51113,Madison County,52,Finance and Insurance,7,7,0,Complete
+51113,Madison County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51113,Madison County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51113,Madison County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51113,Madison County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51113,Madison County,61,Educational Services,7,0,7,Limited coverage
+51113,Madison County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51113,Madison County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51113,Madison County,72,Accommodation and Food Services,7,7,0,Complete
+51113,Madison County,81,Other Services,7,7,0,Complete
+51113,Madison County,99,Unclassified,7,1,6,Limited coverage
+51115,Mathews County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51115,Mathews County,22,Utilities,2,0,2,Limited coverage
+51115,Mathews County,23,Construction,7,7,0,Complete
+51115,Mathews County,31-33,Manufacturing,7,6,1,High coverage
+51115,Mathews County,42,Wholesale Trade,7,5,2,High coverage
+51115,Mathews County,44-45,Retail Trade,7,7,0,Complete
+51115,Mathews County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51115,Mathews County,51,Information,7,1,6,Limited coverage
+51115,Mathews County,52,Finance and Insurance,7,5,2,High coverage
+51115,Mathews County,53,Real Estate and Rental and Leasing,7,5,2,High coverage
+51115,Mathews County,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51115,Mathews County,55,Management of Companies and Enterprises,4,0,4,Limited coverage
+51115,Mathews County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51115,Mathews County,61,Educational Services,7,0,7,Limited coverage
+51115,Mathews County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51115,Mathews County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51115,Mathews County,72,Accommodation and Food Services,7,7,0,Complete
+51115,Mathews County,81,Other Services,7,7,0,Complete
+51115,Mathews County,99,Unclassified,7,1,6,Limited coverage
+51117,Mecklenburg County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51117,Mecklenburg County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51117,Mecklenburg County,22,Utilities,7,4,3,Moderate coverage
+51117,Mecklenburg County,23,Construction,7,6,1,High coverage
+51117,Mecklenburg County,31-33,Manufacturing,7,7,0,Complete
+51117,Mecklenburg County,42,Wholesale Trade,7,4,3,Moderate coverage
+51117,Mecklenburg County,44-45,Retail Trade,7,7,0,Complete
+51117,Mecklenburg County,48-49,Transportation and Warehousing,7,7,0,Complete
+51117,Mecklenburg County,51,Information,7,6,1,High coverage
+51117,Mecklenburg County,52,Finance and Insurance,7,7,0,Complete
+51117,Mecklenburg County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51117,Mecklenburg County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51117,Mecklenburg County,55,Management of Companies and Enterprises,7,7,0,Complete
+51117,Mecklenburg County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51117,Mecklenburg County,61,Educational Services,7,5,2,High coverage
+51117,Mecklenburg County,62,Health Care and Social Assistance,7,5,2,High coverage
+51117,Mecklenburg County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51117,Mecklenburg County,72,Accommodation and Food Services,7,7,0,Complete
+51117,Mecklenburg County,81,Other Services,7,7,0,Complete
+51117,Mecklenburg County,99,Unclassified,7,6,1,High coverage
+51119,Middlesex County,11,"Agriculture, Forestry, Fishing and Hunting",7,3,4,Moderate coverage
+51119,Middlesex County,21,"Mining, Quarrying, and Oil and Gas Extraction",4,0,4,Limited coverage
+51119,Middlesex County,22,Utilities,2,0,2,Limited coverage
+51119,Middlesex County,23,Construction,7,7,0,Complete
+51119,Middlesex County,31-33,Manufacturing,7,7,0,Complete
+51119,Middlesex County,42,Wholesale Trade,7,6,1,High coverage
+51119,Middlesex County,44-45,Retail Trade,7,7,0,Complete
+51119,Middlesex County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51119,Middlesex County,51,Information,7,7,0,Complete
+51119,Middlesex County,52,Finance and Insurance,7,7,0,Complete
+51119,Middlesex County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51119,Middlesex County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51119,Middlesex County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51119,Middlesex County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51119,Middlesex County,61,Educational Services,7,0,7,Limited coverage
+51119,Middlesex County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51119,Middlesex County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51119,Middlesex County,72,Accommodation and Food Services,7,7,0,Complete
+51119,Middlesex County,81,Other Services,7,7,0,Complete
+51119,Middlesex County,99,Unclassified,7,7,0,Complete
+51121,Montgomery County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51121,Montgomery County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51121,Montgomery County,22,Utilities,7,2,5,Limited coverage
+51121,Montgomery County,23,Construction,7,7,0,Complete
+51121,Montgomery County,31-33,Manufacturing,7,7,0,Complete
+51121,Montgomery County,42,Wholesale Trade,7,3,4,Moderate coverage
+51121,Montgomery County,44-45,Retail Trade,7,7,0,Complete
+51121,Montgomery County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51121,Montgomery County,51,Information,7,7,0,Complete
+51121,Montgomery County,52,Finance and Insurance,7,7,0,Complete
+51121,Montgomery County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51121,Montgomery County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51121,Montgomery County,55,Management of Companies and Enterprises,7,7,0,Complete
+51121,Montgomery County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51121,Montgomery County,61,Educational Services,7,7,0,Complete
+51121,Montgomery County,62,Health Care and Social Assistance,7,7,0,Complete
+51121,Montgomery County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51121,Montgomery County,72,Accommodation and Food Services,7,7,0,Complete
+51121,Montgomery County,81,Other Services,7,7,0,Complete
+51121,Montgomery County,99,Unclassified,7,7,0,Complete
+51125,Nelson County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51125,Nelson County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51125,Nelson County,22,Utilities,7,0,7,Limited coverage
+51125,Nelson County,23,Construction,7,7,0,Complete
+51125,Nelson County,31-33,Manufacturing,7,7,0,Complete
+51125,Nelson County,42,Wholesale Trade,7,1,6,Limited coverage
+51125,Nelson County,44-45,Retail Trade,7,7,0,Complete
+51125,Nelson County,48-49,Transportation and Warehousing,7,5,2,High coverage
+51125,Nelson County,51,Information,7,6,1,High coverage
+51125,Nelson County,52,Finance and Insurance,7,7,0,Complete
+51125,Nelson County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51125,Nelson County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51125,Nelson County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51125,Nelson County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51125,Nelson County,61,Educational Services,7,7,0,Complete
+51125,Nelson County,62,Health Care and Social Assistance,7,7,0,Complete
+51125,Nelson County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51125,Nelson County,72,Accommodation and Food Services,7,7,0,Complete
+51125,Nelson County,81,Other Services,7,7,0,Complete
+51125,Nelson County,99,Unclassified,7,6,1,High coverage
+51127,New Kent County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51127,New Kent County,21,"Mining, Quarrying, and Oil and Gas Extraction",6,0,6,Limited coverage
+51127,New Kent County,22,Utilities,7,0,7,Limited coverage
+51127,New Kent County,23,Construction,7,7,0,Complete
+51127,New Kent County,31-33,Manufacturing,7,7,0,Complete
+51127,New Kent County,42,Wholesale Trade,7,7,0,Complete
+51127,New Kent County,44-45,Retail Trade,7,7,0,Complete
+51127,New Kent County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51127,New Kent County,51,Information,7,7,0,Complete
+51127,New Kent County,52,Finance and Insurance,7,7,0,Complete
+51127,New Kent County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51127,New Kent County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51127,New Kent County,55,Management of Companies and Enterprises,7,5,2,High coverage
+51127,New Kent County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51127,New Kent County,61,Educational Services,7,4,3,Moderate coverage
+51127,New Kent County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51127,New Kent County,71,"Arts, Entertainment, and Recreation",7,6,1,High coverage
+51127,New Kent County,72,Accommodation and Food Services,7,6,1,High coverage
+51127,New Kent County,81,Other Services,7,7,0,Complete
+51127,New Kent County,99,Unclassified,7,7,0,Complete
+51131,Northampton County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51131,Northampton County,22,Utilities,7,0,7,Limited coverage
+51131,Northampton County,23,Construction,7,7,0,Complete
+51131,Northampton County,31-33,Manufacturing,7,7,0,Complete
+51131,Northampton County,42,Wholesale Trade,7,7,0,Complete
+51131,Northampton County,44-45,Retail Trade,7,7,0,Complete
+51131,Northampton County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51131,Northampton County,51,Information,7,0,7,Limited coverage
+51131,Northampton County,52,Finance and Insurance,7,7,0,Complete
+51131,Northampton County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51131,Northampton County,54,"Professional, Scientific, and Technical Services",7,2,5,Limited coverage
+51131,Northampton County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51131,Northampton County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51131,Northampton County,61,Educational Services,7,7,0,Complete
+51131,Northampton County,62,Health Care and Social Assistance,7,7,0,Complete
+51131,Northampton County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51131,Northampton County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51131,Northampton County,81,Other Services,7,6,1,High coverage
+51131,Northampton County,99,Unclassified,7,0,7,Limited coverage
+51133,Northumberland County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51133,Northumberland County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51133,Northumberland County,23,Construction,7,7,0,Complete
+51133,Northumberland County,31-33,Manufacturing,7,7,0,Complete
+51133,Northumberland County,42,Wholesale Trade,7,7,0,Complete
+51133,Northumberland County,44-45,Retail Trade,7,7,0,Complete
+51133,Northumberland County,48-49,Transportation and Warehousing,7,7,0,Complete
+51133,Northumberland County,51,Information,7,6,1,High coverage
+51133,Northumberland County,52,Finance and Insurance,7,7,0,Complete
+51133,Northumberland County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51133,Northumberland County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51133,Northumberland County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51133,Northumberland County,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51133,Northumberland County,61,Educational Services,5,2,3,Limited coverage
+51133,Northumberland County,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51133,Northumberland County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51133,Northumberland County,72,Accommodation and Food Services,7,7,0,Complete
+51133,Northumberland County,81,Other Services,7,7,0,Complete
+51133,Northumberland County,99,Unclassified,7,6,1,High coverage
+51135,Nottoway County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51135,Nottoway County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51135,Nottoway County,22,Utilities,7,0,7,Limited coverage
+51135,Nottoway County,23,Construction,7,7,0,Complete
+51135,Nottoway County,31-33,Manufacturing,7,7,0,Complete
+51135,Nottoway County,42,Wholesale Trade,7,7,0,Complete
+51135,Nottoway County,44-45,Retail Trade,7,7,0,Complete
+51135,Nottoway County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51135,Nottoway County,51,Information,7,7,0,Complete
+51135,Nottoway County,52,Finance and Insurance,7,7,0,Complete
+51135,Nottoway County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51135,Nottoway County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51135,Nottoway County,55,Management of Companies and Enterprises,7,2,5,Limited coverage
+51135,Nottoway County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51135,Nottoway County,61,Educational Services,7,0,7,Limited coverage
+51135,Nottoway County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51135,Nottoway County,71,"Arts, Entertainment, and Recreation",7,1,6,Limited coverage
+51135,Nottoway County,72,Accommodation and Food Services,7,1,6,Limited coverage
+51135,Nottoway County,81,Other Services,7,7,0,Complete
+51135,Nottoway County,99,Unclassified,7,7,0,Complete
+51137,Orange County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51137,Orange County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51137,Orange County,22,Utilities,7,0,7,Limited coverage
+51137,Orange County,23,Construction,7,7,0,Complete
+51137,Orange County,31-33,Manufacturing,7,7,0,Complete
+51137,Orange County,42,Wholesale Trade,7,7,0,Complete
+51137,Orange County,44-45,Retail Trade,7,7,0,Complete
+51137,Orange County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51137,Orange County,51,Information,7,5,2,High coverage
+51137,Orange County,52,Finance and Insurance,7,7,0,Complete
+51137,Orange County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51137,Orange County,54,"Professional, Scientific, and Technical Services",7,2,5,Limited coverage
+51137,Orange County,55,Management of Companies and Enterprises,7,2,5,Limited coverage
+51137,Orange County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51137,Orange County,61,Educational Services,7,7,0,Complete
+51137,Orange County,62,Health Care and Social Assistance,7,7,0,Complete
+51137,Orange County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51137,Orange County,72,Accommodation and Food Services,7,7,0,Complete
+51137,Orange County,81,Other Services,7,7,0,Complete
+51137,Orange County,99,Unclassified,7,5,2,High coverage
+51139,Page County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51139,Page County,22,Utilities,7,0,7,Limited coverage
+51139,Page County,23,Construction,7,6,1,High coverage
+51139,Page County,31-33,Manufacturing,7,7,0,Complete
+51139,Page County,42,Wholesale Trade,7,2,5,Limited coverage
+51139,Page County,44-45,Retail Trade,7,7,0,Complete
+51139,Page County,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51139,Page County,51,Information,7,5,2,High coverage
+51139,Page County,52,Finance and Insurance,7,7,0,Complete
+51139,Page County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51139,Page County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51139,Page County,55,Management of Companies and Enterprises,5,0,5,Limited coverage
+51139,Page County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51139,Page County,61,Educational Services,6,0,6,Limited coverage
+51139,Page County,62,Health Care and Social Assistance,7,1,6,Limited coverage
+51139,Page County,71,"Arts, Entertainment, and Recreation",7,6,1,High coverage
+51139,Page County,72,Accommodation and Food Services,7,6,1,High coverage
+51139,Page County,81,Other Services,7,7,0,Complete
+51139,Page County,99,Unclassified,7,5,2,High coverage
+51141,Patrick County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51141,Patrick County,22,Utilities,7,0,7,Limited coverage
+51141,Patrick County,23,Construction,7,7,0,Complete
+51141,Patrick County,31-33,Manufacturing,7,7,0,Complete
+51141,Patrick County,42,Wholesale Trade,7,6,1,High coverage
+51141,Patrick County,44-45,Retail Trade,7,7,0,Complete
+51141,Patrick County,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51141,Patrick County,51,Information,7,7,0,Complete
+51141,Patrick County,52,Finance and Insurance,7,7,0,Complete
+51141,Patrick County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51141,Patrick County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51141,Patrick County,55,Management of Companies and Enterprises,5,0,5,Limited coverage
+51141,Patrick County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51141,Patrick County,61,Educational Services,7,1,6,Limited coverage
+51141,Patrick County,62,Health Care and Social Assistance,7,1,6,Limited coverage
+51141,Patrick County,71,"Arts, Entertainment, and Recreation",7,2,5,Limited coverage
+51141,Patrick County,72,Accommodation and Food Services,7,2,5,Limited coverage
+51141,Patrick County,81,Other Services,7,7,0,Complete
+51141,Patrick County,99,Unclassified,7,7,0,Complete
+51143,Pittsylvania County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51143,Pittsylvania County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51143,Pittsylvania County,22,Utilities,7,7,0,Complete
+51143,Pittsylvania County,23,Construction,7,7,0,Complete
+51143,Pittsylvania County,31-33,Manufacturing,7,7,0,Complete
+51143,Pittsylvania County,42,Wholesale Trade,7,7,0,Complete
+51143,Pittsylvania County,44-45,Retail Trade,7,7,0,Complete
+51143,Pittsylvania County,48-49,Transportation and Warehousing,7,7,0,Complete
+51143,Pittsylvania County,51,Information,7,6,1,High coverage
+51143,Pittsylvania County,52,Finance and Insurance,7,7,0,Complete
+51143,Pittsylvania County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51143,Pittsylvania County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51143,Pittsylvania County,55,Management of Companies and Enterprises,7,7,0,Complete
+51143,Pittsylvania County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51143,Pittsylvania County,61,Educational Services,7,7,0,Complete
+51143,Pittsylvania County,62,Health Care and Social Assistance,7,7,0,Complete
+51143,Pittsylvania County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51143,Pittsylvania County,72,Accommodation and Food Services,7,7,0,Complete
+51143,Pittsylvania County,81,Other Services,7,7,0,Complete
+51143,Pittsylvania County,99,Unclassified,7,6,1,High coverage
+51145,Powhatan County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51145,Powhatan County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51145,Powhatan County,22,Utilities,7,2,5,Limited coverage
+51145,Powhatan County,23,Construction,7,7,0,Complete
+51145,Powhatan County,31-33,Manufacturing,7,7,0,Complete
+51145,Powhatan County,42,Wholesale Trade,7,7,0,Complete
+51145,Powhatan County,44-45,Retail Trade,7,7,0,Complete
+51145,Powhatan County,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51145,Powhatan County,51,Information,7,5,2,High coverage
+51145,Powhatan County,52,Finance and Insurance,7,7,0,Complete
+51145,Powhatan County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51145,Powhatan County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51145,Powhatan County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51145,Powhatan County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51145,Powhatan County,61,Educational Services,7,7,0,Complete
+51145,Powhatan County,62,Health Care and Social Assistance,7,7,0,Complete
+51145,Powhatan County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51145,Powhatan County,72,Accommodation and Food Services,7,7,0,Complete
+51145,Powhatan County,81,Other Services,7,7,0,Complete
+51145,Powhatan County,99,Unclassified,7,5,2,High coverage
+51147,Prince Edward County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51147,Prince Edward County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51147,Prince Edward County,22,Utilities,7,0,7,Limited coverage
+51147,Prince Edward County,23,Construction,7,7,0,Complete
+51147,Prince Edward County,31-33,Manufacturing,7,7,0,Complete
+51147,Prince Edward County,42,Wholesale Trade,7,1,6,Limited coverage
+51147,Prince Edward County,44-45,Retail Trade,7,7,0,Complete
+51147,Prince Edward County,48-49,Transportation and Warehousing,7,5,2,High coverage
+51147,Prince Edward County,51,Information,7,7,0,Complete
+51147,Prince Edward County,52,Finance and Insurance,7,7,0,Complete
+51147,Prince Edward County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51147,Prince Edward County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51147,Prince Edward County,55,Management of Companies and Enterprises,7,7,0,Complete
+51147,Prince Edward County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51147,Prince Edward County,61,Educational Services,7,0,7,Limited coverage
+51147,Prince Edward County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51147,Prince Edward County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51147,Prince Edward County,72,Accommodation and Food Services,7,7,0,Complete
+51147,Prince Edward County,81,Other Services,7,7,0,Complete
+51147,Prince Edward County,99,Unclassified,7,7,0,Complete
+51149,Prince George County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51149,Prince George County,21,"Mining, Quarrying, and Oil and Gas Extraction",5,0,5,Limited coverage
+51149,Prince George County,22,Utilities,3,0,3,Limited coverage
+51149,Prince George County,23,Construction,7,6,1,High coverage
+51149,Prince George County,31-33,Manufacturing,7,6,1,High coverage
+51149,Prince George County,42,Wholesale Trade,7,4,3,Moderate coverage
+51149,Prince George County,44-45,Retail Trade,7,7,0,Complete
+51149,Prince George County,48-49,Transportation and Warehousing,7,7,0,Complete
+51149,Prince George County,51,Information,7,6,1,High coverage
+51149,Prince George County,52,Finance and Insurance,7,7,0,Complete
+51149,Prince George County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51149,Prince George County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51149,Prince George County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51149,Prince George County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51149,Prince George County,61,Educational Services,7,7,0,Complete
+51149,Prince George County,62,Health Care and Social Assistance,7,7,0,Complete
+51149,Prince George County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51149,Prince George County,72,Accommodation and Food Services,7,7,0,Complete
+51149,Prince George County,81,Other Services,7,7,0,Complete
+51149,Prince George County,99,Unclassified,7,6,1,High coverage
+51153,Prince William County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51153,Prince William County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51153,Prince William County,22,Utilities,7,7,0,Complete
+51153,Prince William County,23,Construction,7,7,0,Complete
+51153,Prince William County,31-33,Manufacturing,7,7,0,Complete
+51153,Prince William County,42,Wholesale Trade,7,7,0,Complete
+51153,Prince William County,44-45,Retail Trade,7,7,0,Complete
+51153,Prince William County,48-49,Transportation and Warehousing,7,7,0,Complete
+51153,Prince William County,51,Information,7,7,0,Complete
+51153,Prince William County,52,Finance and Insurance,7,7,0,Complete
+51153,Prince William County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51153,Prince William County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51153,Prince William County,55,Management of Companies and Enterprises,7,7,0,Complete
+51153,Prince William County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51153,Prince William County,61,Educational Services,7,7,0,Complete
+51153,Prince William County,62,Health Care and Social Assistance,7,7,0,Complete
+51153,Prince William County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51153,Prince William County,72,Accommodation and Food Services,7,7,0,Complete
+51153,Prince William County,81,Other Services,7,7,0,Complete
+51153,Prince William County,99,Unclassified,7,7,0,Complete
+51155,Pulaski County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51155,Pulaski County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51155,Pulaski County,22,Utilities,7,0,7,Limited coverage
+51155,Pulaski County,23,Construction,7,6,1,High coverage
+51155,Pulaski County,31-33,Manufacturing,7,7,0,Complete
+51155,Pulaski County,42,Wholesale Trade,7,0,7,Limited coverage
+51155,Pulaski County,44-45,Retail Trade,7,7,0,Complete
+51155,Pulaski County,48-49,Transportation and Warehousing,7,7,0,Complete
+51155,Pulaski County,51,Information,7,4,3,Moderate coverage
+51155,Pulaski County,52,Finance and Insurance,7,7,0,Complete
+51155,Pulaski County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51155,Pulaski County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51155,Pulaski County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51155,Pulaski County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51155,Pulaski County,61,Educational Services,7,1,6,Limited coverage
+51155,Pulaski County,62,Health Care and Social Assistance,7,1,6,Limited coverage
+51155,Pulaski County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51155,Pulaski County,72,Accommodation and Food Services,7,7,0,Complete
+51155,Pulaski County,81,Other Services,7,7,0,Complete
+51155,Pulaski County,99,Unclassified,7,4,3,Moderate coverage
+51157,Rappahannock County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51157,Rappahannock County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51157,Rappahannock County,23,Construction,7,7,0,Complete
+51157,Rappahannock County,31-33,Manufacturing,7,7,0,Complete
+51157,Rappahannock County,42,Wholesale Trade,7,2,5,Limited coverage
+51157,Rappahannock County,44-45,Retail Trade,7,7,0,Complete
+51157,Rappahannock County,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51157,Rappahannock County,51,Information,7,7,0,Complete
+51157,Rappahannock County,52,Finance and Insurance,7,6,1,High coverage
+51157,Rappahannock County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51157,Rappahannock County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51157,Rappahannock County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51157,Rappahannock County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51157,Rappahannock County,61,Educational Services,7,7,0,Complete
+51157,Rappahannock County,62,Health Care and Social Assistance,7,7,0,Complete
+51157,Rappahannock County,71,"Arts, Entertainment, and Recreation",7,3,4,Moderate coverage
+51157,Rappahannock County,72,Accommodation and Food Services,7,3,4,Moderate coverage
+51157,Rappahannock County,81,Other Services,7,6,1,High coverage
+51157,Rappahannock County,99,Unclassified,7,6,1,High coverage
+51159,Richmond County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51159,Richmond County,22,Utilities,7,0,7,Limited coverage
+51159,Richmond County,23,Construction,7,7,0,Complete
+51159,Richmond County,31-33,Manufacturing,7,6,1,High coverage
+51159,Richmond County,42,Wholesale Trade,7,6,1,High coverage
+51159,Richmond County,44-45,Retail Trade,7,7,0,Complete
+51159,Richmond County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51159,Richmond County,51,Information,7,0,7,Limited coverage
+51159,Richmond County,52,Finance and Insurance,7,7,0,Complete
+51159,Richmond County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51159,Richmond County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51159,Richmond County,55,Management of Companies and Enterprises,6,0,6,Limited coverage
+51159,Richmond County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51159,Richmond County,61,Educational Services,7,0,7,Limited coverage
+51159,Richmond County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51159,Richmond County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51159,Richmond County,72,Accommodation and Food Services,7,7,0,Complete
+51159,Richmond County,81,Other Services,7,7,0,Complete
+51159,Richmond County,99,Unclassified,7,0,7,Limited coverage
+51161,Roanoke County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51161,Roanoke County,21,"Mining, Quarrying, and Oil and Gas Extraction",1,0,1,Limited coverage
+51161,Roanoke County,22,Utilities,7,0,7,Limited coverage
+51161,Roanoke County,23,Construction,7,6,1,High coverage
+51161,Roanoke County,31-33,Manufacturing,7,7,0,Complete
+51161,Roanoke County,42,Wholesale Trade,7,0,7,Limited coverage
+51161,Roanoke County,44-45,Retail Trade,7,7,0,Complete
+51161,Roanoke County,48-49,Transportation and Warehousing,7,7,0,Complete
+51161,Roanoke County,51,Information,7,6,1,High coverage
+51161,Roanoke County,52,Finance and Insurance,7,7,0,Complete
+51161,Roanoke County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51161,Roanoke County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51161,Roanoke County,55,Management of Companies and Enterprises,7,7,0,Complete
+51161,Roanoke County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51161,Roanoke County,61,Educational Services,7,7,0,Complete
+51161,Roanoke County,62,Health Care and Social Assistance,7,7,0,Complete
+51161,Roanoke County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51161,Roanoke County,72,Accommodation and Food Services,7,7,0,Complete
+51161,Roanoke County,81,Other Services,7,7,0,Complete
+51161,Roanoke County,99,Unclassified,7,6,1,High coverage
+51163,Rockbridge County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51163,Rockbridge County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51163,Rockbridge County,22,Utilities,7,0,7,Limited coverage
+51163,Rockbridge County,23,Construction,7,7,0,Complete
+51163,Rockbridge County,31-33,Manufacturing,7,7,0,Complete
+51163,Rockbridge County,42,Wholesale Trade,7,2,5,Limited coverage
+51163,Rockbridge County,44-45,Retail Trade,7,7,0,Complete
+51163,Rockbridge County,48-49,Transportation and Warehousing,7,5,2,High coverage
+51163,Rockbridge County,51,Information,7,7,0,Complete
+51163,Rockbridge County,52,Finance and Insurance,7,7,0,Complete
+51163,Rockbridge County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51163,Rockbridge County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51163,Rockbridge County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51163,Rockbridge County,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51163,Rockbridge County,61,Educational Services,7,5,2,High coverage
+51163,Rockbridge County,62,Health Care and Social Assistance,7,5,2,High coverage
+51163,Rockbridge County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51163,Rockbridge County,72,Accommodation and Food Services,7,7,0,Complete
+51163,Rockbridge County,81,Other Services,7,7,0,Complete
+51163,Rockbridge County,99,Unclassified,7,7,0,Complete
+51165,Rockingham County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51165,Rockingham County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51165,Rockingham County,22,Utilities,7,0,7,Limited coverage
+51165,Rockingham County,23,Construction,7,7,0,Complete
+51165,Rockingham County,31-33,Manufacturing,7,7,0,Complete
+51165,Rockingham County,42,Wholesale Trade,7,0,7,Limited coverage
+51165,Rockingham County,44-45,Retail Trade,7,6,1,High coverage
+51165,Rockingham County,48-49,Transportation and Warehousing,7,7,0,Complete
+51165,Rockingham County,51,Information,7,7,0,Complete
+51165,Rockingham County,52,Finance and Insurance,7,7,0,Complete
+51165,Rockingham County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51165,Rockingham County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51165,Rockingham County,55,Management of Companies and Enterprises,7,7,0,Complete
+51165,Rockingham County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51165,Rockingham County,61,Educational Services,7,7,0,Complete
+51165,Rockingham County,62,Health Care and Social Assistance,7,7,0,Complete
+51165,Rockingham County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51165,Rockingham County,72,Accommodation and Food Services,7,7,0,Complete
+51165,Rockingham County,81,Other Services,7,7,0,Complete
+51165,Rockingham County,99,Unclassified,7,7,0,Complete
+51167,Russell County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51167,Russell County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51167,Russell County,22,Utilities,7,0,7,Limited coverage
+51167,Russell County,23,Construction,7,7,0,Complete
+51167,Russell County,31-33,Manufacturing,7,7,0,Complete
+51167,Russell County,42,Wholesale Trade,7,0,7,Limited coverage
+51167,Russell County,44-45,Retail Trade,7,7,0,Complete
+51167,Russell County,48-49,Transportation and Warehousing,7,7,0,Complete
+51167,Russell County,51,Information,7,5,2,High coverage
+51167,Russell County,52,Finance and Insurance,7,7,0,Complete
+51167,Russell County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51167,Russell County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51167,Russell County,55,Management of Companies and Enterprises,7,5,2,High coverage
+51167,Russell County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51167,Russell County,61,Educational Services,7,3,4,Moderate coverage
+51167,Russell County,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51167,Russell County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51167,Russell County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51167,Russell County,81,Other Services,7,6,1,High coverage
+51167,Russell County,99,Unclassified,7,5,2,High coverage
+51169,Scott County,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51169,Scott County,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51169,Scott County,22,Utilities,1,0,1,Limited coverage
+51169,Scott County,23,Construction,7,6,1,High coverage
+51169,Scott County,31-33,Manufacturing,7,7,0,Complete
+51169,Scott County,42,Wholesale Trade,7,6,1,High coverage
+51169,Scott County,44-45,Retail Trade,7,7,0,Complete
+51169,Scott County,48-49,Transportation and Warehousing,7,7,0,Complete
+51169,Scott County,51,Information,7,4,3,Moderate coverage
+51169,Scott County,52,Finance and Insurance,7,7,0,Complete
+51169,Scott County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51169,Scott County,54,"Professional, Scientific, and Technical Services",7,4,3,Moderate coverage
+51169,Scott County,55,Management of Companies and Enterprises,4,0,4,Limited coverage
+51169,Scott County,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51169,Scott County,61,Educational Services,7,0,7,Limited coverage
+51169,Scott County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51169,Scott County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51169,Scott County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51169,Scott County,81,Other Services,7,7,0,Complete
+51169,Scott County,99,Unclassified,7,3,4,Moderate coverage
+51171,Shenandoah County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51171,Shenandoah County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51171,Shenandoah County,22,Utilities,7,7,0,Complete
+51171,Shenandoah County,23,Construction,7,7,0,Complete
+51171,Shenandoah County,31-33,Manufacturing,7,7,0,Complete
+51171,Shenandoah County,42,Wholesale Trade,7,7,0,Complete
+51171,Shenandoah County,44-45,Retail Trade,7,7,0,Complete
+51171,Shenandoah County,48-49,Transportation and Warehousing,7,7,0,Complete
+51171,Shenandoah County,51,Information,7,2,5,Limited coverage
+51171,Shenandoah County,52,Finance and Insurance,7,7,0,Complete
+51171,Shenandoah County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51171,Shenandoah County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51171,Shenandoah County,55,Management of Companies and Enterprises,7,2,5,Limited coverage
+51171,Shenandoah County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51171,Shenandoah County,61,Educational Services,7,6,1,High coverage
+51171,Shenandoah County,62,Health Care and Social Assistance,7,6,1,High coverage
+51171,Shenandoah County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51171,Shenandoah County,72,Accommodation and Food Services,7,7,0,Complete
+51171,Shenandoah County,81,Other Services,7,7,0,Complete
+51171,Shenandoah County,99,Unclassified,7,2,5,Limited coverage
+51173,Smyth County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51173,Smyth County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51173,Smyth County,22,Utilities,7,0,7,Limited coverage
+51173,Smyth County,23,Construction,7,7,0,Complete
+51173,Smyth County,31-33,Manufacturing,7,7,0,Complete
+51173,Smyth County,42,Wholesale Trade,7,5,2,High coverage
+51173,Smyth County,44-45,Retail Trade,7,7,0,Complete
+51173,Smyth County,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51173,Smyth County,51,Information,7,7,0,Complete
+51173,Smyth County,52,Finance and Insurance,7,7,0,Complete
+51173,Smyth County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51173,Smyth County,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51173,Smyth County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51173,Smyth County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51173,Smyth County,61,Educational Services,7,2,5,Limited coverage
+51173,Smyth County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51173,Smyth County,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51173,Smyth County,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51173,Smyth County,81,Other Services,7,7,0,Complete
+51173,Smyth County,99,Unclassified,7,7,0,Complete
+51175,Southampton County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51175,Southampton County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51175,Southampton County,22,Utilities,7,0,7,Limited coverage
+51175,Southampton County,23,Construction,7,7,0,Complete
+51175,Southampton County,31-33,Manufacturing,7,7,0,Complete
+51175,Southampton County,42,Wholesale Trade,7,7,0,Complete
+51175,Southampton County,44-45,Retail Trade,7,7,0,Complete
+51175,Southampton County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51175,Southampton County,51,Information,7,0,7,Limited coverage
+51175,Southampton County,52,Finance and Insurance,7,6,1,High coverage
+51175,Southampton County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51175,Southampton County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51175,Southampton County,55,Management of Companies and Enterprises,5,0,5,Limited coverage
+51175,Southampton County,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51175,Southampton County,61,Educational Services,7,0,7,Limited coverage
+51175,Southampton County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51175,Southampton County,71,"Arts, Entertainment, and Recreation",7,1,6,Limited coverage
+51175,Southampton County,72,Accommodation and Food Services,7,1,6,Limited coverage
+51175,Southampton County,81,Other Services,7,6,1,High coverage
+51175,Southampton County,99,Unclassified,7,0,7,Limited coverage
+51177,Spotsylvania County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51177,Spotsylvania County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51177,Spotsylvania County,22,Utilities,7,0,7,Limited coverage
+51177,Spotsylvania County,23,Construction,7,7,0,Complete
+51177,Spotsylvania County,31-33,Manufacturing,7,7,0,Complete
+51177,Spotsylvania County,42,Wholesale Trade,7,0,7,Limited coverage
+51177,Spotsylvania County,44-45,Retail Trade,7,7,0,Complete
+51177,Spotsylvania County,48-49,Transportation and Warehousing,7,7,0,Complete
+51177,Spotsylvania County,51,Information,7,7,0,Complete
+51177,Spotsylvania County,52,Finance and Insurance,7,7,0,Complete
+51177,Spotsylvania County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51177,Spotsylvania County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51177,Spotsylvania County,55,Management of Companies and Enterprises,7,7,0,Complete
+51177,Spotsylvania County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51177,Spotsylvania County,61,Educational Services,7,7,0,Complete
+51177,Spotsylvania County,62,Health Care and Social Assistance,7,7,0,Complete
+51177,Spotsylvania County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51177,Spotsylvania County,72,Accommodation and Food Services,7,7,0,Complete
+51177,Spotsylvania County,81,Other Services,7,7,0,Complete
+51177,Spotsylvania County,99,Unclassified,7,7,0,Complete
+51179,Stafford County,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51179,Stafford County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51179,Stafford County,22,Utilities,7,0,7,Limited coverage
+51179,Stafford County,23,Construction,7,7,0,Complete
+51179,Stafford County,31-33,Manufacturing,7,5,2,High coverage
+51179,Stafford County,42,Wholesale Trade,7,0,7,Limited coverage
+51179,Stafford County,44-45,Retail Trade,7,7,0,Complete
+51179,Stafford County,48-49,Transportation and Warehousing,7,7,0,Complete
+51179,Stafford County,51,Information,7,6,1,High coverage
+51179,Stafford County,52,Finance and Insurance,7,3,4,Moderate coverage
+51179,Stafford County,53,Real Estate and Rental and Leasing,7,3,4,Moderate coverage
+51179,Stafford County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51179,Stafford County,55,Management of Companies and Enterprises,7,7,0,Complete
+51179,Stafford County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51179,Stafford County,61,Educational Services,7,7,0,Complete
+51179,Stafford County,62,Health Care and Social Assistance,7,7,0,Complete
+51179,Stafford County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51179,Stafford County,72,Accommodation and Food Services,7,7,0,Complete
+51179,Stafford County,81,Other Services,7,7,0,Complete
+51179,Stafford County,99,Unclassified,7,6,1,High coverage
+51181,Surry County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51181,Surry County,22,Utilities,7,0,7,Limited coverage
+51181,Surry County,23,Construction,7,7,0,Complete
+51181,Surry County,31-33,Manufacturing,7,1,6,Limited coverage
+51181,Surry County,42,Wholesale Trade,7,7,0,Complete
+51181,Surry County,44-45,Retail Trade,7,6,1,High coverage
+51181,Surry County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51181,Surry County,51,Information,4,0,4,Limited coverage
+51181,Surry County,52,Finance and Insurance,7,2,5,Limited coverage
+51181,Surry County,53,Real Estate and Rental and Leasing,7,2,5,Limited coverage
+51181,Surry County,54,"Professional, Scientific, and Technical Services",7,2,5,Limited coverage
+51181,Surry County,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51181,Surry County,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51181,Surry County,61,Educational Services,4,0,4,Limited coverage
+51181,Surry County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51181,Surry County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51181,Surry County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51181,Surry County,81,Other Services,7,7,0,Complete
+51181,Surry County,99,Unclassified,7,3,4,Moderate coverage
+51183,Sussex County,11,"Agriculture, Forestry, Fishing and Hunting",7,3,4,Moderate coverage
+51183,Sussex County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,3,4,Moderate coverage
+51183,Sussex County,22,Utilities,7,0,7,Limited coverage
+51183,Sussex County,23,Construction,7,7,0,Complete
+51183,Sussex County,31-33,Manufacturing,7,7,0,Complete
+51183,Sussex County,42,Wholesale Trade,7,6,1,High coverage
+51183,Sussex County,44-45,Retail Trade,7,7,0,Complete
+51183,Sussex County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51183,Sussex County,51,Information,4,0,4,Limited coverage
+51183,Sussex County,52,Finance and Insurance,7,4,3,Moderate coverage
+51183,Sussex County,53,Real Estate and Rental and Leasing,7,4,3,Moderate coverage
+51183,Sussex County,54,"Professional, Scientific, and Technical Services",7,1,6,Limited coverage
+51183,Sussex County,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51183,Sussex County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51183,Sussex County,61,Educational Services,7,0,7,Limited coverage
+51183,Sussex County,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51183,Sussex County,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51183,Sussex County,72,Accommodation and Food Services,7,0,7,Limited coverage
+51183,Sussex County,81,Other Services,7,7,0,Complete
+51183,Sussex County,99,Unclassified,7,3,4,Moderate coverage
+51185,Tazewell County,11,"Agriculture, Forestry, Fishing and Hunting",7,6,1,High coverage
+51185,Tazewell County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,6,1,High coverage
+51185,Tazewell County,22,Utilities,7,0,7,Limited coverage
+51185,Tazewell County,23,Construction,7,6,1,High coverage
+51185,Tazewell County,31-33,Manufacturing,7,7,0,Complete
+51185,Tazewell County,42,Wholesale Trade,7,7,0,Complete
+51185,Tazewell County,44-45,Retail Trade,7,7,0,Complete
+51185,Tazewell County,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51185,Tazewell County,51,Information,7,6,1,High coverage
+51185,Tazewell County,52,Finance and Insurance,7,7,0,Complete
+51185,Tazewell County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51185,Tazewell County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51185,Tazewell County,55,Management of Companies and Enterprises,7,7,0,Complete
+51185,Tazewell County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51185,Tazewell County,61,Educational Services,7,2,5,Limited coverage
+51185,Tazewell County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51185,Tazewell County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51185,Tazewell County,72,Accommodation and Food Services,7,7,0,Complete
+51185,Tazewell County,81,Other Services,7,7,0,Complete
+51185,Tazewell County,99,Unclassified,7,6,1,High coverage
+51187,Warren County,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51187,Warren County,21,"Mining, Quarrying, and Oil and Gas Extraction",3,0,3,Limited coverage
+51187,Warren County,22,Utilities,7,1,6,Limited coverage
+51187,Warren County,23,Construction,7,6,1,High coverage
+51187,Warren County,31-33,Manufacturing,7,7,0,Complete
+51187,Warren County,42,Wholesale Trade,7,1,6,Limited coverage
+51187,Warren County,44-45,Retail Trade,7,7,0,Complete
+51187,Warren County,48-49,Transportation and Warehousing,7,7,0,Complete
+51187,Warren County,51,Information,7,6,1,High coverage
+51187,Warren County,52,Finance and Insurance,7,7,0,Complete
+51187,Warren County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51187,Warren County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51187,Warren County,55,Management of Companies and Enterprises,7,7,0,Complete
+51187,Warren County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51187,Warren County,61,Educational Services,7,7,0,Complete
+51187,Warren County,62,Health Care and Social Assistance,7,7,0,Complete
+51187,Warren County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51187,Warren County,72,Accommodation and Food Services,7,7,0,Complete
+51187,Warren County,81,Other Services,7,7,0,Complete
+51187,Warren County,99,Unclassified,7,6,1,High coverage
+51191,Washington County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51191,Washington County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51191,Washington County,22,Utilities,7,7,0,Complete
+51191,Washington County,23,Construction,7,7,0,Complete
+51191,Washington County,31-33,Manufacturing,7,7,0,Complete
+51191,Washington County,42,Wholesale Trade,7,7,0,Complete
+51191,Washington County,44-45,Retail Trade,7,7,0,Complete
+51191,Washington County,48-49,Transportation and Warehousing,7,7,0,Complete
+51191,Washington County,51,Information,7,7,0,Complete
+51191,Washington County,52,Finance and Insurance,7,7,0,Complete
+51191,Washington County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51191,Washington County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51191,Washington County,55,Management of Companies and Enterprises,7,5,2,High coverage
+51191,Washington County,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51191,Washington County,61,Educational Services,7,7,0,Complete
+51191,Washington County,62,Health Care and Social Assistance,7,7,0,Complete
+51191,Washington County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51191,Washington County,72,Accommodation and Food Services,7,7,0,Complete
+51191,Washington County,81,Other Services,7,7,0,Complete
+51191,Washington County,99,Unclassified,7,7,0,Complete
+51193,Westmoreland County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51193,Westmoreland County,22,Utilities,3,0,3,Limited coverage
+51193,Westmoreland County,23,Construction,7,7,0,Complete
+51193,Westmoreland County,31-33,Manufacturing,7,7,0,Complete
+51193,Westmoreland County,42,Wholesale Trade,7,7,0,Complete
+51193,Westmoreland County,44-45,Retail Trade,7,7,0,Complete
+51193,Westmoreland County,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51193,Westmoreland County,51,Information,7,0,7,Limited coverage
+51193,Westmoreland County,52,Finance and Insurance,7,7,0,Complete
+51193,Westmoreland County,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51193,Westmoreland County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51193,Westmoreland County,55,Management of Companies and Enterprises,1,0,1,Limited coverage
+51193,Westmoreland County,56,Administrative and Support and Waste Management,7,6,1,High coverage
+51193,Westmoreland County,61,Educational Services,7,3,4,Moderate coverage
+51193,Westmoreland County,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51193,Westmoreland County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51193,Westmoreland County,72,Accommodation and Food Services,7,7,0,Complete
+51193,Westmoreland County,81,Other Services,7,7,0,Complete
+51193,Westmoreland County,99,Unclassified,7,0,7,Limited coverage
+51195,Wise County,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51195,Wise County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,1,6,Limited coverage
+51195,Wise County,22,Utilities,7,6,1,High coverage
+51195,Wise County,23,Construction,7,7,0,Complete
+51195,Wise County,31-33,Manufacturing,7,7,0,Complete
+51195,Wise County,42,Wholesale Trade,7,7,0,Complete
+51195,Wise County,44-45,Retail Trade,7,7,0,Complete
+51195,Wise County,48-49,Transportation and Warehousing,7,6,1,High coverage
+51195,Wise County,51,Information,7,7,0,Complete
+51195,Wise County,52,Finance and Insurance,7,7,0,Complete
+51195,Wise County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51195,Wise County,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51195,Wise County,55,Management of Companies and Enterprises,7,6,1,High coverage
+51195,Wise County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51195,Wise County,61,Educational Services,7,6,1,High coverage
+51195,Wise County,62,Health Care and Social Assistance,7,6,1,High coverage
+51195,Wise County,71,"Arts, Entertainment, and Recreation",7,6,1,High coverage
+51195,Wise County,72,Accommodation and Food Services,7,6,1,High coverage
+51195,Wise County,81,Other Services,7,7,0,Complete
+51195,Wise County,99,Unclassified,7,7,0,Complete
+51197,Wythe County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51197,Wythe County,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51197,Wythe County,22,Utilities,7,0,7,Limited coverage
+51197,Wythe County,23,Construction,7,7,0,Complete
+51197,Wythe County,31-33,Manufacturing,7,7,0,Complete
+51197,Wythe County,42,Wholesale Trade,7,3,4,Moderate coverage
+51197,Wythe County,44-45,Retail Trade,7,7,0,Complete
+51197,Wythe County,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51197,Wythe County,51,Information,7,7,0,Complete
+51197,Wythe County,52,Finance and Insurance,7,7,0,Complete
+51197,Wythe County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51197,Wythe County,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51197,Wythe County,55,Management of Companies and Enterprises,7,5,2,High coverage
+51197,Wythe County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51197,Wythe County,61,Educational Services,7,2,5,Limited coverage
+51197,Wythe County,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51197,Wythe County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51197,Wythe County,72,Accommodation and Food Services,7,7,0,Complete
+51197,Wythe County,81,Other Services,7,7,0,Complete
+51197,Wythe County,99,Unclassified,7,7,0,Complete
+51199,York County,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51199,York County,22,Utilities,7,7,0,Complete
+51199,York County,23,Construction,7,7,0,Complete
+51199,York County,31-33,Manufacturing,7,7,0,Complete
+51199,York County,42,Wholesale Trade,7,7,0,Complete
+51199,York County,44-45,Retail Trade,7,7,0,Complete
+51199,York County,48-49,Transportation and Warehousing,7,7,0,Complete
+51199,York County,51,Information,7,7,0,Complete
+51199,York County,52,Finance and Insurance,7,7,0,Complete
+51199,York County,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51199,York County,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51199,York County,55,Management of Companies and Enterprises,7,7,0,Complete
+51199,York County,56,Administrative and Support and Waste Management,7,7,0,Complete
+51199,York County,61,Educational Services,7,7,0,Complete
+51199,York County,62,Health Care and Social Assistance,7,7,0,Complete
+51199,York County,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51199,York County,72,Accommodation and Food Services,7,7,0,Complete
+51199,York County,81,Other Services,7,7,0,Complete
+51199,York County,99,Unclassified,7,7,0,Complete
+51510,Alexandria city,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51510,Alexandria city,21,"Mining, Quarrying, and Oil and Gas Extraction",1,0,1,Limited coverage
+51510,Alexandria city,22,Utilities,7,3,4,Moderate coverage
+51510,Alexandria city,23,Construction,7,7,0,Complete
+51510,Alexandria city,31-33,Manufacturing,7,1,6,Limited coverage
+51510,Alexandria city,42,Wholesale Trade,7,3,4,Moderate coverage
+51510,Alexandria city,44-45,Retail Trade,7,7,0,Complete
+51510,Alexandria city,48-49,Transportation and Warehousing,7,7,0,Complete
+51510,Alexandria city,51,Information,7,6,1,High coverage
+51510,Alexandria city,52,Finance and Insurance,7,7,0,Complete
+51510,Alexandria city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51510,Alexandria city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51510,Alexandria city,55,Management of Companies and Enterprises,7,7,0,Complete
+51510,Alexandria city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51510,Alexandria city,61,Educational Services,7,7,0,Complete
+51510,Alexandria city,62,Health Care and Social Assistance,7,7,0,Complete
+51510,Alexandria city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51510,Alexandria city,72,Accommodation and Food Services,7,7,0,Complete
+51510,Alexandria city,81,Other Services,7,7,0,Complete
+51510,Alexandria city,99,Unclassified,7,6,1,High coverage
+51520,Bristol city,11,"Agriculture, Forestry, Fishing and Hunting",5,0,5,Limited coverage
+51520,Bristol city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51520,Bristol city,22,Utilities,7,0,7,Limited coverage
+51520,Bristol city,23,Construction,7,0,7,Limited coverage
+51520,Bristol city,31-33,Manufacturing,7,7,0,Complete
+51520,Bristol city,42,Wholesale Trade,7,2,5,Limited coverage
+51520,Bristol city,44-45,Retail Trade,7,7,0,Complete
+51520,Bristol city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51520,Bristol city,51,Information,7,5,2,High coverage
+51520,Bristol city,52,Finance and Insurance,7,7,0,Complete
+51520,Bristol city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51520,Bristol city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51520,Bristol city,55,Management of Companies and Enterprises,7,7,0,Complete
+51520,Bristol city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51520,Bristol city,61,Educational Services,7,7,0,Complete
+51520,Bristol city,62,Health Care and Social Assistance,7,7,0,Complete
+51520,Bristol city,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51520,Bristol city,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51520,Bristol city,81,Other Services,7,7,0,Complete
+51520,Bristol city,99,Unclassified,7,5,2,High coverage
+51530,Buena Vista city,11,"Agriculture, Forestry, Fishing and Hunting",1,0,1,Limited coverage
+51530,Buena Vista city,22,Utilities,3,0,3,Limited coverage
+51530,Buena Vista city,23,Construction,7,5,2,High coverage
+51530,Buena Vista city,31-33,Manufacturing,7,6,1,High coverage
+51530,Buena Vista city,42,Wholesale Trade,7,4,3,Moderate coverage
+51530,Buena Vista city,44-45,Retail Trade,7,7,0,Complete
+51530,Buena Vista city,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51530,Buena Vista city,51,Information,3,0,3,Limited coverage
+51530,Buena Vista city,52,Finance and Insurance,7,7,0,Complete
+51530,Buena Vista city,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51530,Buena Vista city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51530,Buena Vista city,55,Management of Companies and Enterprises,6,0,6,Limited coverage
+51530,Buena Vista city,56,Administrative and Support and Waste Management,7,5,2,High coverage
+51530,Buena Vista city,61,Educational Services,7,0,7,Limited coverage
+51530,Buena Vista city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51530,Buena Vista city,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51530,Buena Vista city,72,Accommodation and Food Services,7,0,7,Limited coverage
+51530,Buena Vista city,81,Other Services,7,6,1,High coverage
+51530,Buena Vista city,99,Unclassified,7,3,4,Moderate coverage
+51540,Charlottesville city,11,"Agriculture, Forestry, Fishing and Hunting",7,1,6,Limited coverage
+51540,Charlottesville city,21,"Mining, Quarrying, and Oil and Gas Extraction",6,0,6,Limited coverage
+51540,Charlottesville city,22,Utilities,7,0,7,Limited coverage
+51540,Charlottesville city,23,Construction,7,7,0,Complete
+51540,Charlottesville city,31-33,Manufacturing,7,7,0,Complete
+51540,Charlottesville city,42,Wholesale Trade,7,7,0,Complete
+51540,Charlottesville city,44-45,Retail Trade,7,7,0,Complete
+51540,Charlottesville city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51540,Charlottesville city,51,Information,7,7,0,Complete
+51540,Charlottesville city,52,Finance and Insurance,7,7,0,Complete
+51540,Charlottesville city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51540,Charlottesville city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51540,Charlottesville city,55,Management of Companies and Enterprises,7,7,0,Complete
+51540,Charlottesville city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51540,Charlottesville city,61,Educational Services,7,7,0,Complete
+51540,Charlottesville city,62,Health Care and Social Assistance,7,7,0,Complete
+51540,Charlottesville city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51540,Charlottesville city,72,Accommodation and Food Services,7,7,0,Complete
+51540,Charlottesville city,81,Other Services,7,7,0,Complete
+51540,Charlottesville city,99,Unclassified,7,7,0,Complete
+51550,Chesapeake city,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51550,Chesapeake city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51550,Chesapeake city,22,Utilities,7,7,0,Complete
+51550,Chesapeake city,23,Construction,7,7,0,Complete
+51550,Chesapeake city,31-33,Manufacturing,7,7,0,Complete
+51550,Chesapeake city,42,Wholesale Trade,7,7,0,Complete
+51550,Chesapeake city,44-45,Retail Trade,7,7,0,Complete
+51550,Chesapeake city,48-49,Transportation and Warehousing,7,7,0,Complete
+51550,Chesapeake city,51,Information,7,7,0,Complete
+51550,Chesapeake city,52,Finance and Insurance,7,7,0,Complete
+51550,Chesapeake city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51550,Chesapeake city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51550,Chesapeake city,55,Management of Companies and Enterprises,7,7,0,Complete
+51550,Chesapeake city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51550,Chesapeake city,61,Educational Services,7,7,0,Complete
+51550,Chesapeake city,62,Health Care and Social Assistance,7,7,0,Complete
+51550,Chesapeake city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51550,Chesapeake city,72,Accommodation and Food Services,7,7,0,Complete
+51550,Chesapeake city,81,Other Services,7,7,0,Complete
+51550,Chesapeake city,99,Unclassified,7,7,0,Complete
+51570,Colonial Heights city,23,Construction,7,6,1,High coverage
+51570,Colonial Heights city,31-33,Manufacturing,7,6,1,High coverage
+51570,Colonial Heights city,42,Wholesale Trade,7,7,0,Complete
+51570,Colonial Heights city,44-45,Retail Trade,7,7,0,Complete
+51570,Colonial Heights city,48-49,Transportation and Warehousing,7,7,0,Complete
+51570,Colonial Heights city,51,Information,7,6,1,High coverage
+51570,Colonial Heights city,52,Finance and Insurance,7,7,0,Complete
+51570,Colonial Heights city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51570,Colonial Heights city,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51570,Colonial Heights city,55,Management of Companies and Enterprises,4,0,4,Limited coverage
+51570,Colonial Heights city,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51570,Colonial Heights city,61,Educational Services,7,5,2,High coverage
+51570,Colonial Heights city,62,Health Care and Social Assistance,7,5,2,High coverage
+51570,Colonial Heights city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51570,Colonial Heights city,72,Accommodation and Food Services,7,7,0,Complete
+51570,Colonial Heights city,81,Other Services,7,7,0,Complete
+51570,Colonial Heights city,99,Unclassified,7,6,1,High coverage
+51580,Covington city,11,"Agriculture, Forestry, Fishing and Hunting",5,0,5,Limited coverage
+51580,Covington city,22,Utilities,7,0,7,Limited coverage
+51580,Covington city,23,Construction,7,5,2,High coverage
+51580,Covington city,31-33,Manufacturing,7,0,7,Limited coverage
+51580,Covington city,42,Wholesale Trade,7,5,2,High coverage
+51580,Covington city,44-45,Retail Trade,7,7,0,Complete
+51580,Covington city,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51580,Covington city,51,Information,7,6,1,High coverage
+51580,Covington city,52,Finance and Insurance,7,7,0,Complete
+51580,Covington city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51580,Covington city,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51580,Covington city,55,Management of Companies and Enterprises,1,0,1,Limited coverage
+51580,Covington city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51580,Covington city,61,Educational Services,7,0,7,Limited coverage
+51580,Covington city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51580,Covington city,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51580,Covington city,72,Accommodation and Food Services,7,0,7,Limited coverage
+51580,Covington city,81,Other Services,7,7,0,Complete
+51580,Covington city,99,Unclassified,7,6,1,High coverage
+51590,Danville city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51590,Danville city,22,Utilities,2,0,2,Limited coverage
+51590,Danville city,23,Construction,7,0,7,Limited coverage
+51590,Danville city,31-33,Manufacturing,7,7,0,Complete
+51590,Danville city,42,Wholesale Trade,7,7,0,Complete
+51590,Danville city,44-45,Retail Trade,7,7,0,Complete
+51590,Danville city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51590,Danville city,51,Information,7,6,1,High coverage
+51590,Danville city,52,Finance and Insurance,7,7,0,Complete
+51590,Danville city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51590,Danville city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51590,Danville city,55,Management of Companies and Enterprises,7,7,0,Complete
+51590,Danville city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51590,Danville city,61,Educational Services,7,7,0,Complete
+51590,Danville city,62,Health Care and Social Assistance,7,7,0,Complete
+51590,Danville city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51590,Danville city,72,Accommodation and Food Services,7,7,0,Complete
+51590,Danville city,81,Other Services,7,7,0,Complete
+51590,Danville city,99,Unclassified,7,6,1,High coverage
+51595,Emporia city,22,Utilities,7,0,7,Limited coverage
+51595,Emporia city,23,Construction,7,3,4,Moderate coverage
+51595,Emporia city,31-33,Manufacturing,7,3,4,Moderate coverage
+51595,Emporia city,42,Wholesale Trade,7,2,5,Limited coverage
+51595,Emporia city,44-45,Retail Trade,7,7,0,Complete
+51595,Emporia city,48-49,Transportation and Warehousing,7,1,6,Limited coverage
+51595,Emporia city,51,Information,7,0,7,Limited coverage
+51595,Emporia city,52,Finance and Insurance,7,7,0,Complete
+51595,Emporia city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51595,Emporia city,54,"Professional, Scientific, and Technical Services",7,5,2,High coverage
+51595,Emporia city,55,Management of Companies and Enterprises,2,0,2,Limited coverage
+51595,Emporia city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51595,Emporia city,61,Educational Services,4,0,4,Limited coverage
+51595,Emporia city,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51595,Emporia city,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51595,Emporia city,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51595,Emporia city,81,Other Services,7,6,1,High coverage
+51595,Emporia city,99,Unclassified,7,0,7,Limited coverage
+51600,Fairfax city,22,Utilities,7,0,7,Limited coverage
+51600,Fairfax city,23,Construction,7,6,1,High coverage
+51600,Fairfax city,31-33,Manufacturing,7,6,1,High coverage
+51600,Fairfax city,42,Wholesale Trade,7,7,0,Complete
+51600,Fairfax city,44-45,Retail Trade,7,7,0,Complete
+51600,Fairfax city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51600,Fairfax city,51,Information,7,6,1,High coverage
+51600,Fairfax city,52,Finance and Insurance,7,7,0,Complete
+51600,Fairfax city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51600,Fairfax city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51600,Fairfax city,55,Management of Companies and Enterprises,7,7,0,Complete
+51600,Fairfax city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51600,Fairfax city,61,Educational Services,7,7,0,Complete
+51600,Fairfax city,62,Health Care and Social Assistance,7,7,0,Complete
+51600,Fairfax city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51600,Fairfax city,72,Accommodation and Food Services,7,7,0,Complete
+51600,Fairfax city,81,Other Services,7,7,0,Complete
+51600,Fairfax city,99,Unclassified,7,6,1,High coverage
+51610,Falls Church city,23,Construction,7,7,0,Complete
+51610,Falls Church city,31-33,Manufacturing,7,7,0,Complete
+51610,Falls Church city,42,Wholesale Trade,7,7,0,Complete
+51610,Falls Church city,44-45,Retail Trade,7,7,0,Complete
+51610,Falls Church city,48-49,Transportation and Warehousing,7,7,0,Complete
+51610,Falls Church city,51,Information,7,7,0,Complete
+51610,Falls Church city,52,Finance and Insurance,7,7,0,Complete
+51610,Falls Church city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51610,Falls Church city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51610,Falls Church city,55,Management of Companies and Enterprises,7,7,0,Complete
+51610,Falls Church city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51610,Falls Church city,61,Educational Services,7,7,0,Complete
+51610,Falls Church city,62,Health Care and Social Assistance,7,7,0,Complete
+51610,Falls Church city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51610,Falls Church city,72,Accommodation and Food Services,7,7,0,Complete
+51610,Falls Church city,81,Other Services,7,7,0,Complete
+51610,Falls Church city,99,Unclassified,7,7,0,Complete
+51620,Franklin city,11,"Agriculture, Forestry, Fishing and Hunting",7,5,2,High coverage
+51620,Franklin city,23,Construction,7,5,2,High coverage
+51620,Franklin city,31-33,Manufacturing,7,7,0,Complete
+51620,Franklin city,42,Wholesale Trade,7,5,2,High coverage
+51620,Franklin city,44-45,Retail Trade,7,7,0,Complete
+51620,Franklin city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51620,Franklin city,51,Information,7,1,6,Limited coverage
+51620,Franklin city,52,Finance and Insurance,7,7,0,Complete
+51620,Franklin city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51620,Franklin city,54,"Professional, Scientific, and Technical Services",7,2,5,Limited coverage
+51620,Franklin city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51620,Franklin city,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51620,Franklin city,61,Educational Services,7,0,7,Limited coverage
+51620,Franklin city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51620,Franklin city,71,"Arts, Entertainment, and Recreation",7,0,7,Limited coverage
+51620,Franklin city,72,Accommodation and Food Services,7,0,7,Limited coverage
+51620,Franklin city,81,Other Services,7,7,0,Complete
+51620,Franklin city,99,Unclassified,7,1,6,Limited coverage
+51630,Fredericksburg city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51630,Fredericksburg city,22,Utilities,7,0,7,Limited coverage
+51630,Fredericksburg city,23,Construction,7,7,0,Complete
+51630,Fredericksburg city,31-33,Manufacturing,7,0,7,Limited coverage
+51630,Fredericksburg city,42,Wholesale Trade,7,7,0,Complete
+51630,Fredericksburg city,44-45,Retail Trade,7,7,0,Complete
+51630,Fredericksburg city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51630,Fredericksburg city,51,Information,7,6,1,High coverage
+51630,Fredericksburg city,52,Finance and Insurance,7,7,0,Complete
+51630,Fredericksburg city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51630,Fredericksburg city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51630,Fredericksburg city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51630,Fredericksburg city,56,Administrative and Support and Waste Management,7,0,7,Limited coverage
+51630,Fredericksburg city,61,Educational Services,7,7,0,Complete
+51630,Fredericksburg city,62,Health Care and Social Assistance,7,7,0,Complete
+51630,Fredericksburg city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51630,Fredericksburg city,72,Accommodation and Food Services,7,7,0,Complete
+51630,Fredericksburg city,81,Other Services,7,7,0,Complete
+51630,Fredericksburg city,99,Unclassified,7,6,1,High coverage
+51640,Galax city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51640,Galax city,23,Construction,7,0,7,Limited coverage
+51640,Galax city,31-33,Manufacturing,7,7,0,Complete
+51640,Galax city,42,Wholesale Trade,7,2,5,Limited coverage
+51640,Galax city,44-45,Retail Trade,7,7,0,Complete
+51640,Galax city,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51640,Galax city,51,Information,7,6,1,High coverage
+51640,Galax city,52,Finance and Insurance,7,7,0,Complete
+51640,Galax city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51640,Galax city,54,"Professional, Scientific, and Technical Services",7,4,3,Moderate coverage
+51640,Galax city,55,Management of Companies and Enterprises,3,0,3,Limited coverage
+51640,Galax city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51640,Galax city,61,Educational Services,3,0,3,Limited coverage
+51640,Galax city,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51640,Galax city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51640,Galax city,72,Accommodation and Food Services,7,7,0,Complete
+51640,Galax city,81,Other Services,7,7,0,Complete
+51640,Galax city,99,Unclassified,7,6,1,High coverage
+51650,Hampton city,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51650,Hampton city,21,"Mining, Quarrying, and Oil and Gas Extraction",2,0,2,Limited coverage
+51650,Hampton city,22,Utilities,7,0,7,Limited coverage
+51650,Hampton city,23,Construction,7,6,1,High coverage
+51650,Hampton city,31-33,Manufacturing,7,6,1,High coverage
+51650,Hampton city,42,Wholesale Trade,7,0,7,Limited coverage
+51650,Hampton city,44-45,Retail Trade,7,7,0,Complete
+51650,Hampton city,48-49,Transportation and Warehousing,7,7,0,Complete
+51650,Hampton city,51,Information,7,6,1,High coverage
+51650,Hampton city,52,Finance and Insurance,7,7,0,Complete
+51650,Hampton city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51650,Hampton city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51650,Hampton city,55,Management of Companies and Enterprises,7,7,0,Complete
+51650,Hampton city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51650,Hampton city,61,Educational Services,7,7,0,Complete
+51650,Hampton city,62,Health Care and Social Assistance,7,7,0,Complete
+51650,Hampton city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51650,Hampton city,72,Accommodation and Food Services,7,7,0,Complete
+51650,Hampton city,81,Other Services,7,7,0,Complete
+51650,Hampton city,99,Unclassified,7,6,1,High coverage
+51660,Harrisonburg city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51660,Harrisonburg city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51660,Harrisonburg city,22,Utilities,5,0,5,Limited coverage
+51660,Harrisonburg city,23,Construction,7,6,1,High coverage
+51660,Harrisonburg city,31-33,Manufacturing,7,7,0,Complete
+51660,Harrisonburg city,42,Wholesale Trade,7,6,1,High coverage
+51660,Harrisonburg city,44-45,Retail Trade,7,7,0,Complete
+51660,Harrisonburg city,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51660,Harrisonburg city,51,Information,7,6,1,High coverage
+51660,Harrisonburg city,52,Finance and Insurance,7,7,0,Complete
+51660,Harrisonburg city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51660,Harrisonburg city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51660,Harrisonburg city,55,Management of Companies and Enterprises,7,7,0,Complete
+51660,Harrisonburg city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51660,Harrisonburg city,61,Educational Services,7,7,0,Complete
+51660,Harrisonburg city,62,Health Care and Social Assistance,7,7,0,Complete
+51660,Harrisonburg city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51660,Harrisonburg city,72,Accommodation and Food Services,7,7,0,Complete
+51660,Harrisonburg city,81,Other Services,7,7,0,Complete
+51660,Harrisonburg city,99,Unclassified,7,6,1,High coverage
+51670,Hopewell city,11,"Agriculture, Forestry, Fishing and Hunting",6,0,6,Limited coverage
+51670,Hopewell city,22,Utilities,7,5,2,High coverage
+51670,Hopewell city,23,Construction,7,0,7,Limited coverage
+51670,Hopewell city,31-33,Manufacturing,7,6,1,High coverage
+51670,Hopewell city,42,Wholesale Trade,7,7,0,Complete
+51670,Hopewell city,44-45,Retail Trade,7,7,0,Complete
+51670,Hopewell city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51670,Hopewell city,51,Information,7,0,7,Limited coverage
+51670,Hopewell city,52,Finance and Insurance,7,7,0,Complete
+51670,Hopewell city,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51670,Hopewell city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51670,Hopewell city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51670,Hopewell city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51670,Hopewell city,61,Educational Services,7,0,7,Limited coverage
+51670,Hopewell city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51670,Hopewell city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51670,Hopewell city,72,Accommodation and Food Services,7,7,0,Complete
+51670,Hopewell city,81,Other Services,7,7,0,Complete
+51670,Hopewell city,99,Unclassified,7,0,7,Limited coverage
+51678,Lexington city,11,"Agriculture, Forestry, Fishing and Hunting",2,0,2,Limited coverage
+51678,Lexington city,23,Construction,7,5,2,High coverage
+51678,Lexington city,31-33,Manufacturing,7,3,4,Moderate coverage
+51678,Lexington city,42,Wholesale Trade,7,0,7,Limited coverage
+51678,Lexington city,44-45,Retail Trade,7,4,3,Moderate coverage
+51678,Lexington city,48-49,Transportation and Warehousing,4,0,4,Limited coverage
+51678,Lexington city,51,Information,7,1,6,Limited coverage
+51678,Lexington city,52,Finance and Insurance,7,7,0,Complete
+51678,Lexington city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51678,Lexington city,54,"Professional, Scientific, and Technical Services",7,3,4,Moderate coverage
+51678,Lexington city,56,Administrative and Support and Waste Management,7,3,4,Moderate coverage
+51678,Lexington city,61,Educational Services,7,0,7,Limited coverage
+51678,Lexington city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51678,Lexington city,71,"Arts, Entertainment, and Recreation",7,1,6,Limited coverage
+51678,Lexington city,72,Accommodation and Food Services,7,1,6,Limited coverage
+51678,Lexington city,81,Other Services,7,7,0,Complete
+51678,Lexington city,99,Unclassified,7,1,6,Limited coverage
+51680,Lynchburg city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51680,Lynchburg city,21,"Mining, Quarrying, and Oil and Gas Extraction",5,0,5,Limited coverage
+51680,Lynchburg city,22,Utilities,7,4,3,Moderate coverage
+51680,Lynchburg city,23,Construction,7,4,3,Moderate coverage
+51680,Lynchburg city,31-33,Manufacturing,7,7,0,Complete
+51680,Lynchburg city,42,Wholesale Trade,7,7,0,Complete
+51680,Lynchburg city,44-45,Retail Trade,7,7,0,Complete
+51680,Lynchburg city,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51680,Lynchburg city,51,Information,7,7,0,Complete
+51680,Lynchburg city,52,Finance and Insurance,7,7,0,Complete
+51680,Lynchburg city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51680,Lynchburg city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51680,Lynchburg city,55,Management of Companies and Enterprises,7,7,0,Complete
+51680,Lynchburg city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51680,Lynchburg city,61,Educational Services,7,7,0,Complete
+51680,Lynchburg city,62,Health Care and Social Assistance,7,7,0,Complete
+51680,Lynchburg city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51680,Lynchburg city,72,Accommodation and Food Services,7,7,0,Complete
+51680,Lynchburg city,81,Other Services,7,7,0,Complete
+51680,Lynchburg city,99,Unclassified,7,7,0,Complete
+51683,Manassas city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51683,Manassas city,22,Utilities,2,0,2,Limited coverage
+51683,Manassas city,23,Construction,7,0,7,Limited coverage
+51683,Manassas city,31-33,Manufacturing,7,6,1,High coverage
+51683,Manassas city,42,Wholesale Trade,7,7,0,Complete
+51683,Manassas city,44-45,Retail Trade,7,7,0,Complete
+51683,Manassas city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51683,Manassas city,51,Information,7,6,1,High coverage
+51683,Manassas city,52,Finance and Insurance,7,7,0,Complete
+51683,Manassas city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51683,Manassas city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51683,Manassas city,55,Management of Companies and Enterprises,7,4,3,Moderate coverage
+51683,Manassas city,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51683,Manassas city,61,Educational Services,7,7,0,Complete
+51683,Manassas city,62,Health Care and Social Assistance,7,7,0,Complete
+51683,Manassas city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51683,Manassas city,72,Accommodation and Food Services,7,7,0,Complete
+51683,Manassas city,81,Other Services,7,7,0,Complete
+51683,Manassas city,99,Unclassified,7,6,1,High coverage
+51685,Manassas Park city,21,"Mining, Quarrying, and Oil and Gas Extraction",1,0,1,Limited coverage
+51685,Manassas Park city,22,Utilities,1,0,1,Limited coverage
+51685,Manassas Park city,23,Construction,7,7,0,Complete
+51685,Manassas Park city,31-33,Manufacturing,7,6,1,High coverage
+51685,Manassas Park city,42,Wholesale Trade,7,7,0,Complete
+51685,Manassas Park city,44-45,Retail Trade,7,5,2,High coverage
+51685,Manassas Park city,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51685,Manassas Park city,51,Information,7,5,2,High coverage
+51685,Manassas Park city,52,Finance and Insurance,7,7,0,Complete
+51685,Manassas Park city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51685,Manassas Park city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51685,Manassas Park city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51685,Manassas Park city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51685,Manassas Park city,61,Educational Services,7,0,7,Limited coverage
+51685,Manassas Park city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51685,Manassas Park city,71,"Arts, Entertainment, and Recreation",7,5,2,High coverage
+51685,Manassas Park city,72,Accommodation and Food Services,7,5,2,High coverage
+51685,Manassas Park city,81,Other Services,7,7,0,Complete
+51685,Manassas Park city,99,Unclassified,7,5,2,High coverage
+51690,Martinsville city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51690,Martinsville city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51690,Martinsville city,22,Utilities,7,0,7,Limited coverage
+51690,Martinsville city,23,Construction,7,1,6,Limited coverage
+51690,Martinsville city,31-33,Manufacturing,7,7,0,Complete
+51690,Martinsville city,42,Wholesale Trade,7,1,6,Limited coverage
+51690,Martinsville city,44-45,Retail Trade,7,7,0,Complete
+51690,Martinsville city,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51690,Martinsville city,51,Information,7,6,1,High coverage
+51690,Martinsville city,52,Finance and Insurance,7,7,0,Complete
+51690,Martinsville city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51690,Martinsville city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51690,Martinsville city,55,Management of Companies and Enterprises,7,7,0,Complete
+51690,Martinsville city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51690,Martinsville city,61,Educational Services,7,3,4,Moderate coverage
+51690,Martinsville city,62,Health Care and Social Assistance,7,3,4,Moderate coverage
+51690,Martinsville city,71,"Arts, Entertainment, and Recreation",7,6,1,High coverage
+51690,Martinsville city,72,Accommodation and Food Services,7,6,1,High coverage
+51690,Martinsville city,81,Other Services,7,7,0,Complete
+51690,Martinsville city,99,Unclassified,7,6,1,High coverage
+51700,Newport News city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51700,Newport News city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51700,Newport News city,22,Utilities,7,3,4,Moderate coverage
+51700,Newport News city,23,Construction,7,6,1,High coverage
+51700,Newport News city,31-33,Manufacturing,7,7,0,Complete
+51700,Newport News city,42,Wholesale Trade,7,7,0,Complete
+51700,Newport News city,44-45,Retail Trade,7,7,0,Complete
+51700,Newport News city,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51700,Newport News city,51,Information,7,6,1,High coverage
+51700,Newport News city,52,Finance and Insurance,7,7,0,Complete
+51700,Newport News city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51700,Newport News city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51700,Newport News city,55,Management of Companies and Enterprises,7,7,0,Complete
+51700,Newport News city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51700,Newport News city,61,Educational Services,7,7,0,Complete
+51700,Newport News city,62,Health Care and Social Assistance,7,7,0,Complete
+51700,Newport News city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51700,Newport News city,72,Accommodation and Food Services,7,7,0,Complete
+51700,Newport News city,81,Other Services,7,7,0,Complete
+51700,Newport News city,99,Unclassified,7,6,1,High coverage
+51710,Norfolk city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51710,Norfolk city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51710,Norfolk city,22,Utilities,7,5,2,High coverage
+51710,Norfolk city,23,Construction,7,6,1,High coverage
+51710,Norfolk city,31-33,Manufacturing,7,6,1,High coverage
+51710,Norfolk city,42,Wholesale Trade,7,5,2,High coverage
+51710,Norfolk city,44-45,Retail Trade,7,7,0,Complete
+51710,Norfolk city,48-49,Transportation and Warehousing,7,7,0,Complete
+51710,Norfolk city,51,Information,7,6,1,High coverage
+51710,Norfolk city,52,Finance and Insurance,7,7,0,Complete
+51710,Norfolk city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51710,Norfolk city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51710,Norfolk city,55,Management of Companies and Enterprises,7,7,0,Complete
+51710,Norfolk city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51710,Norfolk city,61,Educational Services,7,7,0,Complete
+51710,Norfolk city,62,Health Care and Social Assistance,7,7,0,Complete
+51710,Norfolk city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51710,Norfolk city,72,Accommodation and Food Services,7,7,0,Complete
+51710,Norfolk city,81,Other Services,7,7,0,Complete
+51710,Norfolk city,99,Unclassified,7,6,1,High coverage
+51720,Norton city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,3,4,Moderate coverage
+51720,Norton city,22,Utilities,7,0,7,Limited coverage
+51720,Norton city,23,Construction,7,3,4,Moderate coverage
+51720,Norton city,31-33,Manufacturing,7,7,0,Complete
+51720,Norton city,42,Wholesale Trade,7,7,0,Complete
+51720,Norton city,44-45,Retail Trade,7,7,0,Complete
+51720,Norton city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51720,Norton city,51,Information,7,5,2,High coverage
+51720,Norton city,52,Finance and Insurance,7,7,0,Complete
+51720,Norton city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51720,Norton city,54,"Professional, Scientific, and Technical Services",7,6,1,High coverage
+51720,Norton city,55,Management of Companies and Enterprises,7,1,6,Limited coverage
+51720,Norton city,56,Administrative and Support and Waste Management,7,1,6,Limited coverage
+51720,Norton city,62,Health Care and Social Assistance,7,7,0,Complete
+51720,Norton city,72,Accommodation and Food Services,7,7,0,Complete
+51720,Norton city,81,Other Services,7,7,0,Complete
+51720,Norton city,99,Unclassified,7,5,2,High coverage
+51730,Petersburg city,11,"Agriculture, Forestry, Fishing and Hunting",3,0,3,Limited coverage
+51730,Petersburg city,22,Utilities,7,0,7,Limited coverage
+51730,Petersburg city,23,Construction,7,4,3,Moderate coverage
+51730,Petersburg city,31-33,Manufacturing,7,7,0,Complete
+51730,Petersburg city,42,Wholesale Trade,7,7,0,Complete
+51730,Petersburg city,44-45,Retail Trade,7,7,0,Complete
+51730,Petersburg city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51730,Petersburg city,51,Information,7,3,4,Moderate coverage
+51730,Petersburg city,52,Finance and Insurance,7,7,0,Complete
+51730,Petersburg city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51730,Petersburg city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51730,Petersburg city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51730,Petersburg city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51730,Petersburg city,61,Educational Services,7,5,2,High coverage
+51730,Petersburg city,62,Health Care and Social Assistance,7,5,2,High coverage
+51730,Petersburg city,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51730,Petersburg city,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51730,Petersburg city,81,Other Services,7,7,0,Complete
+51730,Petersburg city,99,Unclassified,7,3,4,Moderate coverage
+51735,Poquoson city,22,Utilities,1,0,1,Limited coverage
+51735,Poquoson city,23,Construction,7,6,1,High coverage
+51735,Poquoson city,31-33,Manufacturing,7,6,1,High coverage
+51735,Poquoson city,42,Wholesale Trade,7,4,3,Moderate coverage
+51735,Poquoson city,44-45,Retail Trade,7,7,0,Complete
+51735,Poquoson city,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51735,Poquoson city,51,Information,7,0,7,Limited coverage
+51735,Poquoson city,52,Finance and Insurance,7,7,0,Complete
+51735,Poquoson city,53,Real Estate and Rental and Leasing,7,6,1,High coverage
+51735,Poquoson city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51735,Poquoson city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51735,Poquoson city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51735,Poquoson city,61,Educational Services,7,0,7,Limited coverage
+51735,Poquoson city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51735,Poquoson city,71,"Arts, Entertainment, and Recreation",7,3,4,Moderate coverage
+51735,Poquoson city,72,Accommodation and Food Services,7,3,4,Moderate coverage
+51735,Poquoson city,81,Other Services,7,7,0,Complete
+51735,Poquoson city,99,Unclassified,7,0,7,Limited coverage
+51740,Portsmouth city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51740,Portsmouth city,22,Utilities,7,0,7,Limited coverage
+51740,Portsmouth city,23,Construction,7,7,0,Complete
+51740,Portsmouth city,31-33,Manufacturing,7,0,7,Limited coverage
+51740,Portsmouth city,42,Wholesale Trade,7,0,7,Limited coverage
+51740,Portsmouth city,44-45,Retail Trade,7,7,0,Complete
+51740,Portsmouth city,48-49,Transportation and Warehousing,7,7,0,Complete
+51740,Portsmouth city,51,Information,7,6,1,High coverage
+51740,Portsmouth city,52,Finance and Insurance,7,7,0,Complete
+51740,Portsmouth city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51740,Portsmouth city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51740,Portsmouth city,55,Management of Companies and Enterprises,7,7,0,Complete
+51740,Portsmouth city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51740,Portsmouth city,61,Educational Services,7,7,0,Complete
+51740,Portsmouth city,62,Health Care and Social Assistance,7,7,0,Complete
+51740,Portsmouth city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51740,Portsmouth city,72,Accommodation and Food Services,7,7,0,Complete
+51740,Portsmouth city,81,Other Services,7,7,0,Complete
+51740,Portsmouth city,99,Unclassified,7,6,1,High coverage
+51750,Radford city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51750,Radford city,22,Utilities,7,0,7,Limited coverage
+51750,Radford city,23,Construction,7,0,7,Limited coverage
+51750,Radford city,31-33,Manufacturing,7,7,0,Complete
+51750,Radford city,42,Wholesale Trade,7,7,0,Complete
+51750,Radford city,44-45,Retail Trade,7,7,0,Complete
+51750,Radford city,48-49,Transportation and Warehousing,7,0,7,Limited coverage
+51750,Radford city,51,Information,7,2,5,Limited coverage
+51750,Radford city,52,Finance and Insurance,7,7,0,Complete
+51750,Radford city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51750,Radford city,54,"Professional, Scientific, and Technical Services",7,0,7,Limited coverage
+51750,Radford city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51750,Radford city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51750,Radford city,61,Educational Services,7,0,7,Limited coverage
+51750,Radford city,62,Health Care and Social Assistance,7,0,7,Limited coverage
+51750,Radford city,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51750,Radford city,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51750,Radford city,81,Other Services,7,7,0,Complete
+51750,Radford city,99,Unclassified,7,2,5,Limited coverage
+51760,Richmond city,11,"Agriculture, Forestry, Fishing and Hunting",7,7,0,Complete
+51760,Richmond city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,7,0,Complete
+51760,Richmond city,22,Utilities,7,6,1,High coverage
+51760,Richmond city,23,Construction,7,7,0,Complete
+51760,Richmond city,31-33,Manufacturing,7,7,0,Complete
+51760,Richmond city,42,Wholesale Trade,7,7,0,Complete
+51760,Richmond city,44-45,Retail Trade,7,7,0,Complete
+51760,Richmond city,48-49,Transportation and Warehousing,7,6,1,High coverage
+51760,Richmond city,51,Information,7,7,0,Complete
+51760,Richmond city,52,Finance and Insurance,7,7,0,Complete
+51760,Richmond city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51760,Richmond city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51760,Richmond city,55,Management of Companies and Enterprises,7,7,0,Complete
+51760,Richmond city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51760,Richmond city,61,Educational Services,7,7,0,Complete
+51760,Richmond city,62,Health Care and Social Assistance,7,7,0,Complete
+51760,Richmond city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51760,Richmond city,72,Accommodation and Food Services,7,7,0,Complete
+51760,Richmond city,81,Other Services,7,7,0,Complete
+51760,Richmond city,99,Unclassified,7,7,0,Complete
+51770,Roanoke city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51770,Roanoke city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51770,Roanoke city,22,Utilities,7,0,7,Limited coverage
+51770,Roanoke city,23,Construction,7,7,0,Complete
+51770,Roanoke city,31-33,Manufacturing,7,1,6,Limited coverage
+51770,Roanoke city,42,Wholesale Trade,7,0,7,Limited coverage
+51770,Roanoke city,44-45,Retail Trade,7,7,0,Complete
+51770,Roanoke city,48-49,Transportation and Warehousing,7,7,0,Complete
+51770,Roanoke city,51,Information,7,6,1,High coverage
+51770,Roanoke city,52,Finance and Insurance,7,7,0,Complete
+51770,Roanoke city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51770,Roanoke city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51770,Roanoke city,55,Management of Companies and Enterprises,7,7,0,Complete
+51770,Roanoke city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51770,Roanoke city,61,Educational Services,7,7,0,Complete
+51770,Roanoke city,62,Health Care and Social Assistance,7,7,0,Complete
+51770,Roanoke city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51770,Roanoke city,72,Accommodation and Food Services,7,7,0,Complete
+51770,Roanoke city,81,Other Services,7,7,0,Complete
+51770,Roanoke city,99,Unclassified,7,6,1,High coverage
+51775,Salem city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51775,Salem city,22,Utilities,3,0,3,Limited coverage
+51775,Salem city,23,Construction,7,0,7,Limited coverage
+51775,Salem city,31-33,Manufacturing,7,7,0,Complete
+51775,Salem city,42,Wholesale Trade,7,7,0,Complete
+51775,Salem city,44-45,Retail Trade,7,7,0,Complete
+51775,Salem city,48-49,Transportation and Warehousing,7,4,3,Moderate coverage
+51775,Salem city,51,Information,7,6,1,High coverage
+51775,Salem city,52,Finance and Insurance,7,7,0,Complete
+51775,Salem city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51775,Salem city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51775,Salem city,55,Management of Companies and Enterprises,7,7,0,Complete
+51775,Salem city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51775,Salem city,61,Educational Services,7,2,5,Limited coverage
+51775,Salem city,62,Health Care and Social Assistance,7,2,5,Limited coverage
+51775,Salem city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51775,Salem city,72,Accommodation and Food Services,7,7,0,Complete
+51775,Salem city,81,Other Services,7,7,0,Complete
+51775,Salem city,99,Unclassified,7,6,1,High coverage
+51790,Staunton city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51790,Staunton city,22,Utilities,7,0,7,Limited coverage
+51790,Staunton city,23,Construction,7,0,7,Limited coverage
+51790,Staunton city,31-33,Manufacturing,7,7,0,Complete
+51790,Staunton city,42,Wholesale Trade,7,2,5,Limited coverage
+51790,Staunton city,44-45,Retail Trade,7,7,0,Complete
+51790,Staunton city,48-49,Transportation and Warehousing,7,5,2,High coverage
+51790,Staunton city,51,Information,7,6,1,High coverage
+51790,Staunton city,52,Finance and Insurance,7,7,0,Complete
+51790,Staunton city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51790,Staunton city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51790,Staunton city,55,Management of Companies and Enterprises,7,7,0,Complete
+51790,Staunton city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51790,Staunton city,61,Educational Services,7,7,0,Complete
+51790,Staunton city,62,Health Care and Social Assistance,7,7,0,Complete
+51790,Staunton city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51790,Staunton city,72,Accommodation and Food Services,7,7,0,Complete
+51790,Staunton city,81,Other Services,7,7,0,Complete
+51790,Staunton city,99,Unclassified,7,6,1,High coverage
+51800,Suffolk city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51800,Suffolk city,21,"Mining, Quarrying, and Oil and Gas Extraction",7,0,7,Limited coverage
+51800,Suffolk city,22,Utilities,7,0,7,Limited coverage
+51800,Suffolk city,23,Construction,7,7,0,Complete
+51800,Suffolk city,31-33,Manufacturing,7,7,0,Complete
+51800,Suffolk city,42,Wholesale Trade,7,0,7,Limited coverage
+51800,Suffolk city,44-45,Retail Trade,7,7,0,Complete
+51800,Suffolk city,48-49,Transportation and Warehousing,7,7,0,Complete
+51800,Suffolk city,51,Information,7,7,0,Complete
+51800,Suffolk city,52,Finance and Insurance,7,7,0,Complete
+51800,Suffolk city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51800,Suffolk city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51800,Suffolk city,55,Management of Companies and Enterprises,7,7,0,Complete
+51800,Suffolk city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51800,Suffolk city,61,Educational Services,7,7,0,Complete
+51800,Suffolk city,62,Health Care and Social Assistance,7,7,0,Complete
+51800,Suffolk city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51800,Suffolk city,72,Accommodation and Food Services,7,7,0,Complete
+51800,Suffolk city,81,Other Services,7,7,0,Complete
+51800,Suffolk city,99,Unclassified,7,7,0,Complete
+51810,Virginia Beach city,11,"Agriculture, Forestry, Fishing and Hunting",7,4,3,Moderate coverage
+51810,Virginia Beach city,21,"Mining, Quarrying, and Oil and Gas Extraction",3,0,3,Limited coverage
+51810,Virginia Beach city,22,Utilities,7,3,4,Moderate coverage
+51810,Virginia Beach city,23,Construction,7,7,0,Complete
+51810,Virginia Beach city,31-33,Manufacturing,7,7,0,Complete
+51810,Virginia Beach city,42,Wholesale Trade,7,6,1,High coverage
+51810,Virginia Beach city,44-45,Retail Trade,7,7,0,Complete
+51810,Virginia Beach city,48-49,Transportation and Warehousing,7,3,4,Moderate coverage
+51810,Virginia Beach city,51,Information,7,7,0,Complete
+51810,Virginia Beach city,52,Finance and Insurance,7,7,0,Complete
+51810,Virginia Beach city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51810,Virginia Beach city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51810,Virginia Beach city,55,Management of Companies and Enterprises,7,7,0,Complete
+51810,Virginia Beach city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51810,Virginia Beach city,61,Educational Services,7,7,0,Complete
+51810,Virginia Beach city,62,Health Care and Social Assistance,7,7,0,Complete
+51810,Virginia Beach city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51810,Virginia Beach city,72,Accommodation and Food Services,7,7,0,Complete
+51810,Virginia Beach city,81,Other Services,7,7,0,Complete
+51810,Virginia Beach city,99,Unclassified,7,7,0,Complete
+51820,Waynesboro city,11,"Agriculture, Forestry, Fishing and Hunting",6,0,6,Limited coverage
+51820,Waynesboro city,21,"Mining, Quarrying, and Oil and Gas Extraction",3,0,3,Limited coverage
+51820,Waynesboro city,22,Utilities,1,0,1,Limited coverage
+51820,Waynesboro city,23,Construction,7,1,6,Limited coverage
+51820,Waynesboro city,31-33,Manufacturing,7,7,0,Complete
+51820,Waynesboro city,42,Wholesale Trade,7,6,1,High coverage
+51820,Waynesboro city,44-45,Retail Trade,7,7,0,Complete
+51820,Waynesboro city,48-49,Transportation and Warehousing,7,7,0,Complete
+51820,Waynesboro city,51,Information,7,6,1,High coverage
+51820,Waynesboro city,52,Finance and Insurance,7,7,0,Complete
+51820,Waynesboro city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51820,Waynesboro city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51820,Waynesboro city,55,Management of Companies and Enterprises,7,7,0,Complete
+51820,Waynesboro city,56,Administrative and Support and Waste Management,7,7,0,Complete
+51820,Waynesboro city,61,Educational Services,7,4,3,Moderate coverage
+51820,Waynesboro city,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51820,Waynesboro city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51820,Waynesboro city,72,Accommodation and Food Services,7,7,0,Complete
+51820,Waynesboro city,81,Other Services,7,7,0,Complete
+51820,Waynesboro city,99,Unclassified,7,6,1,High coverage
+51830,Williamsburg city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51830,Williamsburg city,22,Utilities,4,0,4,Limited coverage
+51830,Williamsburg city,23,Construction,7,7,0,Complete
+51830,Williamsburg city,31-33,Manufacturing,7,0,7,Limited coverage
+51830,Williamsburg city,42,Wholesale Trade,7,4,3,Moderate coverage
+51830,Williamsburg city,44-45,Retail Trade,7,7,0,Complete
+51830,Williamsburg city,48-49,Transportation and Warehousing,7,2,5,Limited coverage
+51830,Williamsburg city,51,Information,7,3,4,Moderate coverage
+51830,Williamsburg city,52,Finance and Insurance,7,7,0,Complete
+51830,Williamsburg city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51830,Williamsburg city,54,"Professional, Scientific, and Technical Services",7,7,0,Complete
+51830,Williamsburg city,55,Management of Companies and Enterprises,7,4,3,Moderate coverage
+51830,Williamsburg city,56,Administrative and Support and Waste Management,7,4,3,Moderate coverage
+51830,Williamsburg city,61,Educational Services,7,4,3,Moderate coverage
+51830,Williamsburg city,62,Health Care and Social Assistance,7,4,3,Moderate coverage
+51830,Williamsburg city,71,"Arts, Entertainment, and Recreation",7,4,3,Moderate coverage
+51830,Williamsburg city,72,Accommodation and Food Services,7,4,3,Moderate coverage
+51830,Williamsburg city,81,Other Services,7,7,0,Complete
+51830,Williamsburg city,99,Unclassified,7,3,4,Moderate coverage
+51840,Winchester city,11,"Agriculture, Forestry, Fishing and Hunting",7,0,7,Limited coverage
+51840,Winchester city,23,Construction,7,0,7,Limited coverage
+51840,Winchester city,31-33,Manufacturing,7,7,0,Complete
+51840,Winchester city,42,Wholesale Trade,7,7,0,Complete
+51840,Winchester city,44-45,Retail Trade,7,7,0,Complete
+51840,Winchester city,48-49,Transportation and Warehousing,7,7,0,Complete
+51840,Winchester city,51,Information,7,6,1,High coverage
+51840,Winchester city,52,Finance and Insurance,7,7,0,Complete
+51840,Winchester city,53,Real Estate and Rental and Leasing,7,7,0,Complete
+51840,Winchester city,54,"Professional, Scientific, and Technical Services",7,4,3,Moderate coverage
+51840,Winchester city,55,Management of Companies and Enterprises,7,0,7,Limited coverage
+51840,Winchester city,56,Administrative and Support and Waste Management,7,2,5,Limited coverage
+51840,Winchester city,61,Educational Services,7,7,0,Complete
+51840,Winchester city,62,Health Care and Social Assistance,7,7,0,Complete
+51840,Winchester city,71,"Arts, Entertainment, and Recreation",7,7,0,Complete
+51840,Winchester city,72,Accommodation and Food Services,7,7,0,Complete
+51840,Winchester city,81,Other Services,7,7,0,Complete
+51840,Winchester city,99,Unclassified,7,6,1,High coverage

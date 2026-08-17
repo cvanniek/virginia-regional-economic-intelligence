@@ -1,0 +1,1460 @@
+area_fips,locality_name,industry_code,industry_title,2019,2025,employment_change,employment_growth_pct,growth_rank_within_locality,decline_rank_within_locality
+51001,Accomack County,11,"Agriculture, Forestry, Fishing and Hunting",150.0,199.0,49.0,0.32666666666666666,4.0,10.0
+51001,Accomack County,23,Construction,391.0,349.0,-42.0,-0.10741687979539642,9.0,5.0
+51001,Accomack County,31-33,Manufacturing,3285.0,3229.0,-56.0,-0.01704718417047184,10.0,4.0
+51001,Accomack County,42,Wholesale Trade,240.0,167.0,-73.0,-0.30416666666666664,11.0,3.0
+51001,Accomack County,44-45,Retail Trade,1300.0,1176.0,-124.0,-0.09538461538461539,13.0,1.0
+51001,Accomack County,51,Information,81.0,96.0,15.0,0.18518518518518517,6.0,8.0
+51001,Accomack County,52,Finance and Insurance,145.0,199.0,54.0,0.3724137931034483,3.0,11.0
+51001,Accomack County,53,Real Estate and Rental and Leasing,100.0,148.0,48.0,0.48,5.0,9.0
+51001,Accomack County,54,"Professional, Scientific, and Technical Services",932.0,905.0,-27.0,-0.028969957081545063,8.0,6.0
+51001,Accomack County,71,"Arts, Entertainment, and Recreation",104.0,173.0,69.0,0.6634615384615384,1.0,13.0
+51001,Accomack County,72,Accommodation and Food Services,1279.0,1337.0,58.0,0.04534792806880375,2.0,12.0
+51001,Accomack County,81,Other Services,364.0,287.0,-77.0,-0.21153846153846154,12.0,2.0
+51001,Accomack County,99,Unclassified,15.0,24.0,9.0,0.6,7.0,7.0
+51003,Albemarle County,11,"Agriculture, Forestry, Fishing and Hunting",719.0,719.0,0.0,0.0,13.0,8.0
+51003,Albemarle County,21,"Mining, Quarrying, and Oil and Gas Extraction",46.0,43.0,-3.0,-0.06521739130434782,14.0,7.0
+51003,Albemarle County,22,Utilities,29.0,24.0,-5.0,-0.1724137931034483,15.0,6.0
+51003,Albemarle County,23,Construction,2262.0,2266.0,4.0,0.0017683465959328027,12.0,9.0
+51003,Albemarle County,31-33,Manufacturing,2259.0,2428.0,169.0,0.07481186365648516,6.0,15.0
+51003,Albemarle County,42,Wholesale Trade,708.0,675.0,-33.0,-0.046610169491525424,17.0,4.0
+51003,Albemarle County,44-45,Retail Trade,6108.0,5478.0,-630.0,-0.1031434184675835,20.0,1.0
+51003,Albemarle County,48-49,Transportation and Warehousing,796.0,825.0,29.0,0.0364321608040201,10.0,11.0
+51003,Albemarle County,51,Information,810.0,822.0,12.0,0.014814814814814815,11.0,10.0
+51003,Albemarle County,52,Finance and Insurance,983.0,1043.0,60.0,0.061037639877924724,8.0,13.0
+51003,Albemarle County,53,Real Estate and Rental and Leasing,950.0,1139.0,189.0,0.19894736842105262,5.0,16.0
+51003,Albemarle County,54,"Professional, Scientific, and Technical Services",3778.0,4035.0,257.0,0.06802541026998411,2.0,19.0
+51003,Albemarle County,55,Management of Companies and Enterprises,1355.0,1234.0,-121.0,-0.08929889298892989,18.0,3.0
+51003,Albemarle County,56,Administrative and Support and Waste Management,2037.0,2124.0,87.0,0.042709867452135494,7.0,14.0
+51003,Albemarle County,61,Educational Services,877.0,1096.0,219.0,0.24971493728620298,4.0,17.0
+51003,Albemarle County,62,Health Care and Social Assistance,6746.0,8447.0,1701.0,0.25214942187963235,1.0,20.0
+51003,Albemarle County,71,"Arts, Entertainment, and Recreation",1810.0,1783.0,-27.0,-0.014917127071823204,16.0,5.0
+51003,Albemarle County,72,Accommodation and Food Services,4263.0,4516.0,253.0,0.05934787708186723,3.0,18.0
+51003,Albemarle County,81,Other Services,2014.0,1859.0,-155.0,-0.07696127110228401,19.0,2.0
+51003,Albemarle County,99,Unclassified,83.0,138.0,55.0,0.6626506024096386,9.0,12.0
+51005,Alleghany County,31-33,Manufacturing,445.0,339.0,-106.0,-0.23820224719101124,4.0,1.0
+51005,Alleghany County,44-45,Retail Trade,286.0,240.0,-46.0,-0.16083916083916083,3.0,2.0
+51005,Alleghany County,48-49,Transportation and Warehousing,61.0,91.0,30.0,0.4918032786885246,1.0,4.0
+51005,Alleghany County,81,Other Services,118.0,119.0,1.0,0.00847457627118644,2.0,3.0
+51007,Amelia County,23,Construction,378.0,444.0,66.0,0.1746031746031746,1.0,7.0
+51007,Amelia County,31-33,Manufacturing,232.0,212.0,-20.0,-0.08620689655172414,6.0,2.0
+51007,Amelia County,42,Wholesale Trade,160.0,117.0,-43.0,-0.26875,7.0,1.0
+51007,Amelia County,44-45,Retail Trade,208.0,211.0,3.0,0.014423076923076924,4.0,4.0
+51007,Amelia County,52,Finance and Insurance,35.0,32.0,-3.0,-0.08571428571428572,5.0,3.0
+51007,Amelia County,54,"Professional, Scientific, and Technical Services",80.0,101.0,21.0,0.2625,3.0,5.0
+51007,Amelia County,81,Other Services,62.0,90.0,28.0,0.45161290322580644,2.0,6.0
+51009,Amherst County,31-33,Manufacturing,1369.0,1386.0,17.0,0.01241782322863404,2.0,9.0
+51009,Amherst County,42,Wholesale Trade,141.0,132.0,-9.0,-0.06382978723404255,7.0,4.0
+51009,Amherst County,44-45,Retail Trade,1084.0,1074.0,-10.0,-0.00922509225092251,8.0,3.0
+51009,Amherst County,48-49,Transportation and Warehousing,225.0,127.0,-98.0,-0.43555555555555553,10.0,1.0
+51009,Amherst County,52,Finance and Insurance,120.0,109.0,-11.0,-0.09166666666666666,9.0,2.0
+51009,Amherst County,53,Real Estate and Rental and Leasing,25.0,20.0,-5.0,-0.2,5.0,6.0
+51009,Amherst County,54,"Professional, Scientific, and Technical Services",158.0,188.0,30.0,0.189873417721519,1.0,10.0
+51009,Amherst County,71,"Arts, Entertainment, and Recreation",68.0,80.0,12.0,0.17647058823529413,3.0,8.0
+51009,Amherst County,72,Accommodation and Food Services,635.0,641.0,6.0,0.009448818897637795,4.0,7.0
+51009,Amherst County,81,Other Services,180.0,174.0,-6.0,-0.03333333333333333,6.0,5.0
+51011,Appomattox County,23,Construction,305.0,421.0,116.0,0.380327868852459,1.0,8.0
+51011,Appomattox County,31-33,Manufacturing,87.0,98.0,11.0,0.12643678160919541,4.0,5.0
+51011,Appomattox County,42,Wholesale Trade,60.0,50.0,-10.0,-0.16666666666666666,8.0,1.0
+51011,Appomattox County,44-45,Retail Trade,662.0,669.0,7.0,0.010574018126888218,5.0,4.0
+51011,Appomattox County,52,Finance and Insurance,46.0,52.0,6.0,0.13043478260869565,6.0,3.0
+51011,Appomattox County,71,"Arts, Entertainment, and Recreation",34.0,70.0,36.0,1.0588235294117647,2.0,7.0
+51011,Appomattox County,72,Accommodation and Food Services,309.0,335.0,26.0,0.08414239482200647,3.0,6.0
+51011,Appomattox County,81,Other Services,165.0,170.0,5.0,0.030303030303030304,7.0,2.0
+51013,Arlington County,22,Utilities,355.0,412.0,57.0,0.16056338028169015,8.0,8.0
+51013,Arlington County,23,Construction,1947.0,2199.0,252.0,0.12942989214175654,7.0,9.0
+51013,Arlington County,42,Wholesale Trade,1623.0,1361.0,-262.0,-0.1614294516327788,9.0,7.0
+51013,Arlington County,44-45,Retail Trade,9381.0,7419.0,-1962.0,-0.2091461464662616,14.0,2.0
+51013,Arlington County,48-49,Transportation and Warehousing,9459.0,11007.0,1548.0,0.1636536631779258,2.0,14.0
+51013,Arlington County,52,Finance and Insurance,3828.0,3149.0,-679.0,-0.17737722048066876,12.0,4.0
+51013,Arlington County,53,Real Estate and Rental and Leasing,3240.0,4112.0,872.0,0.2691358024691358,4.0,12.0
+51013,Arlington County,54,"Professional, Scientific, and Technical Services",46622.0,48108.0,1486.0,0.0318733645060272,3.0,13.0
+51013,Arlington County,55,Management of Companies and Enterprises,3159.0,7881.0,4722.0,1.4947768281101614,1.0,15.0
+51013,Arlington County,56,Administrative and Support and Waste Management,11431.0,6975.0,-4456.0,-0.3898171638526813,15.0,1.0
+51013,Arlington County,61,Educational Services,4034.0,3595.0,-439.0,-0.10882498760535449,10.0,6.0
+51013,Arlington County,62,Health Care and Social Assistance,10437.0,11159.0,722.0,0.0691769665612724,5.0,11.0
+51013,Arlington County,71,"Arts, Entertainment, and Recreation",2636.0,2942.0,306.0,0.11608497723823975,6.0,10.0
+51013,Arlington County,72,Accommodation and Food Services,15661.0,14802.0,-859.0,-0.054849626460634696,13.0,3.0
+51013,Arlington County,81,Other Services,11133.0,10568.0,-565.0,-0.05075002245576215,11.0,5.0
+51015,Augusta County,23,Construction,1931.0,2141.0,210.0,0.10875194199896426,5.0,12.0
+51015,Augusta County,31-33,Manufacturing,5898.0,6744.0,846.0,0.14343845371312308,2.0,15.0
+51015,Augusta County,44-45,Retail Trade,2058.0,2115.0,57.0,0.027696793002915453,6.0,11.0
+51015,Augusta County,48-49,Transportation and Warehousing,3367.0,4326.0,959.0,0.28482328482328484,1.0,16.0
+51015,Augusta County,51,Information,118.0,57.0,-61.0,-0.5169491525423728,14.0,3.0
+51015,Augusta County,52,Finance and Insurance,276.0,330.0,54.0,0.1956521739130435,7.0,10.0
+51015,Augusta County,53,Real Estate and Rental and Leasing,251.0,213.0,-38.0,-0.15139442231075698,13.0,4.0
+51015,Augusta County,54,"Professional, Scientific, and Technical Services",500.0,467.0,-33.0,-0.066,12.0,5.0
+51015,Augusta County,55,Management of Companies and Enterprises,40.0,70.0,30.0,0.75,8.0,9.0
+51015,Augusta County,56,Administrative and Support and Waste Management,1328.0,1300.0,-28.0,-0.02108433734939759,11.0,6.0
+51015,Augusta County,61,Educational Services,275.0,542.0,267.0,0.9709090909090909,4.0,13.0
+51015,Augusta County,62,Health Care and Social Assistance,4016.0,4673.0,657.0,0.16359561752988047,3.0,14.0
+51015,Augusta County,71,"Arts, Entertainment, and Recreation",100.0,74.0,-26.0,-0.26,10.0,7.0
+51015,Augusta County,72,Accommodation and Food Services,1661.0,1542.0,-119.0,-0.0716435881998796,16.0,1.0
+51015,Augusta County,81,Other Services,491.0,398.0,-93.0,-0.1894093686354379,15.0,2.0
+51015,Augusta County,99,Unclassified,58.0,58.0,0.0,0.0,9.0,8.0
+51017,Bath County,44-45,Retail Trade,58.0,53.0,-5.0,-0.08620689655172414,3.0,1.0
+51017,Bath County,54,"Professional, Scientific, and Technical Services",112.0,125.0,13.0,0.11607142857142858,1.0,3.0
+51017,Bath County,81,Other Services,37.0,38.0,1.0,0.02702702702702703,2.0,2.0
+51019,Bedford County,23,Construction,1214.0,1330.0,116.0,0.09555189456342669,5.0,10.0
+51019,Bedford County,31-33,Manufacturing,2102.0,1858.0,-244.0,-0.11607992388201713,13.0,2.0
+51019,Bedford County,42,Wholesale Trade,1007.0,707.0,-300.0,-0.29791459781529295,14.0,1.0
+51019,Bedford County,44-45,Retail Trade,2334.0,2536.0,202.0,0.08654670094258783,1.0,14.0
+51019,Bedford County,51,Information,70.0,69.0,-1.0,-0.014285714285714285,9.0,6.0
+51019,Bedford County,52,Finance and Insurance,434.0,445.0,11.0,0.02534562211981567,8.0,7.0
+51019,Bedford County,53,Real Estate and Rental and Leasing,423.0,436.0,13.0,0.030732860520094562,7.0,8.0
+51019,Bedford County,54,"Professional, Scientific, and Technical Services",1249.0,1067.0,-182.0,-0.14571657325860687,12.0,3.0
+51019,Bedford County,61,Educational Services,47.0,211.0,164.0,3.4893617021276597,2.0,13.0
+51019,Bedford County,62,Health Care and Social Assistance,2473.0,2446.0,-27.0,-0.010917913465426607,10.0,5.0
+51019,Bedford County,71,"Arts, Entertainment, and Recreation",270.0,390.0,120.0,0.4444444444444444,4.0,11.0
+51019,Bedford County,72,Accommodation and Food Services,1606.0,1566.0,-40.0,-0.024906600249066,11.0,4.0
+51019,Bedford County,81,Other Services,817.0,958.0,141.0,0.17258261933904528,3.0,12.0
+51019,Bedford County,99,Unclassified,63.0,94.0,31.0,0.49206349206349204,6.0,9.0
+51021,Bland County,31-33,Manufacturing,602.0,722.0,120.0,0.19933554817275748,1.0,2.0
+51021,Bland County,44-45,Retail Trade,125.0,120.0,-5.0,-0.04,2.0,1.0
+51023,Botetourt County,23,Construction,751.0,712.0,-39.0,-0.05193075898801598,12.0,3.0
+51023,Botetourt County,31-33,Manufacturing,1986.0,2288.0,302.0,0.15206445115810674,1.0,14.0
+51023,Botetourt County,42,Wholesale Trade,1519.0,1758.0,239.0,0.15734035549703754,2.0,13.0
+51023,Botetourt County,44-45,Retail Trade,754.0,781.0,27.0,0.03580901856763926,5.0,10.0
+51023,Botetourt County,51,Information,85.0,26.0,-59.0,-0.6941176470588235,13.0,2.0
+51023,Botetourt County,52,Finance and Insurance,137.0,194.0,57.0,0.41605839416058393,4.0,11.0
+51023,Botetourt County,53,Real Estate and Rental and Leasing,110.0,105.0,-5.0,-0.045454545454545456,9.0,6.0
+51023,Botetourt County,54,"Professional, Scientific, and Technical Services",214.0,289.0,75.0,0.35046728971962615,3.0,12.0
+51023,Botetourt County,55,Management of Companies and Enterprises,157.0,153.0,-4.0,-0.025477707006369428,8.0,7.0
+51023,Botetourt County,56,Administrative and Support and Waste Management,1267.0,901.0,-366.0,-0.2888713496448303,14.0,1.0
+51023,Botetourt County,71,"Arts, Entertainment, and Recreation",18.0,25.0,7.0,0.3888888888888889,6.0,9.0
+51023,Botetourt County,72,Accommodation and Food Services,928.0,913.0,-15.0,-0.016163793103448277,11.0,4.0
+51023,Botetourt County,81,Other Services,227.0,216.0,-11.0,-0.048458149779735685,10.0,5.0
+51023,Botetourt County,99,Unclassified,52.0,52.0,0.0,0.0,7.0,8.0
+51025,Brunswick County,23,Construction,207.0,196.0,-11.0,-0.05314009661835749,5.0,3.0
+51025,Brunswick County,31-33,Manufacturing,249.0,261.0,12.0,0.04819277108433735,3.0,5.0
+51025,Brunswick County,44-45,Retail Trade,276.0,245.0,-31.0,-0.11231884057971014,6.0,2.0
+51025,Brunswick County,48-49,Transportation and Warehousing,109.0,166.0,57.0,0.5229357798165137,1.0,7.0
+51025,Brunswick County,52,Finance and Insurance,59.0,107.0,48.0,0.8135593220338984,2.0,6.0
+51025,Brunswick County,53,Real Estate and Rental and Leasing,8.0,9.0,1.0,0.125,4.0,4.0
+51025,Brunswick County,56,Administrative and Support and Waste Management,582.0,230.0,-352.0,-0.6048109965635738,7.0,1.0
+51027,Buchanan County,23,Construction,347.0,106.0,-241.0,-0.6945244956772334,11.0,1.0
+51027,Buchanan County,31-33,Manufacturing,192.0,249.0,57.0,0.296875,1.0,11.0
+51027,Buchanan County,44-45,Retail Trade,653.0,600.0,-53.0,-0.08116385911179173,9.0,3.0
+51027,Buchanan County,51,Information,15.0,17.0,2.0,0.13333333333333333,3.0,8.0
+51027,Buchanan County,52,Finance and Insurance,128.0,93.0,-35.0,-0.2734375,8.0,4.0
+51027,Buchanan County,53,Real Estate and Rental and Leasing,26.0,28.0,2.0,0.07692307692307693,4.0,9.0
+51027,Buchanan County,54,"Professional, Scientific, and Technical Services",313.0,170.0,-143.0,-0.45686900958466453,10.0,2.0
+51027,Buchanan County,61,Educational Services,171.0,166.0,-5.0,-0.029239766081871343,5.0,7.0
+51027,Buchanan County,62,Health Care and Social Assistance,673.0,678.0,5.0,0.007429420505200594,2.0,10.0
+51027,Buchanan County,81,Other Services,128.0,120.0,-8.0,-0.0625,6.0,6.0
+51027,Buchanan County,99,Unclassified,15.0,5.0,-10.0,-0.6666666666666666,7.0,5.0
+51029,Buckingham County,23,Construction,175.0,184.0,9.0,0.05142857142857143,3.0,10.0
+51029,Buckingham County,31-33,Manufacturing,142.0,125.0,-17.0,-0.11971830985915492,8.0,5.0
+51029,Buckingham County,44-45,Retail Trade,287.0,250.0,-37.0,-0.1289198606271777,11.0,2.0
+51029,Buckingham County,48-49,Transportation and Warehousing,109.0,97.0,-12.0,-0.11009174311926606,6.0,7.0
+51029,Buckingham County,52,Finance and Insurance,31.0,47.0,16.0,0.5161290322580645,2.0,11.0
+51029,Buckingham County,54,"Professional, Scientific, and Technical Services",59.0,78.0,19.0,0.3220338983050847,1.0,12.0
+51029,Buckingham County,55,Management of Companies and Enterprises,29.0,31.0,2.0,0.06896551724137931,5.0,8.0
+51029,Buckingham County,56,Administrative and Support and Waste Management,85.0,46.0,-39.0,-0.4588235294117647,12.0,1.0
+51029,Buckingham County,61,Educational Services,69.0,53.0,-16.0,-0.2318840579710145,7.0,6.0
+51029,Buckingham County,62,Health Care and Social Assistance,499.0,463.0,-36.0,-0.07214428857715431,10.0,3.0
+51029,Buckingham County,72,Accommodation and Food Services,131.0,96.0,-35.0,-0.26717557251908397,9.0,4.0
+51029,Buckingham County,81,Other Services,78.0,81.0,3.0,0.038461538461538464,4.0,9.0
+51031,Campbell County,22,Utilities,80.0,88.0,8.0,0.1,10.0,7.0
+51031,Campbell County,23,Construction,1991.0,1971.0,-20.0,-0.010045203415369162,15.0,2.0
+51031,Campbell County,31-33,Manufacturing,4832.0,4662.0,-170.0,-0.03518211920529801,16.0,1.0
+51031,Campbell County,42,Wholesale Trade,687.0,853.0,166.0,0.24163027656477437,2.0,15.0
+51031,Campbell County,44-45,Retail Trade,2118.0,2309.0,191.0,0.09017941454202077,1.0,16.0
+51031,Campbell County,48-49,Transportation and Warehousing,456.0,445.0,-11.0,-0.02412280701754386,13.0,4.0
+51031,Campbell County,51,Information,115.0,161.0,46.0,0.4,6.0,11.0
+51031,Campbell County,52,Finance and Insurance,421.0,419.0,-2.0,-0.004750593824228029,11.0,6.0
+51031,Campbell County,53,Real Estate and Rental and Leasing,126.0,162.0,36.0,0.2857142857142857,7.0,10.0
+51031,Campbell County,54,"Professional, Scientific, and Technical Services",515.0,578.0,63.0,0.12233009708737864,5.0,12.0
+51031,Campbell County,55,Management of Companies and Enterprises,105.0,96.0,-9.0,-0.08571428571428572,12.0,5.0
+51031,Campbell County,56,Administrative and Support and Waste Management,581.0,736.0,155.0,0.2667814113597246,3.0,14.0
+51031,Campbell County,71,"Arts, Entertainment, and Recreation",146.0,180.0,34.0,0.2328767123287671,8.0,9.0
+51031,Campbell County,72,Accommodation and Food Services,1201.0,1326.0,125.0,0.10407993338884262,4.0,13.0
+51031,Campbell County,81,Other Services,379.0,360.0,-19.0,-0.05013192612137203,14.0,3.0
+51031,Campbell County,99,Unclassified,70.0,92.0,22.0,0.3142857142857143,9.0,8.0
+51033,Caroline County,22,Utilities,127.0,128.0,1.0,0.007874015748031496,8.0,3.0
+51033,Caroline County,23,Construction,259.0,363.0,104.0,0.4015444015444015,2.0,9.0
+51033,Caroline County,42,Wholesale Trade,244.0,358.0,114.0,0.4672131147540984,1.0,10.0
+51033,Caroline County,44-45,Retail Trade,576.0,663.0,87.0,0.15104166666666666,3.0,8.0
+51033,Caroline County,48-49,Transportation and Warehousing,243.0,262.0,19.0,0.07818930041152264,6.0,5.0
+51033,Caroline County,52,Finance and Insurance,46.0,66.0,20.0,0.43478260869565216,5.0,6.0
+51033,Caroline County,71,"Arts, Entertainment, and Recreation",62.0,69.0,7.0,0.11290322580645161,7.0,4.0
+51033,Caroline County,72,Accommodation and Food Services,507.0,459.0,-48.0,-0.09467455621301775,10.0,1.0
+51033,Caroline County,81,Other Services,318.0,310.0,-8.0,-0.025157232704402517,9.0,2.0
+51033,Caroline County,99,Unclassified,23.0,79.0,56.0,2.4347826086956523,4.0,7.0
+51035,Carroll County,23,Construction,246.0,210.0,-36.0,-0.14634146341463414,6.0,2.0
+51035,Carroll County,31-33,Manufacturing,1245.0,643.0,-602.0,-0.4835341365461847,7.0,1.0
+51035,Carroll County,42,Wholesale Trade,208.0,249.0,41.0,0.1971153846153846,2.0,6.0
+51035,Carroll County,44-45,Retail Trade,729.0,767.0,38.0,0.05212620027434842,3.0,5.0
+51035,Carroll County,52,Finance and Insurance,75.0,65.0,-10.0,-0.13333333333333333,5.0,3.0
+51035,Carroll County,53,Real Estate and Rental and Leasing,22.0,15.0,-7.0,-0.3181818181818182,4.0,4.0
+51035,Carroll County,81,Other Services,117.0,168.0,51.0,0.4358974358974359,1.0,7.0
+51036,Charles City County,23,Construction,427.0,482.0,55.0,0.1288056206088993,2.0,5.0
+51036,Charles City County,31-33,Manufacturing,195.0,132.0,-63.0,-0.3230769230769231,6.0,1.0
+51036,Charles City County,42,Wholesale Trade,63.0,78.0,15.0,0.23809523809523808,4.0,3.0
+51036,Charles City County,48-49,Transportation and Warehousing,149.0,496.0,347.0,2.3288590604026846,1.0,6.0
+51036,Charles City County,71,"Arts, Entertainment, and Recreation",34.0,31.0,-3.0,-0.08823529411764706,5.0,2.0
+51036,Charles City County,72,Accommodation and Food Services,32.0,49.0,17.0,0.53125,3.0,4.0
+51037,Charlotte County,23,Construction,63.0,135.0,72.0,1.1428571428571428,1.0,8.0
+51037,Charlotte County,31-33,Manufacturing,467.0,457.0,-10.0,-0.021413276231263382,5.0,4.0
+51037,Charlotte County,42,Wholesale Trade,92.0,90.0,-2.0,-0.021739130434782608,4.0,5.0
+51037,Charlotte County,44-45,Retail Trade,273.0,240.0,-33.0,-0.12087912087912088,7.0,2.0
+51037,Charlotte County,48-49,Transportation and Warehousing,253.0,176.0,-77.0,-0.30434782608695654,8.0,1.0
+51037,Charlotte County,52,Finance and Insurance,33.0,48.0,15.0,0.45454545454545453,2.0,7.0
+51037,Charlotte County,53,Real Estate and Rental and Leasing,9.0,8.0,-1.0,-0.1111111111111111,3.0,6.0
+51037,Charlotte County,81,Other Services,52.0,37.0,-15.0,-0.28846153846153844,6.0,3.0
+51041,Chesterfield County,22,Utilities,547.0,522.0,-25.0,-0.04570383912248629,15.0,4.0
+51041,Chesterfield County,23,Construction,10074.0,11245.0,1171.0,0.11623982529283304,3.0,16.0
+51041,Chesterfield County,31-33,Manufacturing,7968.0,8877.0,909.0,0.11408132530120482,6.0,13.0
+51041,Chesterfield County,42,Wholesale Trade,5393.0,4651.0,-742.0,-0.13758575931763398,16.0,3.0
+51041,Chesterfield County,44-45,Retail Trade,18007.0,18615.0,608.0,0.033764647081690455,7.0,12.0
+51041,Chesterfield County,48-49,Transportation and Warehousing,8629.0,12614.0,3985.0,0.46181481052265616,1.0,18.0
+51041,Chesterfield County,51,Information,1311.0,1445.0,134.0,0.10221205186880244,12.0,7.0
+51041,Chesterfield County,52,Finance and Insurance,4496.0,3367.0,-1129.0,-0.2511120996441281,17.0,2.0
+51041,Chesterfield County,53,Real Estate and Rental and Leasing,1460.0,1700.0,240.0,0.1643835616438356,11.0,8.0
+51041,Chesterfield County,54,"Professional, Scientific, and Technical Services",7584.0,8522.0,938.0,0.12368143459915612,5.0,14.0
+51041,Chesterfield County,55,Management of Companies and Enterprises,1283.0,1374.0,91.0,0.07092751363990647,13.0,6.0
+51041,Chesterfield County,56,Administrative and Support and Waste Management,10979.0,8848.0,-2131.0,-0.19409782311685947,18.0,1.0
+51041,Chesterfield County,61,Educational Services,1233.0,1657.0,424.0,0.34387672343876724,8.0,11.0
+51041,Chesterfield County,62,Health Care and Social Assistance,16039.0,18656.0,2617.0,0.16316478583452834,2.0,17.0
+51041,Chesterfield County,71,"Arts, Entertainment, and Recreation",2909.0,3280.0,371.0,0.12753523547610862,9.0,10.0
+51041,Chesterfield County,72,Accommodation and Food Services,12189.0,13149.0,960.0,0.07875953728771844,4.0,15.0
+51041,Chesterfield County,81,Other Services,5116.0,5464.0,348.0,0.06802189210320563,10.0,9.0
+51041,Chesterfield County,99,Unclassified,412.0,443.0,31.0,0.07524271844660194,14.0,5.0
+51043,Clarke County,23,Construction,331.0,526.0,195.0,0.5891238670694864,1.0,15.0
+51043,Clarke County,31-33,Manufacturing,641.0,587.0,-54.0,-0.0842433697347894,14.0,2.0
+51043,Clarke County,42,Wholesale Trade,215.0,100.0,-115.0,-0.5348837209302325,15.0,1.0
+51043,Clarke County,44-45,Retail Trade,280.0,330.0,50.0,0.17857142857142858,5.0,11.0
+51043,Clarke County,48-49,Transportation and Warehousing,26.0,24.0,-2.0,-0.07692307692307693,9.0,7.0
+51043,Clarke County,51,Information,28.0,25.0,-3.0,-0.10714285714285714,10.0,6.0
+51043,Clarke County,52,Finance and Insurance,75.0,80.0,5.0,0.06666666666666667,8.0,8.0
+51043,Clarke County,53,Real Estate and Rental and Leasing,44.0,25.0,-19.0,-0.4318181818181818,12.0,4.0
+51043,Clarke County,54,"Professional, Scientific, and Technical Services",215.0,269.0,54.0,0.25116279069767444,3.0,13.0
+51043,Clarke County,61,Educational Services,246.0,298.0,52.0,0.21138211382113822,4.0,12.0
+51043,Clarke County,62,Health Care and Social Assistance,272.0,343.0,71.0,0.2610294117647059,2.0,14.0
+51043,Clarke County,71,"Arts, Entertainment, and Recreation",24.0,34.0,10.0,0.4166666666666667,6.0,10.0
+51043,Clarke County,72,Accommodation and Food Services,257.0,243.0,-14.0,-0.054474708171206226,11.0,5.0
+51043,Clarke County,81,Other Services,182.0,136.0,-46.0,-0.25274725274725274,13.0,3.0
+51043,Clarke County,99,Unclassified,5.0,12.0,7.0,1.4,7.0,9.0
+51045,Craig County,44-45,Retail Trade,124.0,106.0,-18.0,-0.14516129032258066,1.0,1.0
+51047,Culpeper County,11,"Agriculture, Forestry, Fishing and Hunting",218.0,248.0,30.0,0.13761467889908258,6.0,9.0
+51047,Culpeper County,31-33,Manufacturing,1249.0,1175.0,-74.0,-0.059247397918334666,11.0,4.0
+51047,Culpeper County,42,Wholesale Trade,407.0,449.0,42.0,0.10319410319410319,4.0,11.0
+51047,Culpeper County,44-45,Retail Trade,2213.0,2353.0,140.0,0.06326253953908721,3.0,12.0
+51047,Culpeper County,52,Finance and Insurance,196.0,202.0,6.0,0.030612244897959183,8.0,7.0
+51047,Culpeper County,53,Real Estate and Rental and Leasing,205.0,127.0,-78.0,-0.3804878048780488,12.0,3.0
+51047,Culpeper County,54,"Professional, Scientific, and Technical Services",644.0,1003.0,359.0,0.5574534161490683,1.0,14.0
+51047,Culpeper County,55,Management of Companies and Enterprises,44.0,71.0,27.0,0.6136363636363636,7.0,8.0
+51047,Culpeper County,56,Administrative and Support and Waste Management,724.0,963.0,239.0,0.3301104972375691,2.0,13.0
+51047,Culpeper County,61,Educational Services,123.0,95.0,-28.0,-0.22764227642276422,9.0,6.0
+51047,Culpeper County,62,Health Care and Social Assistance,2434.0,2293.0,-141.0,-0.05792933442892358,14.0,1.0
+51047,Culpeper County,71,"Arts, Entertainment, and Recreation",170.0,104.0,-66.0,-0.38823529411764707,10.0,5.0
+51047,Culpeper County,72,Accommodation and Food Services,1376.0,1288.0,-88.0,-0.06395348837209303,13.0,2.0
+51047,Culpeper County,81,Other Services,914.0,947.0,33.0,0.036105032822757115,5.0,10.0
+51049,Cumberland County,11,"Agriculture, Forestry, Fishing and Hunting",71.0,43.0,-28.0,-0.39436619718309857,6.0,1.0
+51049,Cumberland County,23,Construction,141.0,126.0,-15.0,-0.10638297872340426,5.0,2.0
+51049,Cumberland County,31-33,Manufacturing,119.0,144.0,25.0,0.21008403361344538,1.0,6.0
+51049,Cumberland County,44-45,Retail Trade,151.0,149.0,-2.0,-0.013245033112582781,4.0,3.0
+51049,Cumberland County,72,Accommodation and Food Services,30.0,40.0,10.0,0.3333333333333333,3.0,4.0
+51049,Cumberland County,81,Other Services,29.0,40.0,11.0,0.3793103448275862,2.0,5.0
+51051,Dickenson County,44-45,Retail Trade,362.0,364.0,2.0,0.0055248618784530384,3.0,2.0
+51051,Dickenson County,56,Administrative and Support and Waste Management,77.0,80.0,3.0,0.03896103896103896,2.0,3.0
+51051,Dickenson County,62,Health Care and Social Assistance,352.0,385.0,33.0,0.09375,1.0,4.0
+51051,Dickenson County,81,Other Services,60.0,47.0,-13.0,-0.21666666666666667,4.0,1.0
+51053,Dinwiddie County,31-33,Manufacturing,700.0,792.0,92.0,0.13142857142857142,1.0,7.0
+51053,Dinwiddie County,44-45,Retail Trade,529.0,618.0,89.0,0.16824196597353497,2.0,6.0
+51053,Dinwiddie County,48-49,Transportation and Warehousing,2474.0,2331.0,-143.0,-0.05780113177041229,6.0,2.0
+51053,Dinwiddie County,56,Administrative and Support and Waste Management,769.0,336.0,-433.0,-0.5630689206762028,7.0,1.0
+51053,Dinwiddie County,71,"Arts, Entertainment, and Recreation",70.0,46.0,-24.0,-0.34285714285714286,5.0,3.0
+51053,Dinwiddie County,72,Accommodation and Food Services,282.0,318.0,36.0,0.1276595744680851,3.0,5.0
+51053,Dinwiddie County,81,Other Services,160.0,172.0,12.0,0.075,4.0,4.0
+51057,Essex County,31-33,Manufacturing,296.0,284.0,-12.0,-0.04054054054054054,7.0,3.0
+51057,Essex County,42,Wholesale Trade,166.0,201.0,35.0,0.21084337349397592,2.0,9.0
+51057,Essex County,44-45,Retail Trade,778.0,808.0,30.0,0.038560411311053984,3.0,8.0
+51057,Essex County,48-49,Transportation and Warehousing,28.0,31.0,3.0,0.10714285714285714,6.0,5.0
+51057,Essex County,52,Finance and Insurance,111.0,76.0,-35.0,-0.3153153153153153,10.0,1.0
+51057,Essex County,53,Real Estate and Rental and Leasing,27.0,31.0,4.0,0.14814814814814814,4.0,6.0
+51057,Essex County,56,Administrative and Support and Waste Management,160.0,234.0,74.0,0.4625,1.0,10.0
+51057,Essex County,71,"Arts, Entertainment, and Recreation",38.0,26.0,-12.0,-0.3157894736842105,8.0,4.0
+51057,Essex County,72,Accommodation and Food Services,415.0,392.0,-23.0,-0.05542168674698795,9.0,2.0
+51057,Essex County,81,Other Services,136.0,140.0,4.0,0.029411764705882353,5.0,7.0
+51059,Fairfax County,11,"Agriculture, Forestry, Fishing and Hunting",63.0,82.0,19.0,0.30158730158730157,8.0,13.0
+51059,Fairfax County,21,"Mining, Quarrying, and Oil and Gas Extraction",269.0,69.0,-200.0,-0.7434944237918215,12.0,9.0
+51059,Fairfax County,22,Utilities,1321.0,1285.0,-36.0,-0.02725208175624527,9.0,12.0
+51059,Fairfax County,23,Construction,25061.0,26559.0,1498.0,0.05977415107138582,5.0,16.0
+51059,Fairfax County,31-33,Manufacturing,5672.0,5532.0,-140.0,-0.02468265162200282,11.0,10.0
+51059,Fairfax County,42,Wholesale Trade,13824.0,12100.0,-1724.0,-0.12471064814814815,15.0,6.0
+51059,Fairfax County,44-45,Retail Trade,52473.0,49306.0,-3167.0,-0.06035484916052065,19.0,2.0
+51059,Fairfax County,48-49,Transportation and Warehousing,10100.0,11252.0,1152.0,0.11405940594059406,6.0,15.0
+51059,Fairfax County,51,Information,20272.0,22130.0,1858.0,0.09165351223362272,4.0,17.0
+51059,Fairfax County,52,Finance and Insurance,28105.0,25726.0,-2379.0,-0.08464685998932574,18.0,3.0
+51059,Fairfax County,53,Real Estate and Rental and Leasing,10129.0,9419.0,-710.0,-0.0700957646361931,14.0,7.0
+51059,Fairfax County,54,"Professional, Scientific, and Technical Services",159986.0,154006.0,-5980.0,-0.037378270598677384,20.0,1.0
+51059,Fairfax County,55,Management of Companies and Enterprises,20460.0,24482.0,4022.0,0.1965786901270772,2.0,19.0
+51059,Fairfax County,56,Administrative and Support and Waste Management,43114.0,45451.0,2337.0,0.05420513058403303,3.0,18.0
+51059,Fairfax County,61,Educational Services,11484.0,11036.0,-448.0,-0.039010797631487286,13.0,8.0
+51059,Fairfax County,62,Health Care and Social Assistance,60322.0,75707.0,15385.0,0.2550479095520706,1.0,20.0
+51059,Fairfax County,71,"Arts, Entertainment, and Recreation",8703.0,9788.0,1085.0,0.1246696541422498,7.0,14.0
+51059,Fairfax County,72,Accommodation and Food Services,46272.0,44087.0,-2185.0,-0.047220781466113415,17.0,4.0
+51059,Fairfax County,81,Other Services,20625.0,18879.0,-1746.0,-0.08465454545454545,16.0,5.0
+51059,Fairfax County,99,Unclassified,1305.0,1235.0,-70.0,-0.05363984674329502,10.0,11.0
+51061,Fauquier County,22,Utilities,116.0,128.0,12.0,0.10344827586206896,9.0,5.0
+51061,Fauquier County,23,Construction,2530.0,2622.0,92.0,0.03636363636363636,6.0,8.0
+51061,Fauquier County,42,Wholesale Trade,485.0,474.0,-11.0,-0.02268041237113402,10.0,4.0
+51061,Fauquier County,44-45,Retail Trade,2873.0,2903.0,30.0,0.010442046641141664,7.0,7.0
+51061,Fauquier County,48-49,Transportation and Warehousing,239.0,372.0,133.0,0.5564853556485355,5.0,9.0
+51061,Fauquier County,52,Finance and Insurance,553.0,580.0,27.0,0.048824593128390596,8.0,6.0
+51061,Fauquier County,53,Real Estate and Rental and Leasing,258.0,218.0,-40.0,-0.15503875968992248,12.0,2.0
+51061,Fauquier County,54,"Professional, Scientific, and Technical Services",1727.0,2322.0,595.0,0.3445280833815866,1.0,13.0
+51061,Fauquier County,61,Educational Services,484.0,638.0,154.0,0.3181818181818182,3.0,11.0
+51061,Fauquier County,62,Health Care and Social Assistance,2549.0,2701.0,152.0,0.05963122793252256,4.0,10.0
+51061,Fauquier County,71,"Arts, Entertainment, and Recreation",306.0,291.0,-15.0,-0.049019607843137254,11.0,3.0
+51061,Fauquier County,72,Accommodation and Food Services,2293.0,2025.0,-268.0,-0.11687745311818579,13.0,1.0
+51061,Fauquier County,81,Other Services,1080.0,1447.0,367.0,0.3398148148148148,2.0,12.0
+51063,Floyd County,31-33,Manufacturing,408.0,383.0,-25.0,-0.061274509803921566,10.0,2.0
+51063,Floyd County,42,Wholesale Trade,32.0,32.0,0.0,0.0,7.0,5.0
+51063,Floyd County,44-45,Retail Trade,381.0,413.0,32.0,0.08398950131233596,3.0,9.0
+51063,Floyd County,48-49,Transportation and Warehousing,16.0,11.0,-5.0,-0.3125,8.0,4.0
+51063,Floyd County,54,"Professional, Scientific, and Technical Services",65.0,96.0,31.0,0.47692307692307695,4.0,8.0
+51063,Floyd County,56,Administrative and Support and Waste Management,160.0,94.0,-66.0,-0.4125,11.0,1.0
+51063,Floyd County,61,Educational Services,25.0,43.0,18.0,0.72,6.0,6.0
+51063,Floyd County,62,Health Care and Social Assistance,790.0,922.0,132.0,0.1670886075949367,1.0,11.0
+51063,Floyd County,71,"Arts, Entertainment, and Recreation",38.0,31.0,-7.0,-0.18421052631578946,9.0,3.0
+51063,Floyd County,72,Accommodation and Food Services,232.0,262.0,30.0,0.12931034482758622,5.0,7.0
+51063,Floyd County,81,Other Services,131.0,196.0,65.0,0.4961832061068702,2.0,10.0
+51065,Fluvanna County,23,Construction,493.0,688.0,195.0,0.39553752535496955,1.0,14.0
+51065,Fluvanna County,31-33,Manufacturing,163.0,258.0,95.0,0.5828220858895705,2.0,13.0
+51065,Fluvanna County,44-45,Retail Trade,302.0,392.0,90.0,0.2980132450331126,3.0,12.0
+51065,Fluvanna County,48-49,Transportation and Warehousing,72.0,63.0,-9.0,-0.125,11.0,4.0
+51065,Fluvanna County,51,Information,23.0,59.0,36.0,1.565217391304348,6.0,9.0
+51065,Fluvanna County,52,Finance and Insurance,48.0,136.0,88.0,1.8333333333333333,4.0,11.0
+51065,Fluvanna County,53,Real Estate and Rental and Leasing,36.0,51.0,15.0,0.4166666666666667,7.0,8.0
+51065,Fluvanna County,56,Administrative and Support and Waste Management,329.0,315.0,-14.0,-0.0425531914893617,12.0,3.0
+51065,Fluvanna County,61,Educational Services,194.0,168.0,-26.0,-0.13402061855670103,13.0,2.0
+51065,Fluvanna County,62,Health Care and Social Assistance,325.0,367.0,42.0,0.12923076923076923,5.0,10.0
+51065,Fluvanna County,71,"Arts, Entertainment, and Recreation",23.0,24.0,1.0,0.043478260869565216,10.0,5.0
+51065,Fluvanna County,72,Accommodation and Food Services,298.0,219.0,-79.0,-0.2651006711409396,14.0,1.0
+51065,Fluvanna County,81,Other Services,207.0,210.0,3.0,0.014492753623188406,9.0,6.0
+51065,Fluvanna County,99,Unclassified,19.0,28.0,9.0,0.47368421052631576,8.0,7.0
+51067,Franklin County,23,Construction,1195.0,1492.0,297.0,0.2485355648535565,1.0,14.0
+51067,Franklin County,31-33,Manufacturing,3142.0,3262.0,120.0,0.03819223424570337,4.0,11.0
+51067,Franklin County,42,Wholesale Trade,412.0,419.0,7.0,0.01699029126213592,10.0,5.0
+51067,Franklin County,44-45,Retail Trade,1857.0,1968.0,111.0,0.05977382875605816,5.0,10.0
+51067,Franklin County,51,Information,82.0,109.0,27.0,0.32926829268292684,8.0,7.0
+51067,Franklin County,52,Finance and Insurance,223.0,330.0,107.0,0.4798206278026906,6.0,9.0
+51067,Franklin County,53,Real Estate and Rental and Leasing,99.0,93.0,-6.0,-0.06060606060606061,12.0,3.0
+51067,Franklin County,54,"Professional, Scientific, and Technical Services",284.0,387.0,103.0,0.3626760563380282,7.0,8.0
+51067,Franklin County,55,Management of Companies and Enterprises,43.0,49.0,6.0,0.13953488372093023,11.0,4.0
+51067,Franklin County,56,Administrative and Support and Waste Management,820.0,756.0,-64.0,-0.07804878048780488,13.0,2.0
+51067,Franklin County,71,"Arts, Entertainment, and Recreation",203.0,360.0,157.0,0.7733990147783252,2.0,13.0
+51067,Franklin County,72,Accommodation and Food Services,1089.0,1217.0,128.0,0.11753902662993572,3.0,12.0
+51067,Franklin County,81,Other Services,576.0,430.0,-146.0,-0.2534722222222222,14.0,1.0
+51067,Franklin County,99,Unclassified,69.0,81.0,12.0,0.17391304347826086,9.0,6.0
+51069,Frederick County,23,Construction,2298.0,2311.0,13.0,0.005657093124456049,15.0,2.0
+51069,Frederick County,31-33,Manufacturing,5929.0,6335.0,406.0,0.06847697756788666,5.0,12.0
+51069,Frederick County,44-45,Retail Trade,3425.0,4398.0,973.0,0.2840875912408759,1.0,16.0
+51069,Frederick County,48-49,Transportation and Warehousing,3533.0,4453.0,920.0,0.2604019247098783,2.0,15.0
+51069,Frederick County,51,Information,273.0,220.0,-53.0,-0.19413919413919414,16.0,1.0
+51069,Frederick County,52,Finance and Insurance,2121.0,2953.0,832.0,0.39226779820839225,3.0,14.0
+51069,Frederick County,53,Real Estate and Rental and Leasing,236.0,321.0,85.0,0.3601694915254237,12.0,5.0
+51069,Frederick County,54,"Professional, Scientific, and Technical Services",841.0,1220.0,379.0,0.450653983353151,6.0,11.0
+51069,Frederick County,55,Management of Companies and Enterprises,165.0,444.0,279.0,1.690909090909091,7.0,10.0
+51069,Frederick County,56,Administrative and Support and Waste Management,1578.0,1780.0,202.0,0.12801013941698353,8.0,9.0
+51069,Frederick County,61,Educational Services,143.0,207.0,64.0,0.44755244755244755,13.0,4.0
+51069,Frederick County,62,Health Care and Social Assistance,1569.0,2071.0,502.0,0.31994901210962395,4.0,13.0
+51069,Frederick County,71,"Arts, Entertainment, and Recreation",268.0,406.0,138.0,0.5149253731343284,9.0,8.0
+51069,Frederick County,72,Accommodation and Food Services,2343.0,2448.0,105.0,0.04481434058898848,10.0,7.0
+51069,Frederick County,81,Other Services,798.0,893.0,95.0,0.11904761904761904,11.0,6.0
+51069,Frederick County,99,Unclassified,43.0,83.0,40.0,0.9302325581395349,14.0,3.0
+51071,Giles County,31-33,Manufacturing,863.0,855.0,-8.0,-0.009269988412514484,7.0,3.0
+51071,Giles County,44-45,Retail Trade,618.0,817.0,199.0,0.3220064724919094,1.0,9.0
+51071,Giles County,48-49,Transportation and Warehousing,68.0,54.0,-14.0,-0.20588235294117646,8.0,2.0
+51071,Giles County,52,Finance and Insurance,72.0,72.0,0.0,0.0,6.0,4.0
+51071,Giles County,53,Real Estate and Rental and Leasing,8.0,18.0,10.0,1.25,4.0,6.0
+51071,Giles County,54,"Professional, Scientific, and Technical Services",284.0,266.0,-18.0,-0.06338028169014084,9.0,1.0
+51071,Giles County,71,"Arts, Entertainment, and Recreation",20.0,26.0,6.0,0.3,5.0,5.0
+51071,Giles County,72,Accommodation and Food Services,437.0,453.0,16.0,0.036613272311212815,3.0,7.0
+51071,Giles County,81,Other Services,160.0,189.0,29.0,0.18125,2.0,8.0
+51073,Gloucester County,23,Construction,596.0,606.0,10.0,0.016778523489932886,8.0,6.0
+51073,Gloucester County,31-33,Manufacturing,141.0,153.0,12.0,0.0851063829787234,7.0,7.0
+51073,Gloucester County,44-45,Retail Trade,1946.0,1863.0,-83.0,-0.04265159301130524,13.0,1.0
+51073,Gloucester County,48-49,Transportation and Warehousing,222.0,203.0,-19.0,-0.08558558558558559,10.0,4.0
+51073,Gloucester County,51,Information,73.0,50.0,-23.0,-0.3150684931506849,11.0,3.0
+51073,Gloucester County,52,Finance and Insurance,192.0,214.0,22.0,0.11458333333333333,6.0,8.0
+51073,Gloucester County,53,Real Estate and Rental and Leasing,93.0,146.0,53.0,0.5698924731182796,4.0,10.0
+51073,Gloucester County,61,Educational Services,37.0,85.0,48.0,1.2972972972972974,5.0,9.0
+51073,Gloucester County,62,Health Care and Social Assistance,1643.0,1740.0,97.0,0.05903834449178332,2.0,12.0
+51073,Gloucester County,71,"Arts, Entertainment, and Recreation",125.0,92.0,-33.0,-0.264,12.0,2.0
+51073,Gloucester County,72,Accommodation and Food Services,1098.0,1187.0,89.0,0.08105646630236794,3.0,11.0
+51073,Gloucester County,81,Other Services,389.0,556.0,167.0,0.42930591259640105,1.0,13.0
+51073,Gloucester County,99,Unclassified,28.0,14.0,-14.0,-0.5,9.0,5.0
+51075,Goochland County,21,"Mining, Quarrying, and Oil and Gas Extraction",94.0,108.0,14.0,0.14893617021276595,7.0,7.0
+51075,Goochland County,23,Construction,1000.0,1227.0,227.0,0.227,3.0,11.0
+51075,Goochland County,42,Wholesale Trade,436.0,439.0,3.0,0.006880733944954129,8.0,6.0
+51075,Goochland County,44-45,Retail Trade,595.0,981.0,386.0,0.6487394957983194,2.0,12.0
+51075,Goochland County,48-49,Transportation and Warehousing,187.0,130.0,-57.0,-0.3048128342245989,13.0,1.0
+51075,Goochland County,54,"Professional, Scientific, and Technical Services",474.0,424.0,-50.0,-0.10548523206751055,12.0,2.0
+51075,Goochland County,55,Management of Companies and Enterprises,2039.0,2008.0,-31.0,-0.015203531142717018,11.0,3.0
+51075,Goochland County,56,Administrative and Support and Waste Management,638.0,629.0,-9.0,-0.014106583072100314,9.0,5.0
+51075,Goochland County,61,Educational Services,88.0,127.0,39.0,0.4431818181818182,6.0,8.0
+51075,Goochland County,62,Health Care and Social Assistance,530.0,967.0,437.0,0.8245283018867925,1.0,13.0
+51075,Goochland County,71,"Arts, Entertainment, and Recreation",521.0,682.0,161.0,0.30902111324376197,4.0,10.0
+51075,Goochland County,72,Accommodation and Food Services,514.0,663.0,149.0,0.2898832684824903,5.0,9.0
+51075,Goochland County,81,Other Services,402.0,385.0,-17.0,-0.04228855721393035,10.0,4.0
+51077,Grayson County,31-33,Manufacturing,407.0,354.0,-53.0,-0.13022113022113022,4.0,1.0
+51077,Grayson County,44-45,Retail Trade,174.0,232.0,58.0,0.3333333333333333,1.0,4.0
+51077,Grayson County,52,Finance and Insurance,106.0,98.0,-8.0,-0.07547169811320754,3.0,2.0
+51077,Grayson County,53,Real Estate and Rental and Leasing,15.0,10.0,-5.0,-0.3333333333333333,2.0,3.0
+51079,Greene County,23,Construction,312.0,305.0,-7.0,-0.022435897435897436,9.0,3.0
+51079,Greene County,31-33,Manufacturing,71.0,44.0,-27.0,-0.38028169014084506,10.0,2.0
+51079,Greene County,44-45,Retail Trade,728.0,792.0,64.0,0.08791208791208792,2.0,10.0
+51079,Greene County,51,Information,13.0,15.0,2.0,0.15384615384615385,7.0,5.0
+51079,Greene County,52,Finance and Insurance,46.0,89.0,43.0,0.9347826086956522,3.0,9.0
+51079,Greene County,53,Real Estate and Rental and Leasing,27.0,34.0,7.0,0.25925925925925924,5.0,7.0
+51079,Greene County,54,"Professional, Scientific, and Technical Services",251.0,164.0,-87.0,-0.3466135458167331,11.0,1.0
+51079,Greene County,71,"Arts, Entertainment, and Recreation",52.0,52.0,0.0,0.0,8.0,4.0
+51079,Greene County,72,Accommodation and Food Services,351.0,422.0,71.0,0.2022792022792023,1.0,11.0
+51079,Greene County,81,Other Services,164.0,170.0,6.0,0.036585365853658534,6.0,6.0
+51079,Greene County,99,Unclassified,4.0,17.0,13.0,3.25,4.0,8.0
+51081,Greensville County,23,Construction,75.0,128.0,53.0,0.7066666666666667,3.0,3.0
+51081,Greensville County,31-33,Manufacturing,1267.0,560.0,-707.0,-0.5580110497237569,5.0,1.0
+51081,Greensville County,44-45,Retail Trade,176.0,243.0,67.0,0.3806818181818182,2.0,4.0
+51081,Greensville County,48-49,Transportation and Warehousing,74.0,196.0,122.0,1.6486486486486487,1.0,5.0
+51081,Greensville County,56,Administrative and Support and Waste Management,139.0,86.0,-53.0,-0.381294964028777,4.0,2.0
+51083,Halifax County,23,Construction,554.0,846.0,292.0,0.5270758122743683,1.0,14.0
+51083,Halifax County,31-33,Manufacturing,1975.0,1961.0,-14.0,-0.007088607594936709,8.0,7.0
+51083,Halifax County,44-45,Retail Trade,1252.0,1230.0,-22.0,-0.01757188498402556,9.0,6.0
+51083,Halifax County,48-49,Transportation and Warehousing,1020.0,1013.0,-7.0,-0.006862745098039216,6.0,9.0
+51083,Halifax County,51,Information,73.0,43.0,-30.0,-0.410958904109589,12.0,3.0
+51083,Halifax County,52,Finance and Insurance,200.0,174.0,-26.0,-0.13,11.0,4.0
+51083,Halifax County,53,Real Estate and Rental and Leasing,122.0,57.0,-65.0,-0.5327868852459017,13.0,2.0
+51083,Halifax County,54,"Professional, Scientific, and Technical Services",192.0,236.0,44.0,0.22916666666666666,2.0,13.0
+51083,Halifax County,55,Management of Companies and Enterprises,48.0,35.0,-13.0,-0.2708333333333333,7.0,8.0
+51083,Halifax County,56,Administrative and Support and Waste Management,353.0,224.0,-129.0,-0.3654390934844193,14.0,1.0
+51083,Halifax County,71,"Arts, Entertainment, and Recreation",293.0,308.0,15.0,0.051194539249146756,5.0,10.0
+51083,Halifax County,72,Accommodation and Food Services,830.0,853.0,23.0,0.027710843373493974,4.0,11.0
+51083,Halifax County,81,Other Services,329.0,306.0,-23.0,-0.06990881458966565,10.0,5.0
+51083,Halifax County,99,Unclassified,14.0,50.0,36.0,2.5714285714285716,3.0,12.0
+51085,Hanover County,23,Construction,5513.0,6468.0,955.0,0.17322691819336114,1.0,15.0
+51085,Hanover County,31-33,Manufacturing,3547.0,3444.0,-103.0,-0.029038624189455877,11.0,5.0
+51085,Hanover County,44-45,Retail Trade,7269.0,7715.0,446.0,0.06135644517815381,2.0,14.0
+51085,Hanover County,51,Information,558.0,408.0,-150.0,-0.26881720430107525,14.0,2.0
+51085,Hanover County,52,Finance and Insurance,646.0,791.0,145.0,0.22445820433436534,7.0,9.0
+51085,Hanover County,53,Real Estate and Rental and Leasing,593.0,764.0,171.0,0.28836424957841483,6.0,10.0
+51085,Hanover County,54,"Professional, Scientific, and Technical Services",2476.0,2406.0,-70.0,-0.02827140549273021,10.0,6.0
+51085,Hanover County,55,Management of Companies and Enterprises,1390.0,444.0,-946.0,-0.6805755395683454,15.0,1.0
+51085,Hanover County,56,Administrative and Support and Waste Management,3601.0,3903.0,302.0,0.08386559289086365,3.0,13.0
+51085,Hanover County,61,Educational Services,792.0,889.0,97.0,0.12247474747474747,8.0,8.0
+51085,Hanover County,62,Health Care and Social Assistance,6581.0,6774.0,193.0,0.029326850022792887,5.0,11.0
+51085,Hanover County,71,"Arts, Entertainment, and Recreation",2053.0,2254.0,201.0,0.09790550414028251,4.0,12.0
+51085,Hanover County,72,Accommodation and Food Services,4161.0,4029.0,-132.0,-0.03172314347512617,12.0,3.0
+51085,Hanover County,81,Other Services,1863.0,1731.0,-132.0,-0.07085346215780998,13.0,4.0
+51085,Hanover County,99,Unclassified,96.0,171.0,75.0,0.78125,9.0,7.0
+51087,Henrico County,22,Utilities,587.0,596.0,9.0,0.015332197614991482,7.0,9.0
+51087,Henrico County,23,Construction,8948.0,12190.0,3242.0,0.36231560125167633,2.0,14.0
+51087,Henrico County,42,Wholesale Trade,7353.0,7041.0,-312.0,-0.04243166054671563,8.0,8.0
+51087,Henrico County,44-45,Retail Trade,22460.0,20297.0,-2163.0,-0.09630454140694568,14.0,2.0
+51087,Henrico County,48-49,Transportation and Warehousing,3925.0,8876.0,4951.0,1.2614012738853504,1.0,15.0
+51087,Henrico County,52,Finance and Insurance,16236.0,11163.0,-5073.0,-0.31245380635624537,15.0,1.0
+51087,Henrico County,53,Real Estate and Rental and Leasing,4198.0,4744.0,546.0,0.13006193425440685,5.0,11.0
+51087,Henrico County,54,"Professional, Scientific, and Technical Services",17268.0,20276.0,3008.0,0.1741950428538337,3.0,13.0
+51087,Henrico County,55,Management of Companies and Enterprises,8430.0,7839.0,-591.0,-0.0701067615658363,10.0,6.0
+51087,Henrico County,56,Administrative and Support and Waste Management,15934.0,13778.0,-2156.0,-0.13530814610267353,13.0,3.0
+51087,Henrico County,61,Educational Services,2525.0,2827.0,302.0,0.1196039603960396,6.0,10.0
+51087,Henrico County,62,Health Care and Social Assistance,28355.0,27470.0,-885.0,-0.031211426556162936,11.0,5.0
+51087,Henrico County,71,"Arts, Entertainment, and Recreation",2691.0,3734.0,1043.0,0.38758825715347456,4.0,12.0
+51087,Henrico County,72,Accommodation and Food Services,16591.0,15139.0,-1452.0,-0.08751732867217166,12.0,4.0
+51087,Henrico County,81,Other Services,6560.0,6110.0,-450.0,-0.06859756097560976,9.0,7.0
+51089,Henry County,23,Construction,431.0,437.0,6.0,0.013921113689095127,3.0,10.0
+51089,Henry County,31-33,Manufacturing,4163.0,4229.0,66.0,0.015853951477300024,1.0,12.0
+51089,Henry County,44-45,Retail Trade,2083.0,1933.0,-150.0,-0.07201152184349496,11.0,2.0
+51089,Henry County,48-49,Transportation and Warehousing,1142.0,1044.0,-98.0,-0.08581436077057793,10.0,3.0
+51089,Henry County,51,Information,155.0,179.0,24.0,0.15483870967741936,2.0,11.0
+51089,Henry County,52,Finance and Insurance,280.0,193.0,-87.0,-0.3107142857142857,9.0,4.0
+51089,Henry County,53,Real Estate and Rental and Leasing,92.0,75.0,-17.0,-0.18478260869565216,4.0,9.0
+51089,Henry County,56,Administrative and Support and Waste Management,1223.0,891.0,-332.0,-0.2714636140637776,12.0,1.0
+51089,Henry County,71,"Arts, Entertainment, and Recreation",112.0,88.0,-24.0,-0.21428571428571427,5.0,8.0
+51089,Henry County,72,Accommodation and Food Services,946.0,863.0,-83.0,-0.08773784355179703,8.0,5.0
+51089,Henry County,81,Other Services,431.0,388.0,-43.0,-0.09976798143851508,7.0,6.0
+51089,Henry County,99,Unclassified,45.0,18.0,-27.0,-0.6,6.0,7.0
+51091,Highland County,23,Construction,39.0,47.0,8.0,0.20512820512820512,2.0,1.0
+51091,Highland County,54,"Professional, Scientific, and Technical Services",11.0,25.0,14.0,1.2727272727272727,1.0,2.0
+51093,Isle of Wight County,23,Construction,429.0,538.0,109.0,0.2540792540792541,3.0,11.0
+51093,Isle of Wight County,31-33,Manufacturing,3108.0,1730.0,-1378.0,-0.44337194337194336,14.0,1.0
+51093,Isle of Wight County,44-45,Retail Trade,943.0,1157.0,214.0,0.22693531283138918,1.0,14.0
+51093,Isle of Wight County,48-49,Transportation and Warehousing,632.0,371.0,-261.0,-0.4129746835443038,13.0,2.0
+51093,Isle of Wight County,51,Information,31.0,11.0,-20.0,-0.6451612903225806,8.0,7.0
+51093,Isle of Wight County,52,Finance and Insurance,200.0,156.0,-44.0,-0.22,9.0,6.0
+51093,Isle of Wight County,53,Real Estate and Rental and Leasing,75.0,96.0,21.0,0.28,6.0,9.0
+51093,Isle of Wight County,54,"Professional, Scientific, and Technical Services",345.0,289.0,-56.0,-0.16231884057971013,10.0,5.0
+51093,Isle of Wight County,55,Management of Companies and Enterprises,283.0,375.0,92.0,0.3250883392226148,5.0,10.0
+51093,Isle of Wight County,56,Administrative and Support and Waste Management,552.0,315.0,-237.0,-0.42934782608695654,12.0,3.0
+51093,Isle of Wight County,71,"Arts, Entertainment, and Recreation",71.0,180.0,109.0,1.5352112676056338,4.0,12.0
+51093,Isle of Wight County,72,Accommodation and Food Services,935.0,1115.0,180.0,0.1925133689839572,2.0,13.0
+51093,Isle of Wight County,81,Other Services,414.0,327.0,-87.0,-0.21014492753623187,11.0,4.0
+51093,Isle of Wight County,99,Unclassified,44.0,36.0,-8.0,-0.18181818181818182,7.0,8.0
+51095,James City County,23,Construction,1490.0,1650.0,160.0,0.10738255033557047,5.0,12.0
+51095,James City County,31-33,Manufacturing,1806.0,1676.0,-130.0,-0.07198228128460686,12.0,4.0
+51095,James City County,44-45,Retail Trade,3821.0,3609.0,-212.0,-0.05548285789060455,14.0,3.0
+51095,James City County,48-49,Transportation and Warehousing,1305.0,1175.0,-130.0,-0.09961685823754789,13.0,5.0
+51095,James City County,51,Information,151.0,160.0,9.0,0.059602649006622516,9.0,8.0
+51095,James City County,52,Finance and Insurance,461.0,555.0,94.0,0.2039045553145336,6.0,11.0
+51095,James City County,53,Real Estate and Rental and Leasing,819.0,869.0,50.0,0.06105006105006105,7.0,10.0
+51095,James City County,54,"Professional, Scientific, and Technical Services",1422.0,1672.0,250.0,0.17580872011251758,3.0,14.0
+51095,James City County,55,Management of Companies and Enterprises,1013.0,224.0,-789.0,-0.7788746298124383,16.0,1.0
+51095,James City County,56,Administrative and Support and Waste Management,1223.0,1385.0,162.0,0.13246116107931316,4.0,13.0
+51095,James City County,61,Educational Services,300.0,252.0,-48.0,-0.16,10.0,7.0
+51095,James City County,62,Health Care and Social Assistance,3919.0,4627.0,708.0,0.18065833120694055,1.0,16.0
+51095,James City County,71,"Arts, Entertainment, and Recreation",3085.0,3006.0,-79.0,-0.02560777957860616,11.0,6.0
+51095,James City County,72,Accommodation and Food Services,3585.0,3046.0,-539.0,-0.1503486750348675,15.0,2.0
+51095,James City County,81,Other Services,698.0,989.0,291.0,0.4169054441260745,2.0,15.0
+51095,James City County,99,Unclassified,61.0,93.0,32.0,0.5245901639344263,8.0,9.0
+51097,King and Queen County,23,Construction,94.0,142.0,48.0,0.5106382978723404,1.0,5.0
+51097,King and Queen County,31-33,Manufacturing,141.0,47.0,-94.0,-0.6666666666666666,5.0,1.0
+51097,King and Queen County,48-49,Transportation and Warehousing,74.0,77.0,3.0,0.04054054054054054,4.0,2.0
+51097,King and Queen County,54,"Professional, Scientific, and Technical Services",58.0,98.0,40.0,0.6896551724137931,2.0,4.0
+51097,King and Queen County,56,Administrative and Support and Waste Management,32.0,70.0,38.0,1.1875,3.0,3.0
+51099,King George County,23,Construction,288.0,381.0,93.0,0.3229166666666667,3.0,7.0
+51099,King George County,44-45,Retail Trade,814.0,926.0,112.0,0.1375921375921376,2.0,8.0
+51099,King George County,48-49,Transportation and Warehousing,124.0,69.0,-55.0,-0.4435483870967742,9.0,1.0
+51099,King George County,52,Finance and Insurance,103.0,89.0,-14.0,-0.13592233009708737,7.0,3.0
+51099,King George County,53,Real Estate and Rental and Leasing,77.0,46.0,-31.0,-0.4025974025974026,8.0,2.0
+51099,King George County,54,"Professional, Scientific, and Technical Services",2050.0,3014.0,964.0,0.47024390243902436,1.0,9.0
+51099,King George County,71,"Arts, Entertainment, and Recreation",31.0,69.0,38.0,1.2258064516129032,4.0,6.0
+51099,King George County,72,Accommodation and Food Services,580.0,601.0,21.0,0.03620689655172414,5.0,5.0
+51099,King George County,81,Other Services,275.0,271.0,-4.0,-0.014545454545454545,6.0,4.0
+51101,King William County,31-33,Manufacturing,659.0,775.0,116.0,0.17602427921092564,1.0,10.0
+51101,King William County,44-45,Retail Trade,472.0,429.0,-43.0,-0.09110169491525423,9.0,2.0
+51101,King William County,48-49,Transportation and Warehousing,347.0,383.0,36.0,0.1037463976945245,3.0,8.0
+51101,King William County,52,Finance and Insurance,97.0,105.0,8.0,0.08247422680412371,5.0,6.0
+51101,King William County,53,Real Estate and Rental and Leasing,31.0,25.0,-6.0,-0.1935483870967742,7.0,4.0
+51101,King William County,54,"Professional, Scientific, and Technical Services",153.0,108.0,-45.0,-0.29411764705882354,10.0,1.0
+51101,King William County,56,Administrative and Support and Waste Management,170.0,162.0,-8.0,-0.047058823529411764,8.0,3.0
+51101,King William County,71,"Arts, Entertainment, and Recreation",44.0,68.0,24.0,0.5454545454545454,4.0,7.0
+51101,King William County,72,Accommodation and Food Services,317.0,321.0,4.0,0.012618296529968454,6.0,5.0
+51101,King William County,81,Other Services,147.0,195.0,48.0,0.32653061224489793,2.0,9.0
+51103,Lancaster County,11,"Agriculture, Forestry, Fishing and Hunting",33.0,16.0,-17.0,-0.5151515151515151,10.0,4.0
+51103,Lancaster County,23,Construction,309.0,332.0,23.0,0.0744336569579288,6.0,8.0
+51103,Lancaster County,31-33,Manufacturing,130.0,268.0,138.0,1.0615384615384615,1.0,13.0
+51103,Lancaster County,44-45,Retail Trade,678.0,654.0,-24.0,-0.035398230088495575,11.0,3.0
+51103,Lancaster County,48-49,Transportation and Warehousing,81.0,116.0,35.0,0.43209876543209874,4.0,9.0
+51103,Lancaster County,51,Information,66.0,52.0,-14.0,-0.21212121212121213,8.0,6.0
+51103,Lancaster County,52,Finance and Insurance,246.0,201.0,-45.0,-0.18292682926829268,13.0,1.0
+51103,Lancaster County,53,Real Estate and Rental and Leasing,72.0,77.0,5.0,0.06944444444444445,7.0,7.0
+51103,Lancaster County,54,"Professional, Scientific, and Technical Services",155.0,140.0,-15.0,-0.0967741935483871,9.0,5.0
+51103,Lancaster County,71,"Arts, Entertainment, and Recreation",28.0,123.0,95.0,3.392857142857143,2.0,12.0
+51103,Lancaster County,72,Accommodation and Food Services,552.0,594.0,42.0,0.07608695652173914,3.0,11.0
+51103,Lancaster County,81,Other Services,249.0,216.0,-33.0,-0.13253012048192772,12.0,2.0
+51103,Lancaster County,99,Unclassified,25.0,60.0,35.0,1.4,5.0,10.0
+51105,Lee County,11,"Agriculture, Forestry, Fishing and Hunting",32.0,24.0,-8.0,-0.25,13.0,4.0
+51105,Lee County,21,"Mining, Quarrying, and Oil and Gas Extraction",27.0,64.0,37.0,1.3703703703703705,1.0,16.0
+51105,Lee County,22,Utilities,50.0,50.0,0.0,0.0,9.0,8.0
+51105,Lee County,23,Construction,191.0,195.0,4.0,0.020942408376963352,6.0,11.0
+51105,Lee County,31-33,Manufacturing,173.0,144.0,-29.0,-0.1676300578034682,16.0,1.0
+51105,Lee County,42,Wholesale Trade,99.0,106.0,7.0,0.0707070707070707,4.0,12.0
+51105,Lee County,44-45,Retail Trade,660.0,663.0,3.0,0.004545454545454545,7.0,10.0
+51105,Lee County,48-49,Transportation and Warehousing,65.0,41.0,-24.0,-0.36923076923076925,15.0,2.0
+51105,Lee County,51,Information,21.0,14.0,-7.0,-0.3333333333333333,12.0,5.0
+51105,Lee County,52,Finance and Insurance,95.0,92.0,-3.0,-0.031578947368421054,11.0,6.0
+51105,Lee County,53,Real Estate and Rental and Leasing,18.0,29.0,11.0,0.6111111111111112,2.0,15.0
+51105,Lee County,54,"Professional, Scientific, and Technical Services",42.0,49.0,7.0,0.16666666666666666,5.0,13.0
+51105,Lee County,55,Management of Companies and Enterprises,73.0,59.0,-14.0,-0.1917808219178082,14.0,3.0
+51105,Lee County,56,Administrative and Support and Waste Management,82.0,91.0,9.0,0.10975609756097561,3.0,14.0
+51105,Lee County,81,Other Services,68.0,70.0,2.0,0.029411764705882353,8.0,9.0
+51105,Lee County,99,Unclassified,5.0,3.0,-2.0,-0.4,10.0,7.0
+51107,Loudoun County,23,Construction,17250.0,24219.0,6969.0,0.404,1.0,16.0
+51107,Loudoun County,31-33,Manufacturing,7888.0,7452.0,-436.0,-0.0552738336713996,16.0,1.0
+51107,Loudoun County,44-45,Retail Trade,17725.0,17299.0,-426.0,-0.024033850493653034,15.0,2.0
+51107,Loudoun County,48-49,Transportation and Warehousing,11877.0,13337.0,1460.0,0.12292666498273976,6.0,11.0
+51107,Loudoun County,51,Information,7277.0,7338.0,61.0,0.008382575237048235,13.0,4.0
+51107,Loudoun County,52,Finance and Insurance,3741.0,4162.0,421.0,0.11253675487837476,9.0,8.0
+51107,Loudoun County,53,Real Estate and Rental and Leasing,2273.0,2353.0,80.0,0.03519577650681918,12.0,5.0
+51107,Loudoun County,54,"Professional, Scientific, and Technical Services",21149.0,25626.0,4477.0,0.2116884959099721,3.0,14.0
+51107,Loudoun County,55,Management of Companies and Enterprises,1412.0,1935.0,523.0,0.37039660056657225,8.0,9.0
+51107,Loudoun County,56,Administrative and Support and Waste Management,10094.0,12408.0,2314.0,0.2292450960966911,4.0,13.0
+51107,Loudoun County,61,Educational Services,3467.0,3324.0,-143.0,-0.04124603403518892,14.0,3.0
+51107,Loudoun County,62,Health Care and Social Assistance,13647.0,19235.0,5588.0,0.40946728218656114,2.0,15.0
+51107,Loudoun County,71,"Arts, Entertainment, and Recreation",3535.0,3924.0,389.0,0.11004243281471005,10.0,7.0
+51107,Loudoun County,72,Accommodation and Food Services,16791.0,18363.0,1572.0,0.09362158299088798,5.0,12.0
+51107,Loudoun County,81,Other Services,5719.0,6457.0,738.0,0.12904353908025878,7.0,10.0
+51107,Loudoun County,99,Unclassified,506.0,604.0,98.0,0.19367588932806323,11.0,6.0
+51109,Louisa County,44-45,Retail Trade,1199.0,1166.0,-33.0,-0.027522935779816515,8.0,2.0
+51109,Louisa County,52,Finance and Insurance,105.0,154.0,49.0,0.4666666666666667,4.0,6.0
+51109,Louisa County,53,Real Estate and Rental and Leasing,40.0,147.0,107.0,2.675,2.0,8.0
+51109,Louisa County,54,"Professional, Scientific, and Technical Services",247.0,259.0,12.0,0.048582995951417005,6.0,4.0
+51109,Louisa County,55,Management of Companies and Enterprises,46.0,49.0,3.0,0.06521739130434782,7.0,3.0
+51109,Louisa County,56,Administrative and Support and Waste Management,540.0,448.0,-92.0,-0.17037037037037037,9.0,1.0
+51109,Louisa County,71,"Arts, Entertainment, and Recreation",53.0,116.0,63.0,1.1886792452830188,3.0,7.0
+51109,Louisa County,72,Accommodation and Food Services,522.0,757.0,235.0,0.4501915708812261,1.0,9.0
+51109,Louisa County,81,Other Services,207.0,232.0,25.0,0.12077294685990338,5.0,5.0
+51111,Lunenburg County,11,"Agriculture, Forestry, Fishing and Hunting",73.0,50.0,-23.0,-0.3150684931506849,3.0,4.0
+51111,Lunenburg County,23,Construction,178.0,108.0,-70.0,-0.39325842696629215,5.0,3.0
+51111,Lunenburg County,31-33,Manufacturing,442.0,290.0,-152.0,-0.3438914027149321,7.0,1.0
+51111,Lunenburg County,42,Wholesale Trade,119.0,48.0,-71.0,-0.5966386554621849,6.0,2.0
+51111,Lunenburg County,44-45,Retail Trade,178.0,186.0,8.0,0.0449438202247191,1.0,7.0
+51111,Lunenburg County,48-49,Transportation and Warehousing,57.0,34.0,-23.0,-0.40350877192982454,4.0,5.0
+51111,Lunenburg County,81,Other Services,75.0,54.0,-21.0,-0.28,2.0,6.0
+51113,Madison County,11,"Agriculture, Forestry, Fishing and Hunting",99.0,90.0,-9.0,-0.09090909090909091,9.0,3.0
+51113,Madison County,23,Construction,239.0,285.0,46.0,0.19246861924686193,2.0,10.0
+51113,Madison County,31-33,Manufacturing,329.0,312.0,-17.0,-0.05167173252279635,10.0,2.0
+51113,Madison County,42,Wholesale Trade,62.0,72.0,10.0,0.16129032258064516,6.0,6.0
+51113,Madison County,44-45,Retail Trade,714.0,430.0,-284.0,-0.39775910364145656,11.0,1.0
+51113,Madison County,48-49,Transportation and Warehousing,11.0,71.0,60.0,5.454545454545454,1.0,11.0
+51113,Madison County,52,Finance and Insurance,27.0,67.0,40.0,1.4814814814814814,3.0,9.0
+51113,Madison County,54,"Professional, Scientific, and Technical Services",72.0,91.0,19.0,0.2638888888888889,5.0,7.0
+51113,Madison County,71,"Arts, Entertainment, and Recreation",6.0,10.0,4.0,0.6666666666666666,7.0,5.0
+51113,Madison County,72,Accommodation and Food Services,184.0,218.0,34.0,0.18478260869565216,4.0,8.0
+51113,Madison County,81,Other Services,142.0,139.0,-3.0,-0.02112676056338028,8.0,4.0
+51115,Mathews County,23,Construction,122.0,123.0,1.0,0.00819672131147541,5.0,3.0
+51115,Mathews County,44-45,Retail Trade,191.0,189.0,-2.0,-0.010471204188481676,6.0,2.0
+51115,Mathews County,48-49,Transportation and Warehousing,18.0,33.0,15.0,0.8333333333333334,3.0,5.0
+51115,Mathews County,56,Administrative and Support and Waste Management,53.0,55.0,2.0,0.03773584905660377,4.0,4.0
+51115,Mathews County,71,"Arts, Entertainment, and Recreation",34.0,71.0,37.0,1.088235294117647,1.0,7.0
+51115,Mathews County,72,Accommodation and Food Services,147.0,165.0,18.0,0.12244897959183673,2.0,6.0
+51115,Mathews County,81,Other Services,157.0,67.0,-90.0,-0.5732484076433121,7.0,1.0
+51117,Mecklenburg County,31-33,Manufacturing,1036.0,789.0,-247.0,-0.2384169884169884,11.0,1.0
+51117,Mecklenburg County,44-45,Retail Trade,1690.0,1820.0,130.0,0.07692307692307693,1.0,11.0
+51117,Mecklenburg County,48-49,Transportation and Warehousing,435.0,436.0,1.0,0.0022988505747126436,5.0,6.0
+51117,Mecklenburg County,52,Finance and Insurance,237.0,185.0,-52.0,-0.21940928270042195,8.0,4.0
+51117,Mecklenburg County,53,Real Estate and Rental and Leasing,106.0,121.0,15.0,0.14150943396226415,4.0,8.0
+51117,Mecklenburg County,54,"Professional, Scientific, and Technical Services",366.0,313.0,-53.0,-0.1448087431693989,9.0,3.0
+51117,Mecklenburg County,55,Management of Companies and Enterprises,141.0,142.0,1.0,0.0070921985815602835,6.0,7.0
+51117,Mecklenburg County,56,Administrative and Support and Waste Management,496.0,525.0,29.0,0.05846774193548387,3.0,9.0
+51117,Mecklenburg County,71,"Arts, Entertainment, and Recreation",63.0,103.0,40.0,0.6349206349206349,2.0,10.0
+51117,Mecklenburg County,72,Accommodation and Food Services,1198.0,1179.0,-19.0,-0.015859766277128547,7.0,5.0
+51117,Mecklenburg County,81,Other Services,440.0,375.0,-65.0,-0.14772727272727273,10.0,2.0
+51119,Middlesex County,23,Construction,230.0,229.0,-1.0,-0.004347826086956522,4.0,9.0
+51119,Middlesex County,31-33,Manufacturing,178.0,131.0,-47.0,-0.2640449438202247,11.0,2.0
+51119,Middlesex County,42,Wholesale Trade,179.0,70.0,-109.0,-0.6089385474860335,12.0,1.0
+51119,Middlesex County,44-45,Retail Trade,369.0,329.0,-40.0,-0.10840108401084012,10.0,3.0
+51119,Middlesex County,48-49,Transportation and Warehousing,85.0,88.0,3.0,0.03529411764705882,3.0,10.0
+51119,Middlesex County,51,Information,39.0,33.0,-6.0,-0.15384615384615385,6.0,6.0
+51119,Middlesex County,52,Finance and Insurance,60.0,53.0,-7.0,-0.11666666666666667,8.0,5.0
+51119,Middlesex County,53,Real Estate and Rental and Leasing,23.0,18.0,-5.0,-0.21739130434782608,5.0,8.0
+51119,Middlesex County,71,"Arts, Entertainment, and Recreation",107.0,139.0,32.0,0.29906542056074764,1.0,12.0
+51119,Middlesex County,72,Accommodation and Food Services,335.0,329.0,-6.0,-0.01791044776119403,7.0,7.0
+51119,Middlesex County,81,Other Services,93.0,121.0,28.0,0.3010752688172043,2.0,11.0
+51119,Middlesex County,99,Unclassified,27.0,13.0,-14.0,-0.5185185185185185,9.0,4.0
+51121,Montgomery County,11,"Agriculture, Forestry, Fishing and Hunting",83.0,50.0,-33.0,-0.39759036144578314,13.0,6.0
+51121,Montgomery County,21,"Mining, Quarrying, and Oil and Gas Extraction",59.0,49.0,-10.0,-0.1694915254237288,12.0,7.0
+51121,Montgomery County,23,Construction,1055.0,1257.0,202.0,0.19146919431279621,3.0,16.0
+51121,Montgomery County,31-33,Manufacturing,5322.0,5243.0,-79.0,-0.014844043592634347,14.0,5.0
+51121,Montgomery County,42,Wholesale Trade,439.0,336.0,-103.0,-0.23462414578587698,15.0,4.0
+51121,Montgomery County,44-45,Retail Trade,5006.0,4452.0,-554.0,-0.11066719936076708,18.0,1.0
+51121,Montgomery County,51,Information,366.0,154.0,-212.0,-0.5792349726775956,16.0,3.0
+51121,Montgomery County,52,Finance and Insurance,533.0,527.0,-6.0,-0.01125703564727955,11.0,8.0
+51121,Montgomery County,53,Real Estate and Rental and Leasing,666.0,683.0,17.0,0.025525525525525526,8.0,11.0
+51121,Montgomery County,54,"Professional, Scientific, and Technical Services",2192.0,2358.0,166.0,0.07572992700729927,4.0,15.0
+51121,Montgomery County,55,Management of Companies and Enterprises,164.0,219.0,55.0,0.3353658536585366,6.0,13.0
+51121,Montgomery County,56,Administrative and Support and Waste Management,1707.0,1860.0,153.0,0.08963093145869948,5.0,14.0
+51121,Montgomery County,61,Educational Services,438.0,442.0,4.0,0.0091324200913242,9.0,10.0
+51121,Montgomery County,62,Health Care and Social Assistance,4414.0,4791.0,377.0,0.0854100589034889,1.0,18.0
+51121,Montgomery County,71,"Arts, Entertainment, and Recreation",377.0,587.0,210.0,0.5570291777188329,2.0,17.0
+51121,Montgomery County,72,Accommodation and Food Services,4525.0,4275.0,-250.0,-0.055248618784530384,17.0,2.0
+51121,Montgomery County,81,Other Services,963.0,996.0,33.0,0.03426791277258567,7.0,12.0
+51121,Montgomery County,99,Unclassified,78.0,80.0,2.0,0.02564102564102564,10.0,9.0
+51125,Nelson County,23,Construction,201.0,238.0,37.0,0.18407960199004975,3.0,11.0
+51125,Nelson County,31-33,Manufacturing,635.0,527.0,-108.0,-0.1700787401574803,13.0,1.0
+51125,Nelson County,44-45,Retail Trade,276.0,273.0,-3.0,-0.010869565217391304,9.0,5.0
+51125,Nelson County,48-49,Transportation and Warehousing,34.0,52.0,18.0,0.5294117647058824,6.0,8.0
+51125,Nelson County,51,Information,44.0,18.0,-26.0,-0.5909090909090909,11.0,3.0
+51125,Nelson County,52,Finance and Insurance,36.0,56.0,20.0,0.5555555555555556,5.0,9.0
+51125,Nelson County,53,Real Estate and Rental and Leasing,46.0,54.0,8.0,0.17391304347826086,7.0,7.0
+51125,Nelson County,61,Educational Services,35.0,90.0,55.0,1.5714285714285714,2.0,12.0
+51125,Nelson County,62,Health Care and Social Assistance,286.0,314.0,28.0,0.0979020979020979,4.0,10.0
+51125,Nelson County,71,"Arts, Entertainment, and Recreation",21.0,20.0,-1.0,-0.047619047619047616,8.0,6.0
+51125,Nelson County,72,Accommodation and Food Services,722.0,645.0,-77.0,-0.10664819944598337,12.0,2.0
+51125,Nelson County,81,Other Services,220.0,291.0,71.0,0.32272727272727275,1.0,13.0
+51125,Nelson County,99,Unclassified,20.0,16.0,-4.0,-0.2,10.0,4.0
+51127,New Kent County,23,Construction,727.0,779.0,52.0,0.07152682255845942,2.0,8.0
+51127,New Kent County,31-33,Manufacturing,191.0,221.0,30.0,0.15706806282722513,4.0,7.0
+51127,New Kent County,42,Wholesale Trade,90.0,72.0,-18.0,-0.2,10.0,1.0
+51127,New Kent County,44-45,Retail Trade,571.0,589.0,18.0,0.03152364273204904,6.0,5.0
+51127,New Kent County,51,Information,29.0,16.0,-13.0,-0.4482758620689655,9.0,2.0
+51127,New Kent County,52,Finance and Insurance,43.0,60.0,17.0,0.3953488372093023,7.0,4.0
+51127,New Kent County,53,Real Estate and Rental and Leasing,32.0,56.0,24.0,0.75,5.0,6.0
+51127,New Kent County,56,Administrative and Support and Waste Management,229.0,332.0,103.0,0.4497816593886463,1.0,10.0
+51127,New Kent County,81,Other Services,140.0,192.0,52.0,0.37142857142857144,3.0,9.0
+51127,New Kent County,99,Unclassified,15.0,17.0,2.0,0.13333333333333333,8.0,3.0
+51131,Northampton County,11,"Agriculture, Forestry, Fishing and Hunting",797.0,733.0,-64.0,-0.08030112923462986,10.0,1.0
+51131,Northampton County,23,Construction,113.0,174.0,61.0,0.5398230088495575,2.0,9.0
+51131,Northampton County,31-33,Manufacturing,234.0,287.0,53.0,0.2264957264957265,3.0,8.0
+51131,Northampton County,42,Wholesale Trade,46.0,35.0,-11.0,-0.2391304347826087,8.0,3.0
+51131,Northampton County,44-45,Retail Trade,430.0,553.0,123.0,0.28604651162790695,1.0,10.0
+51131,Northampton County,52,Finance and Insurance,96.0,56.0,-40.0,-0.4166666666666667,9.0,2.0
+51131,Northampton County,53,Real Estate and Rental and Leasing,40.0,68.0,28.0,0.7,5.0,6.0
+51131,Northampton County,56,Administrative and Support and Waste Management,42.0,61.0,19.0,0.4523809523809524,6.0,5.0
+51131,Northampton County,61,Educational Services,89.0,93.0,4.0,0.0449438202247191,7.0,4.0
+51131,Northampton County,62,Health Care and Social Assistance,515.0,565.0,50.0,0.0970873786407767,4.0,7.0
+51133,Northumberland County,11,"Agriculture, Forestry, Fishing and Hunting",142.0,153.0,11.0,0.07746478873239436,2.0,9.0
+51133,Northumberland County,23,Construction,197.0,167.0,-30.0,-0.15228426395939088,8.0,3.0
+51133,Northumberland County,31-33,Manufacturing,654.0,472.0,-182.0,-0.2782874617737003,10.0,1.0
+51133,Northumberland County,42,Wholesale Trade,44.0,33.0,-11.0,-0.25,5.0,6.0
+51133,Northumberland County,44-45,Retail Trade,318.0,283.0,-35.0,-0.11006289308176101,9.0,2.0
+51133,Northumberland County,48-49,Transportation and Warehousing,36.0,42.0,6.0,0.16666666666666666,3.0,8.0
+51133,Northumberland County,52,Finance and Insurance,56.0,49.0,-7.0,-0.125,4.0,7.0
+51133,Northumberland County,71,"Arts, Entertainment, and Recreation",91.0,122.0,31.0,0.34065934065934067,1.0,10.0
+51133,Northumberland County,72,Accommodation and Food Services,139.0,115.0,-24.0,-0.17266187050359713,7.0,4.0
+51133,Northumberland County,81,Other Services,123.0,111.0,-12.0,-0.0975609756097561,6.0,5.0
+51135,Nottoway County,23,Construction,152.0,102.0,-50.0,-0.32894736842105265,9.0,2.0
+51135,Nottoway County,31-33,Manufacturing,363.0,247.0,-116.0,-0.31955922865013775,10.0,1.0
+51135,Nottoway County,42,Wholesale Trade,126.0,141.0,15.0,0.11904761904761904,2.0,9.0
+51135,Nottoway County,44-45,Retail Trade,609.0,580.0,-29.0,-0.047619047619047616,8.0,3.0
+51135,Nottoway County,51,Information,28.0,15.0,-13.0,-0.4642857142857143,6.0,4.0
+51135,Nottoway County,52,Finance and Insurance,104.0,91.0,-13.0,-0.125,7.0,5.0
+51135,Nottoway County,53,Real Estate and Rental and Leasing,26.0,23.0,-3.0,-0.11538461538461539,4.0,7.0
+51135,Nottoway County,54,"Professional, Scientific, and Technical Services",105.0,277.0,172.0,1.638095238095238,1.0,10.0
+51135,Nottoway County,81,Other Services,84.0,73.0,-11.0,-0.13095238095238096,5.0,6.0
+51135,Nottoway County,99,Unclassified,10.0,22.0,12.0,1.2,3.0,8.0
+51137,Orange County,23,Construction,516.0,586.0,70.0,0.13565891472868216,2.0,10.0
+51137,Orange County,31-33,Manufacturing,1482.0,1050.0,-432.0,-0.291497975708502,11.0,1.0
+51137,Orange County,42,Wholesale Trade,508.0,537.0,29.0,0.05708661417322835,4.0,8.0
+51137,Orange County,44-45,Retail Trade,1206.0,1288.0,82.0,0.06799336650082918,1.0,11.0
+51137,Orange County,52,Finance and Insurance,138.0,140.0,2.0,0.014492753623188406,7.0,5.0
+51137,Orange County,56,Administrative and Support and Waste Management,317.0,326.0,9.0,0.028391167192429023,6.0,6.0
+51137,Orange County,61,Educational Services,53.0,102.0,49.0,0.9245283018867925,3.0,9.0
+51137,Orange County,62,Health Care and Social Assistance,584.0,580.0,-4.0,-0.00684931506849315,8.0,4.0
+51137,Orange County,71,"Arts, Entertainment, and Recreation",164.0,157.0,-7.0,-0.042682926829268296,9.0,2.0
+51137,Orange County,72,Accommodation and Food Services,859.0,852.0,-7.0,-0.008149010477299184,10.0,3.0
+51137,Orange County,81,Other Services,475.0,491.0,16.0,0.03368421052631579,5.0,7.0
+51139,Page County,31-33,Manufacturing,678.0,621.0,-57.0,-0.084070796460177,5.0,1.0
+51139,Page County,44-45,Retail Trade,732.0,791.0,59.0,0.08060109289617487,1.0,5.0
+51139,Page County,52,Finance and Insurance,137.0,154.0,17.0,0.12408759124087591,2.0,4.0
+51139,Page County,53,Real Estate and Rental and Leasing,26.0,37.0,11.0,0.4230769230769231,4.0,2.0
+51139,Page County,81,Other Services,131.0,145.0,14.0,0.10687022900763359,3.0,3.0
+51141,Patrick County,11,"Agriculture, Forestry, Fishing and Hunting",189.0,105.0,-84.0,-0.4444444444444444,9.0,2.0
+51141,Patrick County,23,Construction,114.0,130.0,16.0,0.14035087719298245,1.0,10.0
+51141,Patrick County,31-33,Manufacturing,954.0,913.0,-41.0,-0.0429769392033543,7.0,4.0
+51141,Patrick County,44-45,Retail Trade,530.0,526.0,-4.0,-0.007547169811320755,4.0,7.0
+51141,Patrick County,51,Information,92.0,65.0,-27.0,-0.29347826086956524,6.0,5.0
+51141,Patrick County,52,Finance and Insurance,66.0,56.0,-10.0,-0.15151515151515152,5.0,6.0
+51141,Patrick County,53,Real Estate and Rental and Leasing,5.0,13.0,8.0,1.6,3.0,8.0
+51141,Patrick County,54,"Professional, Scientific, and Technical Services",285.0,77.0,-208.0,-0.7298245614035088,10.0,1.0
+51141,Patrick County,81,Other Services,134.0,81.0,-53.0,-0.39552238805970147,8.0,3.0
+51141,Patrick County,99,Unclassified,7.0,16.0,9.0,1.2857142857142858,2.0,9.0
+51143,Pittsylvania County,22,Utilities,71.0,64.0,-7.0,-0.09859154929577464,8.0,7.0
+51143,Pittsylvania County,23,Construction,1073.0,1115.0,42.0,0.0391425908667288,4.0,12.0
+51143,Pittsylvania County,31-33,Manufacturing,1769.0,2293.0,524.0,0.29621254946297343,1.0,15.0
+51143,Pittsylvania County,42,Wholesale Trade,872.0,881.0,9.0,0.010321100917431193,6.0,10.0
+51143,Pittsylvania County,44-45,Retail Trade,1116.0,899.0,-217.0,-0.19444444444444445,15.0,1.0
+51143,Pittsylvania County,48-49,Transportation and Warehousing,369.0,348.0,-21.0,-0.056910569105691054,11.0,5.0
+51143,Pittsylvania County,52,Finance and Insurance,178.0,142.0,-36.0,-0.20224719101123595,12.0,4.0
+51143,Pittsylvania County,54,"Professional, Scientific, and Technical Services",225.0,322.0,97.0,0.4311111111111111,3.0,13.0
+51143,Pittsylvania County,55,Management of Companies and Enterprises,59.0,52.0,-7.0,-0.11864406779661017,9.0,8.0
+51143,Pittsylvania County,56,Administrative and Support and Waste Management,497.0,316.0,-181.0,-0.3641851106639839,14.0,2.0
+51143,Pittsylvania County,61,Educational Services,251.0,256.0,5.0,0.0199203187250996,7.0,9.0
+51143,Pittsylvania County,62,Health Care and Social Assistance,1277.0,1736.0,459.0,0.3594361785434612,2.0,14.0
+51143,Pittsylvania County,71,"Arts, Entertainment, and Recreation",69.0,54.0,-15.0,-0.21739130434782608,10.0,6.0
+51143,Pittsylvania County,72,Accommodation and Food Services,629.0,640.0,11.0,0.017488076311605722,5.0,11.0
+51143,Pittsylvania County,81,Other Services,438.0,388.0,-50.0,-0.1141552511415525,13.0,3.0
+51145,Powhatan County,23,Construction,1491.0,1918.0,427.0,0.2863849765258216,1.0,13.0
+51145,Powhatan County,31-33,Manufacturing,268.0,267.0,-1.0,-0.0037313432835820895,13.0,1.0
+51145,Powhatan County,42,Wholesale Trade,157.0,268.0,111.0,0.7070063694267515,4.0,10.0
+51145,Powhatan County,44-45,Retail Trade,768.0,819.0,51.0,0.06640625,8.0,6.0
+51145,Powhatan County,51,Information,13.0,17.0,4.0,0.3076923076923077,12.0,2.0
+51145,Powhatan County,52,Finance and Insurance,124.0,159.0,35.0,0.28225806451612906,9.0,5.0
+51145,Powhatan County,53,Real Estate and Rental and Leasing,53.0,73.0,20.0,0.37735849056603776,10.0,4.0
+51145,Powhatan County,61,Educational Services,96.0,162.0,66.0,0.6875,6.0,8.0
+51145,Powhatan County,62,Health Care and Social Assistance,354.0,406.0,52.0,0.14689265536723164,7.0,7.0
+51145,Powhatan County,71,"Arts, Entertainment, and Recreation",289.0,428.0,139.0,0.4809688581314879,2.0,12.0
+51145,Powhatan County,72,Accommodation and Food Services,596.0,674.0,78.0,0.13087248322147652,5.0,9.0
+51145,Powhatan County,81,Other Services,286.0,418.0,132.0,0.46153846153846156,3.0,11.0
+51145,Powhatan County,99,Unclassified,18.0,26.0,8.0,0.4444444444444444,11.0,3.0
+51147,Prince Edward County,23,Construction,273.0,455.0,182.0,0.6666666666666666,1.0,13.0
+51147,Prince Edward County,31-33,Manufacturing,156.0,261.0,105.0,0.6730769230769231,2.0,12.0
+51147,Prince Edward County,44-45,Retail Trade,1230.0,1222.0,-8.0,-0.0065040650406504065,7.0,7.0
+51147,Prince Edward County,51,Information,91.0,72.0,-19.0,-0.2087912087912088,8.0,6.0
+51147,Prince Edward County,52,Finance and Insurance,169.0,134.0,-35.0,-0.20710059171597633,10.0,4.0
+51147,Prince Edward County,53,Real Estate and Rental and Leasing,109.0,87.0,-22.0,-0.2018348623853211,9.0,5.0
+51147,Prince Edward County,54,"Professional, Scientific, and Technical Services",122.0,124.0,2.0,0.01639344262295082,6.0,8.0
+51147,Prince Edward County,55,Management of Companies and Enterprises,47.0,77.0,30.0,0.6382978723404256,3.0,11.0
+51147,Prince Edward County,56,Administrative and Support and Waste Management,476.0,178.0,-298.0,-0.6260504201680672,13.0,1.0
+51147,Prince Edward County,71,"Arts, Entertainment, and Recreation",44.0,55.0,11.0,0.25,5.0,9.0
+51147,Prince Edward County,72,Accommodation and Food Services,1206.0,1123.0,-83.0,-0.06882255389718077,12.0,2.0
+51147,Prince Edward County,81,Other Services,282.0,224.0,-58.0,-0.20567375886524822,11.0,3.0
+51147,Prince Edward County,99,Unclassified,36.0,49.0,13.0,0.3611111111111111,4.0,10.0
+51149,Prince George County,44-45,Retail Trade,940.0,996.0,56.0,0.059574468085106386,4.0,7.0
+51149,Prince George County,48-49,Transportation and Warehousing,1687.0,2746.0,1059.0,0.6277415530527564,1.0,10.0
+51149,Prince George County,52,Finance and Insurance,84.0,109.0,25.0,0.2976190476190476,5.0,6.0
+51149,Prince George County,53,Real Estate and Rental and Leasing,124.0,112.0,-12.0,-0.0967741935483871,7.0,4.0
+51149,Prince George County,54,"Professional, Scientific, and Technical Services",592.0,275.0,-317.0,-0.535472972972973,10.0,1.0
+51149,Prince George County,61,Educational Services,170.0,54.0,-116.0,-0.6823529411764706,9.0,2.0
+51149,Prince George County,62,Health Care and Social Assistance,679.0,786.0,107.0,0.15758468335787923,3.0,8.0
+51149,Prince George County,71,"Arts, Entertainment, and Recreation",125.0,121.0,-4.0,-0.032,6.0,5.0
+51149,Prince George County,72,Accommodation and Food Services,1169.0,1498.0,329.0,0.281437125748503,2.0,9.0
+51149,Prince George County,81,Other Services,310.0,273.0,-37.0,-0.11935483870967742,8.0,3.0
+51153,Prince William County,11,"Agriculture, Forestry, Fishing and Hunting",129.0,95.0,-34.0,-0.26356589147286824,12.0,9.0
+51153,Prince William County,21,"Mining, Quarrying, and Oil and Gas Extraction",105.0,112.0,7.0,0.06666666666666667,11.0,10.0
+51153,Prince William County,22,Utilities,404.0,479.0,75.0,0.18564356435643564,9.0,12.0
+51153,Prince William County,23,Construction,14739.0,16875.0,2136.0,0.14492163647465905,2.0,19.0
+51153,Prince William County,31-33,Manufacturing,1939.0,2432.0,493.0,0.25425477050025785,6.0,15.0
+51153,Prince William County,42,Wholesale Trade,3004.0,2943.0,-61.0,-0.02030625832223702,15.0,6.0
+51153,Prince William County,44-45,Retail Trade,21450.0,20336.0,-1114.0,-0.051934731934731936,20.0,1.0
+51153,Prince William County,48-49,Transportation and Warehousing,2317.0,4160.0,1843.0,0.7954251186879586,3.0,18.0
+51153,Prince William County,51,Information,1185.0,1068.0,-117.0,-0.09873417721518987,17.0,4.0
+51153,Prince William County,52,Finance and Insurance,2079.0,1724.0,-355.0,-0.17075517075517074,18.0,3.0
+51153,Prince William County,53,Real Estate and Rental and Leasing,1750.0,1866.0,116.0,0.06628571428571428,8.0,13.0
+51153,Prince William County,54,"Professional, Scientific, and Technical Services",10093.0,11100.0,1007.0,0.09977211929059744,4.0,17.0
+51153,Prince William County,55,Management of Companies and Enterprises,839.0,746.0,-93.0,-0.11084624553039332,16.0,5.0
+51153,Prince William County,56,Administrative and Support and Waste Management,7066.0,7128.0,62.0,0.00877441268044155,10.0,11.0
+51153,Prince William County,61,Educational Services,1587.0,2366.0,779.0,0.49086326402016384,5.0,16.0
+51153,Prince William County,62,Health Care and Social Assistance,13894.0,18637.0,4743.0,0.3413703757017418,1.0,20.0
+51153,Prince William County,71,"Arts, Entertainment, and Recreation",3104.0,3050.0,-54.0,-0.017396907216494846,13.0,7.0
+51153,Prince William County,72,Accommodation and Food Services,14267.0,13666.0,-601.0,-0.04212518399102825,19.0,2.0
+51153,Prince William County,81,Other Services,4538.0,4808.0,270.0,0.059497576024680476,7.0,14.0
+51153,Prince William County,99,Unclassified,465.0,411.0,-54.0,-0.11612903225806452,14.0,8.0
+51155,Pulaski County,31-33,Manufacturing,5213.0,3935.0,-1278.0,-0.2451563399194322,9.0,1.0
+51155,Pulaski County,44-45,Retail Trade,1649.0,1664.0,15.0,0.009096422073984234,5.0,5.0
+51155,Pulaski County,48-49,Transportation and Warehousing,1023.0,1300.0,277.0,0.270772238514174,1.0,9.0
+51155,Pulaski County,52,Finance and Insurance,136.0,162.0,26.0,0.19117647058823528,3.0,6.0
+51155,Pulaski County,53,Real Estate and Rental and Leasing,66.0,76.0,10.0,0.15151515151515152,6.0,4.0
+51155,Pulaski County,56,Administrative and Support and Waste Management,487.0,700.0,213.0,0.43737166324435317,2.0,8.0
+51155,Pulaski County,71,"Arts, Entertainment, and Recreation",169.0,119.0,-50.0,-0.2958579881656805,7.0,3.0
+51155,Pulaski County,72,Accommodation and Food Services,1099.0,1027.0,-72.0,-0.06551410373066424,8.0,2.0
+51155,Pulaski County,81,Other Services,361.0,387.0,26.0,0.07202216066481995,4.0,7.0
+51157,Rappahannock County,11,"Agriculture, Forestry, Fishing and Hunting",50.0,89.0,39.0,0.78,2.0,8.0
+51157,Rappahannock County,23,Construction,114.0,114.0,0.0,0.0,7.0,3.0
+51157,Rappahannock County,31-33,Manufacturing,101.0,78.0,-23.0,-0.22772277227722773,9.0,1.0
+51157,Rappahannock County,44-45,Retail Trade,110.0,157.0,47.0,0.42727272727272725,1.0,9.0
+51157,Rappahannock County,51,Information,52.0,59.0,7.0,0.1346153846153846,5.0,5.0
+51157,Rappahannock County,53,Real Estate and Rental and Leasing,7.0,11.0,4.0,0.5714285714285714,6.0,4.0
+51157,Rappahannock County,54,"Professional, Scientific, and Technical Services",67.0,77.0,10.0,0.14925373134328357,4.0,6.0
+51157,Rappahannock County,61,Educational Services,56.0,54.0,-2.0,-0.03571428571428571,8.0,2.0
+51157,Rappahannock County,62,Health Care and Social Assistance,78.0,96.0,18.0,0.23076923076923078,3.0,7.0
+51159,Richmond County,23,Construction,146.0,233.0,87.0,0.5958904109589042,2.0,7.0
+51159,Richmond County,44-45,Retail Trade,242.0,262.0,20.0,0.08264462809917356,3.0,6.0
+51159,Richmond County,52,Finance and Insurance,56.0,35.0,-21.0,-0.375,7.0,2.0
+51159,Richmond County,53,Real Estate and Rental and Leasing,19.0,14.0,-5.0,-0.2631578947368421,5.0,4.0
+51159,Richmond County,54,"Professional, Scientific, and Technical Services",126.0,40.0,-86.0,-0.6825396825396826,8.0,1.0
+51159,Richmond County,71,"Arts, Entertainment, and Recreation",21.0,29.0,8.0,0.38095238095238093,4.0,5.0
+51159,Richmond County,72,Accommodation and Food Services,110.0,225.0,115.0,1.0454545454545454,1.0,8.0
+51159,Richmond County,81,Other Services,135.0,116.0,-19.0,-0.14074074074074075,6.0,3.0
+51161,Roanoke County,31-33,Manufacturing,3746.0,4389.0,643.0,0.17164975974372665,1.0,13.0
+51161,Roanoke County,44-45,Retail Trade,4321.0,4768.0,447.0,0.10344827586206896,2.0,12.0
+51161,Roanoke County,48-49,Transportation and Warehousing,1552.0,1367.0,-185.0,-0.11920103092783506,8.0,6.0
+51161,Roanoke County,52,Finance and Insurance,1468.0,1108.0,-360.0,-0.2452316076294278,10.0,4.0
+51161,Roanoke County,53,Real Estate and Rental and Leasing,479.0,460.0,-19.0,-0.03966597077244259,6.0,8.0
+51161,Roanoke County,54,"Professional, Scientific, and Technical Services",3691.0,2993.0,-698.0,-0.18910864264426985,11.0,3.0
+51161,Roanoke County,55,Management of Companies and Enterprises,1358.0,639.0,-719.0,-0.5294550810014728,12.0,2.0
+51161,Roanoke County,56,Administrative and Support and Waste Management,2259.0,2395.0,136.0,0.06020362992474546,3.0,11.0
+51161,Roanoke County,61,Educational Services,978.0,842.0,-136.0,-0.1390593047034765,7.0,7.0
+51161,Roanoke County,62,Health Care and Social Assistance,6297.0,5308.0,-989.0,-0.15705891694457677,13.0,1.0
+51161,Roanoke County,71,"Arts, Entertainment, and Recreation",574.0,642.0,68.0,0.11846689895470383,5.0,9.0
+51161,Roanoke County,72,Accommodation and Food Services,3006.0,3076.0,70.0,0.023286759813705923,4.0,10.0
+51161,Roanoke County,81,Other Services,1247.0,998.0,-249.0,-0.1996792301523657,9.0,5.0
+51163,Rockbridge County,23,Construction,509.0,456.0,-53.0,-0.10412573673870335,7.0,4.0
+51163,Rockbridge County,31-33,Manufacturing,930.0,800.0,-130.0,-0.13978494623655913,10.0,1.0
+51163,Rockbridge County,44-45,Retail Trade,1279.0,1165.0,-114.0,-0.08913213448006255,9.0,2.0
+51163,Rockbridge County,51,Information,39.0,28.0,-11.0,-0.28205128205128205,4.0,7.0
+51163,Rockbridge County,52,Finance and Insurance,106.0,78.0,-28.0,-0.2641509433962264,6.0,5.0
+51163,Rockbridge County,53,Real Estate and Rental and Leasing,21.0,110.0,89.0,4.238095238095238,1.0,10.0
+51163,Rockbridge County,71,"Arts, Entertainment, and Recreation",128.0,107.0,-21.0,-0.1640625,5.0,6.0
+51163,Rockbridge County,72,Accommodation and Food Services,704.0,622.0,-82.0,-0.11647727272727272,8.0,3.0
+51163,Rockbridge County,81,Other Services,207.0,241.0,34.0,0.1642512077294686,2.0,9.0
+51163,Rockbridge County,99,Unclassified,6.0,12.0,6.0,1.0,3.0,8.0
+51165,Rockingham County,23,Construction,2828.0,3120.0,292.0,0.10325318246110325,2.0,15.0
+51165,Rockingham County,31-33,Manufacturing,7469.0,6372.0,-1097.0,-0.14687374481188914,16.0,1.0
+51165,Rockingham County,44-45,Retail Trade,2277.0,2881.0,604.0,0.2652613087395696,1.0,16.0
+51165,Rockingham County,48-49,Transportation and Warehousing,3483.0,3345.0,-138.0,-0.03962101636520241,14.0,3.0
+51165,Rockingham County,51,Information,176.0,89.0,-87.0,-0.4943181818181818,11.0,6.0
+51165,Rockingham County,52,Finance and Insurance,274.0,320.0,46.0,0.1678832116788321,8.0,8.0
+51165,Rockingham County,53,Real Estate and Rental and Leasing,487.0,598.0,111.0,0.22792607802874743,3.0,14.0
+51165,Rockingham County,54,"Professional, Scientific, and Technical Services",770.0,839.0,69.0,0.08961038961038961,7.0,10.0
+51165,Rockingham County,55,Management of Companies and Enterprises,285.0,376.0,91.0,0.3192982456140351,5.0,12.0
+51165,Rockingham County,56,Administrative and Support and Waste Management,1240.0,1112.0,-128.0,-0.1032258064516129,13.0,4.0
+51165,Rockingham County,61,Educational Services,620.0,629.0,9.0,0.014516129032258065,10.0,7.0
+51165,Rockingham County,62,Health Care and Social Assistance,4525.0,4417.0,-108.0,-0.023867403314917126,12.0,5.0
+51165,Rockingham County,71,"Arts, Entertainment, and Recreation",223.0,269.0,46.0,0.2062780269058296,9.0,9.0
+51165,Rockingham County,72,Accommodation and Food Services,2648.0,2458.0,-190.0,-0.07175226586102719,15.0,2.0
+51165,Rockingham County,81,Other Services,681.0,777.0,96.0,0.14096916299559473,4.0,13.0
+51165,Rockingham County,99,Unclassified,31.0,114.0,83.0,2.6774193548387095,6.0,11.0
+51167,Russell County,11,"Agriculture, Forestry, Fishing and Hunting",58.0,53.0,-5.0,-0.08620689655172414,2.0,7.0
+51167,Russell County,21,"Mining, Quarrying, and Oil and Gas Extraction",264.0,181.0,-83.0,-0.3143939393939394,8.0,2.0
+51167,Russell County,23,Construction,511.0,489.0,-22.0,-0.043052837573385516,4.0,5.0
+51167,Russell County,31-33,Manufacturing,551.0,525.0,-26.0,-0.047186932849364795,6.0,4.0
+51167,Russell County,44-45,Retail Trade,820.0,750.0,-70.0,-0.08536585365853659,7.0,3.0
+51167,Russell County,48-49,Transportation and Warehousing,138.0,133.0,-5.0,-0.036231884057971016,3.0,8.0
+51167,Russell County,52,Finance and Insurance,194.0,172.0,-22.0,-0.1134020618556701,5.0,6.0
+51167,Russell County,53,Real Estate and Rental and Leasing,16.0,19.0,3.0,0.1875,1.0,9.0
+51167,Russell County,54,"Professional, Scientific, and Technical Services",559.0,394.0,-165.0,-0.295169946332737,9.0,1.0
+51169,Scott County,31-33,Manufacturing,867.0,1118.0,251.0,0.2895040369088812,1.0,7.0
+51169,Scott County,44-45,Retail Trade,590.0,545.0,-45.0,-0.07627118644067797,7.0,1.0
+51169,Scott County,48-49,Transportation and Warehousing,100.0,75.0,-25.0,-0.25,6.0,2.0
+51169,Scott County,51,Information,77.0,81.0,4.0,0.05194805194805195,3.0,5.0
+51169,Scott County,52,Finance and Insurance,73.0,68.0,-5.0,-0.0684931506849315,4.0,4.0
+51169,Scott County,53,Real Estate and Rental and Leasing,14.0,22.0,8.0,0.5714285714285714,2.0,6.0
+51169,Scott County,81,Other Services,115.0,94.0,-21.0,-0.1826086956521739,5.0,3.0
+51171,Shenandoah County,22,Utilities,75.0,120.0,45.0,0.6,5.0,12.0
+51171,Shenandoah County,23,Construction,606.0,663.0,57.0,0.09405940594059406,4.0,13.0
+51171,Shenandoah County,31-33,Manufacturing,3475.0,2606.0,-869.0,-0.25007194244604314,16.0,1.0
+51171,Shenandoah County,42,Wholesale Trade,273.0,336.0,63.0,0.23076923076923078,3.0,14.0
+51171,Shenandoah County,44-45,Retail Trade,1531.0,1679.0,148.0,0.09666884389288047,1.0,16.0
+51171,Shenandoah County,48-49,Transportation and Warehousing,603.0,568.0,-35.0,-0.05804311774461028,9.0,7.0
+51171,Shenandoah County,51,Information,664.0,359.0,-305.0,-0.45933734939759036,15.0,2.0
+51171,Shenandoah County,52,Finance and Insurance,234.0,264.0,30.0,0.1282051282051282,6.0,11.0
+51171,Shenandoah County,53,Real Estate and Rental and Leasing,108.0,64.0,-44.0,-0.4074074074074074,11.0,6.0
+51171,Shenandoah County,54,"Professional, Scientific, and Technical Services",229.0,354.0,125.0,0.5458515283842795,2.0,15.0
+51171,Shenandoah County,61,Educational Services,88.0,102.0,14.0,0.1590909090909091,7.0,10.0
+51171,Shenandoah County,62,Health Care and Social Assistance,1625.0,1483.0,-142.0,-0.08738461538461538,14.0,3.0
+51171,Shenandoah County,71,"Arts, Entertainment, and Recreation",169.0,134.0,-35.0,-0.20710059171597633,10.0,8.0
+51171,Shenandoah County,72,Accommodation and Food Services,1274.0,1209.0,-65.0,-0.05102040816326531,12.0,5.0
+51171,Shenandoah County,81,Other Services,452.0,366.0,-86.0,-0.1902654867256637,13.0,4.0
+51171,Shenandoah County,99,Unclassified,43.0,23.0,-20.0,-0.46511627906976744,8.0,9.0
+51173,Smyth County,23,Construction,400.0,395.0,-5.0,-0.0125,4.0,7.0
+51173,Smyth County,31-33,Manufacturing,3081.0,2977.0,-104.0,-0.03375527426160337,9.0,2.0
+51173,Smyth County,42,Wholesale Trade,295.0,222.0,-73.0,-0.24745762711864408,8.0,3.0
+51173,Smyth County,44-45,Retail Trade,1145.0,1133.0,-12.0,-0.010480349344978166,5.0,6.0
+51173,Smyth County,51,Information,37.0,5.0,-32.0,-0.8648648648648649,6.0,5.0
+51173,Smyth County,52,Finance and Insurance,129.0,88.0,-41.0,-0.3178294573643411,7.0,4.0
+51173,Smyth County,53,Real Estate and Rental and Leasing,35.0,31.0,-4.0,-0.11428571428571428,3.0,8.0
+51173,Smyth County,56,Administrative and Support and Waste Management,1471.0,685.0,-786.0,-0.5343303874915024,10.0,1.0
+51173,Smyth County,81,Other Services,180.0,185.0,5.0,0.027777777777777776,2.0,9.0
+51173,Smyth County,99,Unclassified,23.0,35.0,12.0,0.5217391304347826,1.0,10.0
+51175,Southampton County,23,Construction,97.0,103.0,6.0,0.061855670103092786,5.0,2.0
+51175,Southampton County,31-33,Manufacturing,358.0,369.0,11.0,0.030726256983240222,4.0,3.0
+51175,Southampton County,42,Wholesale Trade,256.0,335.0,79.0,0.30859375,1.0,6.0
+51175,Southampton County,44-45,Retail Trade,222.0,297.0,75.0,0.33783783783783783,2.0,5.0
+51175,Southampton County,53,Real Estate and Rental and Leasing,34.0,32.0,-2.0,-0.058823529411764705,6.0,1.0
+51175,Southampton County,54,"Professional, Scientific, and Technical Services",73.0,114.0,41.0,0.5616438356164384,3.0,4.0
+51177,Spotsylvania County,23,Construction,2270.0,2177.0,-93.0,-0.040969162995594714,14.0,3.0
+51177,Spotsylvania County,31-33,Manufacturing,982.0,726.0,-256.0,-0.2606924643584521,15.0,2.0
+51177,Spotsylvania County,44-45,Retail Trade,6778.0,7375.0,597.0,0.08807907937444674,1.0,16.0
+51177,Spotsylvania County,48-49,Transportation and Warehousing,1451.0,1551.0,100.0,0.06891798759476224,7.0,10.0
+51177,Spotsylvania County,51,Information,244.0,333.0,89.0,0.36475409836065575,8.0,9.0
+51177,Spotsylvania County,52,Finance and Insurance,520.0,560.0,40.0,0.07692307692307693,9.0,8.0
+51177,Spotsylvania County,53,Real Estate and Rental and Leasing,545.0,563.0,18.0,0.03302752293577982,11.0,6.0
+51177,Spotsylvania County,54,"Professional, Scientific, and Technical Services",2216.0,1935.0,-281.0,-0.12680505415162455,16.0,1.0
+51177,Spotsylvania County,55,Management of Companies and Enterprises,450.0,452.0,2.0,0.0044444444444444444,12.0,5.0
+51177,Spotsylvania County,56,Administrative and Support and Waste Management,1484.0,1874.0,390.0,0.2628032345013477,3.0,14.0
+51177,Spotsylvania County,61,Educational Services,458.0,890.0,432.0,0.9432314410480349,2.0,15.0
+51177,Spotsylvania County,62,Health Care and Social Assistance,4567.0,4874.0,307.0,0.0672213707028684,4.0,13.0
+51177,Spotsylvania County,71,"Arts, Entertainment, and Recreation",657.0,798.0,141.0,0.2146118721461187,6.0,11.0
+51177,Spotsylvania County,72,Accommodation and Food Services,4205.0,4180.0,-25.0,-0.005945303210463734,13.0,4.0
+51177,Spotsylvania County,81,Other Services,1516.0,1708.0,192.0,0.1266490765171504,5.0,12.0
+51177,Spotsylvania County,99,Unclassified,122.0,159.0,37.0,0.30327868852459017,10.0,7.0
+51179,Stafford County,23,Construction,2433.0,3634.0,1201.0,0.4936292642827785,2.0,10.0
+51179,Stafford County,44-45,Retail Trade,4966.0,5655.0,689.0,0.1387434554973822,3.0,9.0
+51179,Stafford County,48-49,Transportation and Warehousing,1581.0,6230.0,4649.0,2.9405439595192915,1.0,11.0
+51179,Stafford County,54,"Professional, Scientific, and Technical Services",3450.0,3974.0,524.0,0.15188405797101448,5.0,7.0
+51179,Stafford County,55,Management of Companies and Enterprises,71.0,125.0,54.0,0.7605633802816901,9.0,3.0
+51179,Stafford County,56,Administrative and Support and Waste Management,1900.0,1988.0,88.0,0.04631578947368421,8.0,4.0
+51179,Stafford County,61,Educational Services,731.0,701.0,-30.0,-0.04103967168262654,10.0,2.0
+51179,Stafford County,62,Health Care and Social Assistance,4077.0,4734.0,657.0,0.16114790286975716,4.0,8.0
+51179,Stafford County,71,"Arts, Entertainment, and Recreation",412.0,632.0,220.0,0.5339805825242718,6.0,6.0
+51179,Stafford County,72,Accommodation and Food Services,3755.0,3529.0,-226.0,-0.06018641810918775,11.0,1.0
+51179,Stafford County,81,Other Services,1723.0,1931.0,208.0,0.12071967498549042,7.0,5.0
+51181,Surry County,23,Construction,167.0,74.0,-93.0,-0.5568862275449101,3.0,1.0
+51181,Surry County,42,Wholesale Trade,25.0,24.0,-1.0,-0.04,2.0,2.0
+51181,Surry County,81,Other Services,33.0,40.0,7.0,0.21212121212121213,1.0,3.0
+51183,Sussex County,23,Construction,62.0,111.0,49.0,0.7903225806451613,2.0,5.0
+51183,Sussex County,31-33,Manufacturing,63.0,113.0,50.0,0.7936507936507936,1.0,6.0
+51183,Sussex County,42,Wholesale Trade,116.0,131.0,15.0,0.12931034482758622,3.0,4.0
+51183,Sussex County,44-45,Retail Trade,333.0,337.0,4.0,0.012012012012012012,4.0,3.0
+51183,Sussex County,56,Administrative and Support and Waste Management,364.0,259.0,-105.0,-0.28846153846153844,6.0,1.0
+51183,Sussex County,81,Other Services,49.0,42.0,-7.0,-0.14285714285714285,5.0,2.0
+51185,Tazewell County,31-33,Manufacturing,1222.0,1044.0,-178.0,-0.14566284779050737,11.0,1.0
+51185,Tazewell County,42,Wholesale Trade,469.0,458.0,-11.0,-0.023454157782515993,3.0,9.0
+51185,Tazewell County,44-45,Retail Trade,2662.0,2628.0,-34.0,-0.012772351615326822,4.0,8.0
+51185,Tazewell County,52,Finance and Insurance,353.0,294.0,-59.0,-0.1671388101983003,6.0,5.0
+51185,Tazewell County,53,Real Estate and Rental and Leasing,143.0,97.0,-46.0,-0.32167832167832167,5.0,7.0
+51185,Tazewell County,54,"Professional, Scientific, and Technical Services",316.0,342.0,26.0,0.08227848101265822,2.0,10.0
+51185,Tazewell County,55,Management of Companies and Enterprises,238.0,131.0,-107.0,-0.4495798319327731,9.0,3.0
+51185,Tazewell County,56,Administrative and Support and Waste Management,279.0,306.0,27.0,0.0967741935483871,1.0,11.0
+51185,Tazewell County,71,"Arts, Entertainment, and Recreation",133.0,56.0,-77.0,-0.5789473684210527,8.0,4.0
+51185,Tazewell County,72,Accommodation and Food Services,1205.0,1146.0,-59.0,-0.04896265560165975,7.0,6.0
+51185,Tazewell County,81,Other Services,483.0,367.0,-116.0,-0.2401656314699793,10.0,2.0
+51187,Warren County,31-33,Manufacturing,1100.0,1349.0,249.0,0.22636363636363635,1.0,13.0
+51187,Warren County,44-45,Retail Trade,1541.0,1608.0,67.0,0.043478260869565216,4.0,10.0
+51187,Warren County,48-49,Transportation and Warehousing,1190.0,1037.0,-153.0,-0.12857142857142856,12.0,2.0
+51187,Warren County,52,Finance and Insurance,267.0,255.0,-12.0,-0.0449438202247191,9.0,5.0
+51187,Warren County,53,Real Estate and Rental and Leasing,60.0,84.0,24.0,0.4,6.0,8.0
+51187,Warren County,54,"Professional, Scientific, and Technical Services",288.0,364.0,76.0,0.2638888888888889,3.0,11.0
+51187,Warren County,55,Management of Companies and Enterprises,137.0,122.0,-15.0,-0.10948905109489052,10.0,4.0
+51187,Warren County,56,Administrative and Support and Waste Management,951.0,687.0,-264.0,-0.277602523659306,13.0,1.0
+51187,Warren County,61,Educational Services,661.0,718.0,57.0,0.08623298033282904,5.0,9.0
+51187,Warren County,62,Health Care and Social Assistance,1611.0,1513.0,-98.0,-0.06083178150217256,11.0,3.0
+51187,Warren County,71,"Arts, Entertainment, and Recreation",222.0,222.0,0.0,0.0,8.0,6.0
+51187,Warren County,72,Accommodation and Food Services,1242.0,1378.0,136.0,0.10950080515297907,2.0,12.0
+51187,Warren County,81,Other Services,460.0,482.0,22.0,0.04782608695652174,7.0,7.0
+51191,Washington County,11,"Agriculture, Forestry, Fishing and Hunting",148.0,267.0,119.0,0.8040540540540541,7.0,14.0
+51191,Washington County,21,"Mining, Quarrying, and Oil and Gas Extraction",42.0,63.0,21.0,0.5,13.0,8.0
+51191,Washington County,22,Utilities,42.0,70.0,28.0,0.6666666666666666,11.0,10.0
+51191,Washington County,23,Construction,563.0,887.0,324.0,0.5754884547069272,3.0,18.0
+51191,Washington County,31-33,Manufacturing,3245.0,2358.0,-887.0,-0.2733436055469954,20.0,1.0
+51191,Washington County,42,Wholesale Trade,633.0,633.0,0.0,0.0,14.0,7.0
+51191,Washington County,44-45,Retail Trade,3351.0,3191.0,-160.0,-0.04774694121157863,19.0,2.0
+51191,Washington County,48-49,Transportation and Warehousing,915.0,1358.0,443.0,0.48415300546448087,2.0,19.0
+51191,Washington County,51,Information,148.0,205.0,57.0,0.38513513513513514,9.0,12.0
+51191,Washington County,52,Finance and Insurance,412.0,439.0,27.0,0.06553398058252427,12.0,9.0
+51191,Washington County,53,Real Estate and Rental and Leasing,149.0,123.0,-26.0,-0.174496644295302,16.0,5.0
+51191,Washington County,54,"Professional, Scientific, and Technical Services",600.0,523.0,-77.0,-0.12833333333333333,18.0,3.0
+51191,Washington County,55,Management of Companies and Enterprises,623.0,547.0,-76.0,-0.12199036918138041,17.0,4.0
+51191,Washington County,56,Administrative and Support and Waste Management,521.0,673.0,152.0,0.29174664107485604,5.0,16.0
+51191,Washington County,61,Educational Services,419.0,465.0,46.0,0.10978520286396182,10.0,11.0
+51191,Washington County,62,Health Care and Social Assistance,2435.0,3014.0,579.0,0.237782340862423,1.0,20.0
+51191,Washington County,71,"Arts, Entertainment, and Recreation",297.0,434.0,137.0,0.4612794612794613,6.0,15.0
+51191,Washington County,72,Accommodation and Food Services,1718.0,1944.0,226.0,0.13154831199068684,4.0,17.0
+51191,Washington County,81,Other Services,596.0,589.0,-7.0,-0.01174496644295302,15.0,6.0
+51191,Washington County,99,Unclassified,76.0,144.0,68.0,0.8947368421052632,8.0,13.0
+51193,Westmoreland County,11,"Agriculture, Forestry, Fishing and Hunting",219.0,186.0,-33.0,-0.1506849315068493,9.0,2.0
+51193,Westmoreland County,23,Construction,175.0,224.0,49.0,0.28,2.0,9.0
+51193,Westmoreland County,31-33,Manufacturing,516.0,210.0,-306.0,-0.5930232558139535,10.0,1.0
+51193,Westmoreland County,42,Wholesale Trade,67.0,45.0,-22.0,-0.3283582089552239,8.0,3.0
+51193,Westmoreland County,44-45,Retail Trade,425.0,460.0,35.0,0.08235294117647059,3.0,8.0
+51193,Westmoreland County,52,Finance and Insurance,66.0,49.0,-17.0,-0.25757575757575757,7.0,4.0
+51193,Westmoreland County,54,"Professional, Scientific, and Technical Services",72.0,129.0,57.0,0.7916666666666666,1.0,10.0
+51193,Westmoreland County,71,"Arts, Entertainment, and Recreation",64.0,70.0,6.0,0.09375,4.0,7.0
+51193,Westmoreland County,72,Accommodation and Food Services,302.0,305.0,3.0,0.009933774834437087,5.0,6.0
+51193,Westmoreland County,81,Other Services,103.0,103.0,0.0,0.0,6.0,5.0
+51195,Wise County,23,Construction,244.0,243.0,-1.0,-0.004098360655737705,5.0,8.0
+51195,Wise County,31-33,Manufacturing,358.0,332.0,-26.0,-0.07262569832402235,6.0,7.0
+51195,Wise County,42,Wholesale Trade,268.0,230.0,-38.0,-0.1417910447761194,7.0,6.0
+51195,Wise County,44-45,Retail Trade,1889.0,1671.0,-218.0,-0.11540497617787189,11.0,2.0
+51195,Wise County,51,Information,143.0,46.0,-97.0,-0.6783216783216783,9.0,4.0
+51195,Wise County,52,Finance and Insurance,248.0,208.0,-40.0,-0.16129032258064516,8.0,5.0
+51195,Wise County,53,Real Estate and Rental and Leasing,49.0,51.0,2.0,0.04081632653061224,4.0,9.0
+51195,Wise County,56,Administrative and Support and Waste Management,1084.0,680.0,-404.0,-0.3726937269372694,12.0,1.0
+51195,Wise County,61,Educational Services,14.0,25.0,11.0,0.7857142857142857,3.0,10.0
+51195,Wise County,62,Health Care and Social Assistance,1652.0,1493.0,-159.0,-0.09624697336561744,10.0,3.0
+51195,Wise County,81,Other Services,134.0,149.0,15.0,0.11194029850746269,2.0,11.0
+51195,Wise County,99,Unclassified,9.0,34.0,25.0,2.7777777777777777,1.0,12.0
+51197,Wythe County,11,"Agriculture, Forestry, Fishing and Hunting",50.0,54.0,4.0,0.08,5.0,8.0
+51197,Wythe County,21,"Mining, Quarrying, and Oil and Gas Extraction",115.0,136.0,21.0,0.1826086956521739,4.0,10.0
+51197,Wythe County,23,Construction,419.0,324.0,-95.0,-0.22673031026252982,13.0,1.0
+51197,Wythe County,31-33,Manufacturing,2302.0,2519.0,217.0,0.09426585577758471,1.0,13.0
+51197,Wythe County,44-45,Retail Trade,1813.0,1724.0,-89.0,-0.049089906232763374,12.0,2.0
+51197,Wythe County,51,Information,46.0,21.0,-25.0,-0.5434782608695652,11.0,3.0
+51197,Wythe County,52,Finance and Insurance,215.0,198.0,-17.0,-0.07906976744186046,8.0,5.0
+51197,Wythe County,53,Real Estate and Rental and Leasing,74.0,67.0,-7.0,-0.0945945945945946,7.0,7.0
+51197,Wythe County,56,Administrative and Support and Waste Management,433.0,483.0,50.0,0.11547344110854503,3.0,11.0
+51197,Wythe County,71,"Arts, Entertainment, and Recreation",97.0,78.0,-19.0,-0.1958762886597938,10.0,4.0
+51197,Wythe County,72,Accommodation and Food Services,1299.0,1404.0,105.0,0.08083140877598152,2.0,12.0
+51197,Wythe County,81,Other Services,242.0,246.0,4.0,0.01652892561983471,6.0,9.0
+51197,Wythe County,99,Unclassified,41.0,24.0,-17.0,-0.4146341463414634,9.0,6.0
+51199,York County,11,"Agriculture, Forestry, Fishing and Hunting",11.0,14.0,3.0,0.2727272727272727,10.0,10.0
+51199,York County,22,Utilities,61.0,34.0,-27.0,-0.4426229508196721,12.0,8.0
+51199,York County,23,Construction,1488.0,1646.0,158.0,0.10618279569892473,5.0,15.0
+51199,York County,31-33,Manufacturing,363.0,506.0,143.0,0.3939393939393939,6.0,14.0
+51199,York County,42,Wholesale Trade,326.0,318.0,-8.0,-0.024539877300613498,11.0,9.0
+51199,York County,44-45,Retail Trade,3628.0,3444.0,-184.0,-0.050716648291069456,16.0,4.0
+51199,York County,48-49,Transportation and Warehousing,375.0,331.0,-44.0,-0.11733333333333333,14.0,5.0
+51199,York County,51,Information,74.0,30.0,-44.0,-0.5945945945945946,15.0,6.0
+51199,York County,52,Finance and Insurance,294.0,255.0,-39.0,-0.1326530612244898,13.0,7.0
+51199,York County,53,Real Estate and Rental and Leasing,325.0,329.0,4.0,0.012307692307692308,9.0,11.0
+51199,York County,54,"Professional, Scientific, and Technical Services",1307.0,1543.0,236.0,0.180566182096404,3.0,17.0
+51199,York County,55,Management of Companies and Enterprises,391.0,412.0,21.0,0.05370843989769821,8.0,12.0
+51199,York County,56,Administrative and Support and Waste Management,1753.0,1309.0,-444.0,-0.253280091272105,18.0,2.0
+51199,York County,61,Educational Services,128.0,288.0,160.0,1.25,4.0,16.0
+51199,York County,62,Health Care and Social Assistance,1479.0,2772.0,1293.0,0.8742393509127789,1.0,19.0
+51199,York County,71,"Arts, Entertainment, and Recreation",328.0,687.0,359.0,1.0945121951219512,2.0,18.0
+51199,York County,72,Accommodation and Food Services,3810.0,3310.0,-500.0,-0.13123359580052493,19.0,1.0
+51199,York County,81,Other Services,994.0,787.0,-207.0,-0.20824949698189135,17.0,3.0
+51199,York County,99,Unclassified,25.0,85.0,60.0,2.4,7.0,13.0
+51510,Alexandria city,23,Construction,1938.0,2196.0,258.0,0.13312693498452013,4.0,10.0
+51510,Alexandria city,44-45,Retail Trade,7443.0,6456.0,-987.0,-0.13260781942765015,11.0,3.0
+51510,Alexandria city,48-49,Transportation and Warehousing,2236.0,1402.0,-834.0,-0.37298747763864043,10.0,4.0
+51510,Alexandria city,52,Finance and Insurance,2494.0,1993.0,-501.0,-0.20088211708099438,8.0,6.0
+51510,Alexandria city,53,Real Estate and Rental and Leasing,1578.0,2077.0,499.0,0.3162230671736375,2.0,12.0
+51510,Alexandria city,54,"Professional, Scientific, and Technical Services",16222.0,12688.0,-3534.0,-0.21785229934656639,13.0,1.0
+51510,Alexandria city,55,Management of Companies and Enterprises,923.0,385.0,-538.0,-0.5828819068255688,9.0,5.0
+51510,Alexandria city,56,Administrative and Support and Waste Management,4890.0,4569.0,-321.0,-0.0656441717791411,6.0,8.0
+51510,Alexandria city,61,Educational Services,1395.0,1667.0,272.0,0.1949820788530466,3.0,11.0
+51510,Alexandria city,62,Health Care and Social Assistance,6799.0,8813.0,2014.0,0.29622003235769967,1.0,13.0
+51510,Alexandria city,71,"Arts, Entertainment, and Recreation",878.0,717.0,-161.0,-0.18337129840546698,5.0,9.0
+51510,Alexandria city,72,Accommodation and Food Services,8564.0,8128.0,-436.0,-0.05091078935077067,7.0,7.0
+51510,Alexandria city,81,Other Services,9888.0,8298.0,-1590.0,-0.16080097087378642,12.0,2.0
+51520,Bristol city,31-33,Manufacturing,1098.0,1531.0,433.0,0.39435336976320584,2.0,10.0
+51520,Bristol city,44-45,Retail Trade,1444.0,1228.0,-216.0,-0.14958448753462603,11.0,1.0
+51520,Bristol city,48-49,Transportation and Warehousing,366.0,873.0,507.0,1.3852459016393444,1.0,11.0
+51520,Bristol city,52,Finance and Insurance,303.0,270.0,-33.0,-0.10891089108910891,9.0,3.0
+51520,Bristol city,53,Real Estate and Rental and Leasing,25.0,35.0,10.0,0.4,7.0,5.0
+51520,Bristol city,54,"Professional, Scientific, and Technical Services",142.0,218.0,76.0,0.5352112676056338,4.0,8.0
+51520,Bristol city,55,Management of Companies and Enterprises,66.0,65.0,-1.0,-0.015151515151515152,8.0,4.0
+51520,Bristol city,56,Administrative and Support and Waste Management,226.0,291.0,65.0,0.28761061946902655,5.0,7.0
+51520,Bristol city,61,Educational Services,68.0,96.0,28.0,0.4117647058823529,6.0,6.0
+51520,Bristol city,62,Health Care and Social Assistance,862.0,1141.0,279.0,0.3236658932714617,3.0,9.0
+51520,Bristol city,81,Other Services,288.0,226.0,-62.0,-0.2152777777777778,10.0,2.0
+51530,Buena Vista city,44-45,Retail Trade,153.0,136.0,-17.0,-0.1111111111111111,2.0,1.0
+51530,Buena Vista city,52,Finance and Insurance,24.0,19.0,-5.0,-0.20833333333333334,1.0,2.0
+51540,Charlottesville city,23,Construction,1800.0,1379.0,-421.0,-0.2338888888888889,13.0,4.0
+51540,Charlottesville city,31-33,Manufacturing,776.0,911.0,135.0,0.17396907216494845,4.0,13.0
+51540,Charlottesville city,42,Wholesale Trade,705.0,762.0,57.0,0.08085106382978724,6.0,11.0
+51540,Charlottesville city,44-45,Retail Trade,3243.0,2773.0,-470.0,-0.14492753623188406,14.0,3.0
+51540,Charlottesville city,51,Information,1245.0,621.0,-624.0,-0.5012048192771085,15.0,2.0
+51540,Charlottesville city,52,Finance and Insurance,1598.0,1242.0,-356.0,-0.2227784730913642,12.0,5.0
+51540,Charlottesville city,53,Real Estate and Rental and Leasing,536.0,576.0,40.0,0.07462686567164178,8.0,9.0
+51540,Charlottesville city,54,"Professional, Scientific, and Technical Services",2890.0,2933.0,43.0,0.014878892733564015,7.0,10.0
+51540,Charlottesville city,55,Management of Companies and Enterprises,474.0,538.0,64.0,0.1350210970464135,5.0,12.0
+51540,Charlottesville city,56,Administrative and Support and Waste Management,2562.0,1920.0,-642.0,-0.2505854800936768,16.0,1.0
+51540,Charlottesville city,61,Educational Services,726.0,978.0,252.0,0.34710743801652894,1.0,16.0
+51540,Charlottesville city,62,Health Care and Social Assistance,3442.0,3667.0,225.0,0.06536897152818129,3.0,14.0
+51540,Charlottesville city,71,"Arts, Entertainment, and Recreation",565.0,796.0,231.0,0.4088495575221239,2.0,15.0
+51540,Charlottesville city,72,Accommodation and Food Services,5885.0,5579.0,-306.0,-0.05199660152931181,11.0,6.0
+51540,Charlottesville city,81,Other Services,2251.0,1984.0,-267.0,-0.11861394935584185,10.0,7.0
+51540,Charlottesville city,99,Unclassified,100.0,122.0,22.0,0.22,9.0,8.0
+51550,Chesapeake city,11,"Agriculture, Forestry, Fishing and Hunting",149.0,63.0,-86.0,-0.5771812080536913,13.0,8.0
+51550,Chesapeake city,21,"Mining, Quarrying, and Oil and Gas Extraction",62.0,60.0,-2.0,-0.03225806451612903,12.0,9.0
+51550,Chesapeake city,22,Utilities,129.0,137.0,8.0,0.06201550387596899,11.0,10.0
+51550,Chesapeake city,23,Construction,8783.0,10006.0,1223.0,0.13924627120573835,3.0,18.0
+51550,Chesapeake city,31-33,Manufacturing,5142.0,5515.0,373.0,0.07253986775573706,6.0,15.0
+51550,Chesapeake city,42,Wholesale Trade,3904.0,3699.0,-205.0,-0.052510245901639344,16.0,5.0
+51550,Chesapeake city,44-45,Retail Trade,15523.0,12904.0,-2619.0,-0.16871738710300843,20.0,1.0
+51550,Chesapeake city,48-49,Transportation and Warehousing,4349.0,8157.0,3808.0,0.8756035870315015,1.0,20.0
+51550,Chesapeake city,51,Information,2120.0,1824.0,-296.0,-0.13962264150943396,17.0,4.0
+51550,Chesapeake city,52,Finance and Insurance,3425.0,3259.0,-166.0,-0.048467153284671535,15.0,6.0
+51550,Chesapeake city,53,Real Estate and Rental and Leasing,1376.0,1518.0,142.0,0.10319767441860465,8.0,13.0
+51550,Chesapeake city,54,"Professional, Scientific, and Technical Services",7222.0,7066.0,-156.0,-0.02160066463583495,14.0,7.0
+51550,Chesapeake city,55,Management of Companies and Enterprises,1942.0,2425.0,483.0,0.24871266735324407,4.0,17.0
+51550,Chesapeake city,56,Administrative and Support and Waste Management,7428.0,6829.0,-599.0,-0.08064081852450189,19.0,2.0
+51550,Chesapeake city,61,Educational Services,927.0,1124.0,197.0,0.21251348435814454,7.0,14.0
+51550,Chesapeake city,62,Health Care and Social Assistance,9044.0,11326.0,2282.0,0.25232198142414863,2.0,19.0
+51550,Chesapeake city,71,"Arts, Entertainment, and Recreation",985.0,1393.0,408.0,0.41421319796954315,5.0,16.0
+51550,Chesapeake city,72,Accommodation and Food Services,10039.0,10080.0,41.0,0.004084072118736926,10.0,11.0
+51550,Chesapeake city,81,Other Services,4098.0,3548.0,-550.0,-0.13421181063933627,18.0,3.0
+51550,Chesapeake city,99,Unclassified,211.0,309.0,98.0,0.46445497630331756,9.0,12.0
+51570,Colonial Heights city,42,Wholesale Trade,222.0,250.0,28.0,0.12612612612612611,2.0,8.0
+51570,Colonial Heights city,44-45,Retail Trade,2904.0,2645.0,-259.0,-0.08918732782369146,9.0,1.0
+51570,Colonial Heights city,48-49,Transportation and Warehousing,76.0,27.0,-49.0,-0.6447368421052632,5.0,5.0
+51570,Colonial Heights city,52,Finance and Insurance,232.0,228.0,-4.0,-0.017241379310344827,4.0,6.0
+51570,Colonial Heights city,53,Real Estate and Rental and Leasing,149.0,176.0,27.0,0.18120805369127516,3.0,7.0
+51570,Colonial Heights city,56,Administrative and Support and Waste Management,372.0,264.0,-108.0,-0.2903225806451613,7.0,3.0
+51570,Colonial Heights city,71,"Arts, Entertainment, and Recreation",197.0,143.0,-54.0,-0.27411167512690354,6.0,4.0
+51570,Colonial Heights city,72,Accommodation and Food Services,2155.0,2013.0,-142.0,-0.06589327146171693,8.0,2.0
+51570,Colonial Heights city,81,Other Services,384.0,418.0,34.0,0.08854166666666667,1.0,9.0
+51580,Covington city,44-45,Retail Trade,509.0,544.0,35.0,0.068762278978389,1.0,5.0
+51580,Covington city,52,Finance and Insurance,94.0,88.0,-6.0,-0.06382978723404255,3.0,3.0
+51580,Covington city,53,Real Estate and Rental and Leasing,30.0,26.0,-4.0,-0.13333333333333333,2.0,4.0
+51580,Covington city,56,Administrative and Support and Waste Management,114.0,53.0,-61.0,-0.5350877192982456,5.0,1.0
+51580,Covington city,81,Other Services,148.0,114.0,-34.0,-0.22972972972972974,4.0,2.0
+51590,Danville city,31-33,Manufacturing,3936.0,3341.0,-595.0,-0.15116869918699186,13.0,1.0
+51590,Danville city,42,Wholesale Trade,580.0,560.0,-20.0,-0.034482758620689655,7.0,7.0
+51590,Danville city,44-45,Retail Trade,3830.0,3645.0,-185.0,-0.048302872062663184,10.0,4.0
+51590,Danville city,52,Finance and Insurance,556.0,584.0,28.0,0.050359712230215826,5.0,9.0
+51590,Danville city,53,Real Estate and Rental and Leasing,239.0,358.0,119.0,0.497907949790795,3.0,11.0
+51590,Danville city,54,"Professional, Scientific, and Technical Services",593.0,689.0,96.0,0.16188870151770657,4.0,10.0
+51590,Danville city,55,Management of Companies and Enterprises,225.0,181.0,-44.0,-0.19555555555555557,8.0,6.0
+51590,Danville city,56,Administrative and Support and Waste Management,1319.0,1176.0,-143.0,-0.10841546626231995,9.0,5.0
+51590,Danville city,61,Educational Services,593.0,397.0,-196.0,-0.3305227655986509,11.0,3.0
+51590,Danville city,62,Health Care and Social Assistance,5178.0,4660.0,-518.0,-0.10003862495171881,12.0,2.0
+51590,Danville city,71,"Arts, Entertainment, and Recreation",119.0,122.0,3.0,0.025210084033613446,6.0,8.0
+51590,Danville city,72,Accommodation and Food Services,2850.0,3971.0,1121.0,0.3933333333333333,1.0,13.0
+51590,Danville city,81,Other Services,717.0,865.0,148.0,0.20641562064156208,2.0,12.0
+51595,Emporia city,44-45,Retail Trade,553.0,562.0,9.0,0.0162748643761302,2.0,4.0
+51595,Emporia city,52,Finance and Insurance,54.0,44.0,-10.0,-0.18518518518518517,3.0,3.0
+51595,Emporia city,53,Real Estate and Rental and Leasing,48.0,23.0,-25.0,-0.5208333333333334,5.0,1.0
+51595,Emporia city,56,Administrative and Support and Waste Management,114.0,199.0,85.0,0.7456140350877193,1.0,5.0
+51595,Emporia city,62,Health Care and Social Assistance,881.0,860.0,-21.0,-0.02383654937570942,4.0,2.0
+51600,Fairfax city,42,Wholesale Trade,161.0,159.0,-2.0,-0.012422360248447204,8.0,5.0
+51600,Fairfax city,44-45,Retail Trade,3338.0,3170.0,-168.0,-0.05032953864589575,12.0,1.0
+51600,Fairfax city,52,Finance and Insurance,927.0,894.0,-33.0,-0.03559870550161812,9.0,4.0
+51600,Fairfax city,53,Real Estate and Rental and Leasing,165.0,240.0,75.0,0.45454545454545453,6.0,7.0
+51600,Fairfax city,54,"Professional, Scientific, and Technical Services",2975.0,3496.0,521.0,0.17512605042016807,3.0,10.0
+51600,Fairfax city,55,Management of Companies and Enterprises,115.0,193.0,78.0,0.6782608695652174,5.0,8.0
+51600,Fairfax city,56,Administrative and Support and Waste Management,1349.0,1863.0,514.0,0.3810229799851742,4.0,9.0
+51600,Fairfax city,61,Educational Services,403.0,348.0,-55.0,-0.13647642679900746,10.0,3.0
+51600,Fairfax city,62,Health Care and Social Assistance,3422.0,4624.0,1202.0,0.35125657510227937,1.0,12.0
+51600,Fairfax city,71,"Arts, Entertainment, and Recreation",569.0,605.0,36.0,0.0632688927943761,7.0,6.0
+51600,Fairfax city,72,Accommodation and Food Services,2516.0,3357.0,841.0,0.33426073131955486,2.0,11.0
+51600,Fairfax city,81,Other Services,1038.0,927.0,-111.0,-0.1069364161849711,11.0,2.0
+51610,Falls Church city,23,Construction,378.0,476.0,98.0,0.25925925925925924,5.0,13.0
+51610,Falls Church city,31-33,Manufacturing,59.0,54.0,-5.0,-0.0847457627118644,9.0,9.0
+51610,Falls Church city,42,Wholesale Trade,72.0,112.0,40.0,0.5555555555555556,8.0,10.0
+51610,Falls Church city,44-45,Retail Trade,1222.0,1202.0,-20.0,-0.016366612111292964,11.0,7.0
+51610,Falls Church city,48-49,Transportation and Warehousing,97.0,53.0,-44.0,-0.4536082474226804,13.0,5.0
+51610,Falls Church city,51,Information,246.0,361.0,115.0,0.46747967479674796,4.0,14.0
+51610,Falls Church city,52,Finance and Insurance,193.0,271.0,78.0,0.40414507772020725,7.0,11.0
+51610,Falls Church city,53,Real Estate and Rental and Leasing,304.0,388.0,84.0,0.27631578947368424,6.0,12.0
+51610,Falls Church city,54,"Professional, Scientific, and Technical Services",1300.0,1166.0,-134.0,-0.10307692307692308,16.0,2.0
+51610,Falls Church city,55,Management of Companies and Enterprises,75.0,12.0,-63.0,-0.84,14.0,4.0
+51610,Falls Church city,56,Administrative and Support and Waste Management,1127.0,192.0,-935.0,-0.8296362023070097,17.0,1.0
+51610,Falls Church city,61,Educational Services,502.0,622.0,120.0,0.23904382470119523,3.0,15.0
+51610,Falls Church city,62,Health Care and Social Assistance,1685.0,1989.0,304.0,0.1804154302670623,1.0,17.0
+51610,Falls Church city,71,"Arts, Entertainment, and Recreation",438.0,305.0,-133.0,-0.3036529680365297,15.0,3.0
+51610,Falls Church city,72,Accommodation and Food Services,1268.0,1538.0,270.0,0.21293375394321767,2.0,16.0
+51610,Falls Church city,81,Other Services,668.0,626.0,-42.0,-0.06287425149700598,12.0,6.0
+51610,Falls Church city,99,Unclassified,48.0,41.0,-7.0,-0.14583333333333334,10.0,8.0
+51620,Franklin city,31-33,Manufacturing,34.0,102.0,68.0,2.0,1.0,5.0
+51620,Franklin city,44-45,Retail Trade,972.0,838.0,-134.0,-0.13786008230452676,5.0,1.0
+51620,Franklin city,52,Finance and Insurance,147.0,112.0,-35.0,-0.23809523809523808,3.0,3.0
+51620,Franklin city,53,Real Estate and Rental and Leasing,27.0,14.0,-13.0,-0.48148148148148145,2.0,4.0
+51620,Franklin city,81,Other Services,165.0,92.0,-73.0,-0.44242424242424244,4.0,2.0
+51630,Fredericksburg city,23,Construction,598.0,625.0,27.0,0.0451505016722408,6.0,6.0
+51630,Fredericksburg city,42,Wholesale Trade,375.0,286.0,-89.0,-0.23733333333333334,8.0,4.0
+51630,Fredericksburg city,44-45,Retail Trade,3662.0,3349.0,-313.0,-0.08547241944292736,11.0,1.0
+51630,Fredericksburg city,52,Finance and Insurance,688.0,526.0,-162.0,-0.23546511627906977,10.0,2.0
+51630,Fredericksburg city,53,Real Estate and Rental and Leasing,367.0,472.0,105.0,0.28610354223433243,4.0,8.0
+51630,Fredericksburg city,54,"Professional, Scientific, and Technical Services",1483.0,1685.0,202.0,0.13621038435603505,2.0,10.0
+51630,Fredericksburg city,61,Educational Services,186.0,133.0,-53.0,-0.2849462365591398,7.0,5.0
+51630,Fredericksburg city,62,Health Care and Social Assistance,5792.0,7066.0,1274.0,0.2199585635359116,1.0,11.0
+51630,Fredericksburg city,71,"Arts, Entertainment, and Recreation",371.0,522.0,151.0,0.40700808625336926,3.0,9.0
+51630,Fredericksburg city,72,Accommodation and Food Services,4189.0,4078.0,-111.0,-0.02649797087610408,9.0,3.0
+51630,Fredericksburg city,81,Other Services,764.0,792.0,28.0,0.03664921465968586,5.0,7.0
+51640,Galax city,31-33,Manufacturing,1325.0,1007.0,-318.0,-0.24,8.0,1.0
+51640,Galax city,44-45,Retail Trade,942.0,999.0,57.0,0.06050955414012739,1.0,8.0
+51640,Galax city,52,Finance and Insurance,113.0,101.0,-12.0,-0.10619469026548672,6.0,3.0
+51640,Galax city,53,Real Estate and Rental and Leasing,48.0,46.0,-2.0,-0.041666666666666664,4.0,5.0
+51640,Galax city,56,Administrative and Support and Waste Management,183.0,166.0,-17.0,-0.09289617486338798,7.0,2.0
+51640,Galax city,71,"Arts, Entertainment, and Recreation",21.0,41.0,20.0,0.9523809523809523,2.0,7.0
+51640,Galax city,72,Accommodation and Food Services,489.0,490.0,1.0,0.002044989775051125,3.0,6.0
+51640,Galax city,81,Other Services,108.0,105.0,-3.0,-0.027777777777777776,5.0,4.0
+51650,Hampton city,44-45,Retail Trade,5934.0,5231.0,-703.0,-0.11846983485001686,11.0,2.0
+51650,Hampton city,48-49,Transportation and Warehousing,1132.0,2095.0,963.0,0.8507067137809188,1.0,12.0
+51650,Hampton city,52,Finance and Insurance,643.0,545.0,-98.0,-0.15241057542768274,5.0,8.0
+51650,Hampton city,53,Real Estate and Rental and Leasing,579.0,405.0,-174.0,-0.3005181347150259,6.0,7.0
+51650,Hampton city,54,"Professional, Scientific, and Technical Services",4631.0,4163.0,-468.0,-0.10105808680630533,10.0,3.0
+51650,Hampton city,55,Management of Companies and Enterprises,273.0,258.0,-15.0,-0.054945054945054944,3.0,10.0
+51650,Hampton city,56,Administrative and Support and Waste Management,3618.0,2124.0,-1494.0,-0.4129353233830846,12.0,1.0
+51650,Hampton city,61,Educational Services,1446.0,1358.0,-88.0,-0.06085753803596127,4.0,9.0
+51650,Hampton city,62,Health Care and Social Assistance,6918.0,6675.0,-243.0,-0.03512575888985256,7.0,6.0
+51650,Hampton city,71,"Arts, Entertainment, and Recreation",402.0,737.0,335.0,0.8333333333333334,2.0,11.0
+51650,Hampton city,72,Accommodation and Food Services,5797.0,5493.0,-304.0,-0.052440917716060034,9.0,4.0
+51650,Hampton city,81,Other Services,1307.0,1048.0,-259.0,-0.1981637337413925,8.0,5.0
+51660,Harrisonburg city,31-33,Manufacturing,3323.0,3884.0,561.0,0.1688233523924165,1.0,14.0
+51660,Harrisonburg city,42,Wholesale Trade,1162.0,909.0,-253.0,-0.21772805507745266,12.0,3.0
+51660,Harrisonburg city,44-45,Retail Trade,4685.0,4341.0,-344.0,-0.07342582710779082,14.0,1.0
+51660,Harrisonburg city,48-49,Transportation and Warehousing,270.0,371.0,101.0,0.37407407407407406,2.0,13.0
+51660,Harrisonburg city,52,Finance and Insurance,917.0,712.0,-205.0,-0.22355507088331517,10.0,5.0
+51660,Harrisonburg city,53,Real Estate and Rental and Leasing,414.0,338.0,-76.0,-0.18357487922705315,9.0,6.0
+51660,Harrisonburg city,54,"Professional, Scientific, and Technical Services",1005.0,981.0,-24.0,-0.023880597014925373,6.0,9.0
+51660,Harrisonburg city,55,Management of Companies and Enterprises,105.0,200.0,95.0,0.9047619047619048,4.0,11.0
+51660,Harrisonburg city,56,Administrative and Support and Waste Management,557.0,654.0,97.0,0.1741472172351885,3.0,12.0
+51660,Harrisonburg city,61,Educational Services,612.0,577.0,-35.0,-0.05718954248366013,7.0,8.0
+51660,Harrisonburg city,62,Health Care and Social Assistance,3349.0,3044.0,-305.0,-0.09107196177963571,13.0,2.0
+51660,Harrisonburg city,71,"Arts, Entertainment, and Recreation",178.0,214.0,36.0,0.20224719101123595,5.0,10.0
+51660,Harrisonburg city,72,Accommodation and Food Services,5149.0,4936.0,-213.0,-0.04136725577782094,11.0,4.0
+51660,Harrisonburg city,81,Other Services,780.0,742.0,-38.0,-0.04871794871794872,8.0,7.0
+51670,Hopewell city,42,Wholesale Trade,131.0,134.0,3.0,0.022900763358778626,1.0,7.0
+51670,Hopewell city,44-45,Retail Trade,672.0,521.0,-151.0,-0.22470238095238096,7.0,1.0
+51670,Hopewell city,52,Finance and Insurance,110.0,83.0,-27.0,-0.24545454545454545,4.0,4.0
+51670,Hopewell city,56,Administrative and Support and Waste Management,334.0,319.0,-15.0,-0.04491017964071856,2.0,5.0
+51670,Hopewell city,71,"Arts, Entertainment, and Recreation",30.0,15.0,-15.0,-0.5,3.0,6.0
+51670,Hopewell city,72,Accommodation and Food Services,792.0,748.0,-44.0,-0.05555555555555555,5.0,3.0
+51670,Hopewell city,81,Other Services,201.0,152.0,-49.0,-0.24378109452736318,6.0,2.0
+51678,Lexington city,52,Finance and Insurance,89.0,109.0,20.0,0.2247191011235955,2.0,4.0
+51678,Lexington city,53,Real Estate and Rental and Leasing,46.0,25.0,-21.0,-0.45652173913043476,5.0,1.0
+51678,Lexington city,54,"Professional, Scientific, and Technical Services",81.0,145.0,64.0,0.7901234567901234,1.0,5.0
+51678,Lexington city,56,Administrative and Support and Waste Management,3.0,11.0,8.0,2.6666666666666665,3.0,2.0
+51678,Lexington city,81,Other Services,151.0,159.0,8.0,0.052980132450331126,4.0,3.0
+51680,Lynchburg city,31-33,Manufacturing,6203.0,5343.0,-860.0,-0.13864259229405126,13.0,3.0
+51680,Lynchburg city,42,Wholesale Trade,1484.0,1297.0,-187.0,-0.12601078167115903,8.0,8.0
+51680,Lynchburg city,44-45,Retail Trade,6652.0,5574.0,-1078.0,-0.16205652435357787,14.0,2.0
+51680,Lynchburg city,51,Information,449.0,366.0,-83.0,-0.18485523385300667,5.0,11.0
+51680,Lynchburg city,52,Finance and Insurance,1833.0,1597.0,-236.0,-0.1287506819421713,9.0,7.0
+51680,Lynchburg city,53,Real Estate and Rental and Leasing,716.0,560.0,-156.0,-0.21787709497206703,7.0,9.0
+51680,Lynchburg city,54,"Professional, Scientific, and Technical Services",2993.0,3205.0,212.0,0.07083194119612429,2.0,14.0
+51680,Lynchburg city,55,Management of Companies and Enterprises,935.0,899.0,-36.0,-0.038502673796791446,4.0,12.0
+51680,Lynchburg city,56,Administrative and Support and Waste Management,2666.0,1203.0,-1463.0,-0.5487621905476369,15.0,1.0
+51680,Lynchburg city,61,Educational Services,1966.0,1707.0,-259.0,-0.13173957273652084,10.0,5.0
+51680,Lynchburg city,62,Health Care and Social Assistance,11224.0,10594.0,-630.0,-0.05612972202423378,12.0,4.0
+51680,Lynchburg city,71,"Arts, Entertainment, and Recreation",486.0,842.0,356.0,0.7325102880658436,1.0,15.0
+51680,Lynchburg city,72,Accommodation and Food Services,5662.0,5546.0,-116.0,-0.020487460261391734,6.0,10.0
+51680,Lynchburg city,81,Other Services,1643.0,1384.0,-259.0,-0.15763846622032868,11.0,6.0
+51680,Lynchburg city,99,Unclassified,83.0,88.0,5.0,0.060240963855421686,3.0,13.0
+51683,Manassas city,42,Wholesale Trade,386.0,510.0,124.0,0.32124352331606215,4.0,7.0
+51683,Manassas city,44-45,Retail Trade,2139.0,2293.0,154.0,0.07199625993454885,3.0,8.0
+51683,Manassas city,52,Finance and Insurance,362.0,319.0,-43.0,-0.11878453038674033,9.0,2.0
+51683,Manassas city,53,Real Estate and Rental and Leasing,265.0,264.0,-1.0,-0.0037735849056603774,8.0,3.0
+51683,Manassas city,54,"Professional, Scientific, and Technical Services",3141.0,3483.0,342.0,0.10888252148997135,2.0,9.0
+51683,Manassas city,61,Educational Services,313.0,269.0,-44.0,-0.14057507987220447,10.0,1.0
+51683,Manassas city,62,Health Care and Social Assistance,4176.0,4544.0,368.0,0.08812260536398467,1.0,10.0
+51683,Manassas city,71,"Arts, Entertainment, and Recreation",137.0,162.0,25.0,0.18248175182481752,7.0,4.0
+51683,Manassas city,72,Accommodation and Food Services,2050.0,2103.0,53.0,0.025853658536585365,5.0,6.0
+51683,Manassas city,81,Other Services,861.0,895.0,34.0,0.03948896631823461,6.0,5.0
+51685,Manassas Park city,23,Construction,1272.0,1078.0,-194.0,-0.15251572327044025,7.0,1.0
+51685,Manassas Park city,42,Wholesale Trade,242.0,300.0,58.0,0.2396694214876033,2.0,6.0
+51685,Manassas Park city,44-45,Retail Trade,222.0,125.0,-97.0,-0.4369369369369369,6.0,2.0
+51685,Manassas Park city,52,Finance and Insurance,14.0,11.0,-3.0,-0.21428571428571427,3.0,5.0
+51685,Manassas Park city,53,Real Estate and Rental and Leasing,54.0,22.0,-32.0,-0.5925925925925926,4.0,4.0
+51685,Manassas Park city,56,Administrative and Support and Waste Management,345.0,458.0,113.0,0.32753623188405795,1.0,7.0
+51685,Manassas Park city,81,Other Services,170.0,127.0,-43.0,-0.2529411764705882,5.0,3.0
+51690,Martinsville city,31-33,Manufacturing,847.0,840.0,-7.0,-0.008264462809917356,5.0,6.0
+51690,Martinsville city,44-45,Retail Trade,1434.0,896.0,-538.0,-0.37517433751743373,10.0,1.0
+51690,Martinsville city,52,Finance and Insurance,194.0,140.0,-54.0,-0.27835051546391754,8.0,3.0
+51690,Martinsville city,53,Real Estate and Rental and Leasing,76.0,51.0,-25.0,-0.32894736842105265,6.0,5.0
+51690,Martinsville city,54,"Professional, Scientific, and Technical Services",137.0,225.0,88.0,0.6423357664233577,2.0,9.0
+51690,Martinsville city,55,Management of Companies and Enterprises,104.0,194.0,90.0,0.8653846153846154,1.0,10.0
+51690,Martinsville city,56,Administrative and Support and Waste Management,1173.0,891.0,-282.0,-0.24040920716112532,9.0,2.0
+51690,Martinsville city,71,"Arts, Entertainment, and Recreation",19.0,29.0,10.0,0.5263157894736842,4.0,7.0
+51690,Martinsville city,72,Accommodation and Food Services,747.0,718.0,-29.0,-0.038821954484605084,7.0,4.0
+51690,Martinsville city,81,Other Services,351.0,369.0,18.0,0.05128205128205128,3.0,8.0
+51700,Newport News city,31-33,Manufacturing,28587.0,27916.0,-671.0,-0.023472207646832475,12.0,2.0
+51700,Newport News city,42,Wholesale Trade,1873.0,2307.0,434.0,0.23171382808328883,2.0,12.0
+51700,Newport News city,44-45,Retail Trade,9055.0,8490.0,-565.0,-0.0623964660408614,11.0,3.0
+51700,Newport News city,52,Finance and Insurance,1470.0,1266.0,-204.0,-0.13877551020408163,8.0,6.0
+51700,Newport News city,53,Real Estate and Rental and Leasing,1805.0,1805.0,0.0,0.0,5.0,9.0
+51700,Newport News city,54,"Professional, Scientific, and Technical Services",4653.0,4834.0,181.0,0.03889963464431549,3.0,10.0
+51700,Newport News city,55,Management of Companies and Enterprises,2393.0,2070.0,-323.0,-0.13497701629753447,9.0,5.0
+51700,Newport News city,56,Administrative and Support and Waste Management,6278.0,3821.0,-2457.0,-0.3913666772857598,13.0,1.0
+51700,Newport News city,61,Educational Services,911.0,1092.0,181.0,0.1986827661909989,4.0,11.0
+51700,Newport News city,62,Health Care and Social Assistance,12973.0,15266.0,2293.0,0.17675171510059354,1.0,13.0
+51700,Newport News city,71,"Arts, Entertainment, and Recreation",1072.0,1018.0,-54.0,-0.05037313432835821,7.0,7.0
+51700,Newport News city,72,Accommodation and Food Services,7554.0,7084.0,-470.0,-0.06221869208366428,10.0,4.0
+51700,Newport News city,81,Other Services,2249.0,2200.0,-49.0,-0.021787461093819474,6.0,8.0
+51710,Norfolk city,44-45,Retail Trade,10539.0,9565.0,-974.0,-0.09241863554416928,10.0,3.0
+51710,Norfolk city,48-49,Transportation and Warehousing,7784.0,8572.0,788.0,0.10123329907502569,3.0,10.0
+51710,Norfolk city,52,Finance and Insurance,5302.0,4641.0,-661.0,-0.12466993587325538,8.0,5.0
+51710,Norfolk city,53,Real Estate and Rental and Leasing,2431.0,2372.0,-59.0,-0.024269847799259565,7.0,6.0
+51710,Norfolk city,54,"Professional, Scientific, and Technical Services",8610.0,11723.0,3113.0,0.36155632984901276,2.0,11.0
+51710,Norfolk city,55,Management of Companies and Enterprises,1681.0,1916.0,235.0,0.13979773944080903,5.0,8.0
+51710,Norfolk city,56,Administrative and Support and Waste Management,8931.0,8968.0,37.0,0.004142873138506326,6.0,7.0
+51710,Norfolk city,61,Educational Services,3374.0,1746.0,-1628.0,-0.4825133372851215,12.0,1.0
+51710,Norfolk city,62,Health Care and Social Assistance,19792.0,23268.0,3476.0,0.17562651576394503,1.0,12.0
+51710,Norfolk city,71,"Arts, Entertainment, and Recreation",1244.0,1702.0,458.0,0.36816720257234725,4.0,9.0
+51710,Norfolk city,72,Accommodation and Food Services,11644.0,10440.0,-1204.0,-0.10340089316386121,11.0,2.0
+51710,Norfolk city,81,Other Services,4180.0,3484.0,-696.0,-0.16650717703349283,9.0,4.0
+51720,Norton city,31-33,Manufacturing,122.0,129.0,7.0,0.05737704918032787,2.0,7.0
+51720,Norton city,42,Wholesale Trade,81.0,84.0,3.0,0.037037037037037035,4.0,5.0
+51720,Norton city,44-45,Retail Trade,610.0,642.0,32.0,0.05245901639344262,1.0,8.0
+51720,Norton city,52,Finance and Insurance,43.0,36.0,-7.0,-0.16279069767441862,5.0,4.0
+51720,Norton city,53,Real Estate and Rental and Leasing,38.0,23.0,-15.0,-0.39473684210526316,6.0,3.0
+51720,Norton city,62,Health Care and Social Assistance,1054.0,891.0,-163.0,-0.15464895635673626,8.0,1.0
+51720,Norton city,72,Accommodation and Food Services,460.0,427.0,-33.0,-0.07173913043478261,7.0,2.0
+51720,Norton city,81,Other Services,55.0,59.0,4.0,0.07272727272727272,3.0,6.0
+51730,Petersburg city,31-33,Manufacturing,913.0,939.0,26.0,0.028477546549835708,2.0,6.0
+51730,Petersburg city,42,Wholesale Trade,314.0,293.0,-21.0,-0.06687898089171974,3.0,5.0
+51730,Petersburg city,44-45,Retail Trade,1372.0,1187.0,-185.0,-0.1348396501457726,6.0,2.0
+51730,Petersburg city,52,Finance and Insurance,187.0,117.0,-70.0,-0.37433155080213903,5.0,3.0
+51730,Petersburg city,53,Real Estate and Rental and Leasing,166.0,121.0,-45.0,-0.2710843373493976,4.0,4.0
+51730,Petersburg city,56,Administrative and Support and Waste Management,688.0,737.0,49.0,0.07122093023255814,1.0,7.0
+51730,Petersburg city,81,Other Services,802.0,549.0,-253.0,-0.31546134663341646,7.0,1.0
+51735,Poquoson city,44-45,Retail Trade,217.0,219.0,2.0,0.009216589861751152,4.0,1.0
+51735,Poquoson city,52,Finance and Insurance,41.0,44.0,3.0,0.07317073170731707,3.0,3.0
+51735,Poquoson city,53,Real Estate and Rental and Leasing,28.0,30.0,2.0,0.07142857142857142,5.0,2.0
+51735,Poquoson city,56,Administrative and Support and Waste Management,114.0,140.0,26.0,0.22807017543859648,2.0,4.0
+51735,Poquoson city,81,Other Services,97.0,124.0,27.0,0.27835051546391754,1.0,5.0
+51740,Portsmouth city,23,Construction,1954.0,1980.0,26.0,0.01330603889457523,7.0,7.0
+51740,Portsmouth city,44-45,Retail Trade,2913.0,2565.0,-348.0,-0.11946446961894953,12.0,2.0
+51740,Portsmouth city,48-49,Transportation and Warehousing,2037.0,1867.0,-170.0,-0.08345606283750613,9.0,5.0
+51740,Portsmouth city,52,Finance and Insurance,430.0,465.0,35.0,0.08139534883720931,6.0,8.0
+51740,Portsmouth city,53,Real Estate and Rental and Leasing,418.0,390.0,-28.0,-0.06698564593301436,8.0,6.0
+51740,Portsmouth city,54,"Professional, Scientific, and Technical Services",1409.0,1207.0,-202.0,-0.1433640880056778,10.0,4.0
+51740,Portsmouth city,55,Management of Companies and Enterprises,37.0,80.0,43.0,1.162162162162162,5.0,9.0
+51740,Portsmouth city,56,Administrative and Support and Waste Management,2478.0,2958.0,480.0,0.1937046004842615,2.0,12.0
+51740,Portsmouth city,61,Educational Services,116.0,197.0,81.0,0.6982758620689655,4.0,10.0
+51740,Portsmouth city,62,Health Care and Social Assistance,7082.0,5637.0,-1445.0,-0.20403840722959615,13.0,1.0
+51740,Portsmouth city,71,"Arts, Entertainment, and Recreation",140.0,1365.0,1225.0,8.75,1.0,13.0
+51740,Portsmouth city,72,Accommodation and Food Services,2203.0,2380.0,177.0,0.08034498411257376,3.0,11.0
+51740,Portsmouth city,81,Other Services,1490.0,1255.0,-235.0,-0.15771812080536912,11.0,3.0
+51750,Radford city,31-33,Manufacturing,828.0,784.0,-44.0,-0.05314009661835749,8.0,2.0
+51750,Radford city,42,Wholesale Trade,87.0,58.0,-29.0,-0.3333333333333333,7.0,3.0
+51750,Radford city,44-45,Retail Trade,351.0,349.0,-2.0,-0.005698005698005698,2.0,8.0
+51750,Radford city,52,Finance and Insurance,92.0,68.0,-24.0,-0.2608695652173913,5.0,5.0
+51750,Radford city,53,Real Estate and Rental and Leasing,115.0,99.0,-16.0,-0.1391304347826087,3.0,6.0
+51750,Radford city,56,Administrative and Support and Waste Management,388.0,482.0,94.0,0.2422680412371134,1.0,9.0
+51750,Radford city,71,"Arts, Entertainment, and Recreation",31.0,15.0,-16.0,-0.5161290322580645,4.0,7.0
+51750,Radford city,72,Accommodation and Food Services,722.0,570.0,-152.0,-0.21052631578947367,9.0,1.0
+51750,Radford city,81,Other Services,91.0,65.0,-26.0,-0.2857142857142857,6.0,4.0
+51760,Richmond city,11,"Agriculture, Forestry, Fishing and Hunting",23.0,15.0,-8.0,-0.34782608695652173,12.0,9.0
+51760,Richmond city,21,"Mining, Quarrying, and Oil and Gas Extraction",29.0,33.0,4.0,0.13793103448275862,11.0,10.0
+51760,Richmond city,22,Utilities,307.0,196.0,-111.0,-0.36156351791530944,15.0,6.0
+51760,Richmond city,23,Construction,5909.0,5751.0,-158.0,-0.02673887290573701,17.0,4.0
+51760,Richmond city,31-33,Manufacturing,5694.0,4883.0,-811.0,-0.1424306287319986,20.0,1.0
+51760,Richmond city,42,Wholesale Trade,4184.0,4060.0,-124.0,-0.029636711281070746,16.0,5.0
+51760,Richmond city,44-45,Retail Trade,7654.0,7598.0,-56.0,-0.0073164358505356675,13.0,8.0
+51760,Richmond city,48-49,Transportation and Warehousing,3657.0,3574.0,-83.0,-0.02269619907027618,14.0,7.0
+51760,Richmond city,51,Information,1408.0,1197.0,-211.0,-0.14985795454545456,18.0,3.0
+51760,Richmond city,52,Finance and Insurance,8624.0,8896.0,272.0,0.03153988868274583,8.0,13.0
+51760,Richmond city,53,Real Estate and Rental and Leasing,2094.0,5147.0,3053.0,1.4579751671442216,2.0,19.0
+51760,Richmond city,54,"Professional, Scientific, and Technical Services",10462.0,11425.0,963.0,0.09204740967310265,4.0,17.0
+51760,Richmond city,55,Management of Companies and Enterprises,9128.0,9234.0,106.0,0.01161262050832603,9.0,12.0
+51760,Richmond city,56,Administrative and Support and Waste Management,9170.0,12240.0,3070.0,0.33478735005452565,1.0,20.0
+51760,Richmond city,61,Educational Services,3765.0,4280.0,515.0,0.13678618857901725,6.0,15.0
+51760,Richmond city,62,Health Care and Social Assistance,23898.0,26348.0,2450.0,0.10251903925014645,3.0,18.0
+51760,Richmond city,71,"Arts, Entertainment, and Recreation",2511.0,2957.0,446.0,0.1776184786937475,7.0,14.0
+51760,Richmond city,72,Accommodation and Food Services,12830.0,12217.0,-613.0,-0.04777864380358535,19.0,2.0
+51760,Richmond city,81,Other Services,5107.0,5669.0,562.0,0.1100450362247895,5.0,16.0
+51760,Richmond city,99,Unclassified,308.0,367.0,59.0,0.19155844155844157,10.0,11.0
+51770,Roanoke city,23,Construction,3997.0,4787.0,790.0,0.19764823617713284,3.0,11.0
+51770,Roanoke city,44-45,Retail Trade,7539.0,6721.0,-818.0,-0.10850245390635363,12.0,2.0
+51770,Roanoke city,48-49,Transportation and Warehousing,3901.0,4008.0,107.0,0.027428864393745193,6.0,8.0
+51770,Roanoke city,52,Finance and Insurance,3022.0,2107.0,-915.0,-0.3027796161482462,13.0,1.0
+51770,Roanoke city,53,Real Estate and Rental and Leasing,876.0,859.0,-17.0,-0.019406392694063926,8.0,6.0
+51770,Roanoke city,54,"Professional, Scientific, and Technical Services",2593.0,2850.0,257.0,0.09911299652911686,5.0,9.0
+51770,Roanoke city,55,Management of Companies and Enterprises,2868.0,3364.0,496.0,0.17294281729428174,4.0,10.0
+51770,Roanoke city,56,Administrative and Support and Waste Management,2811.0,2412.0,-399.0,-0.14194236926360726,9.0,5.0
+51770,Roanoke city,61,Educational Services,490.0,541.0,51.0,0.10408163265306122,7.0,7.0
+51770,Roanoke city,62,Health Care and Social Assistance,12741.0,13880.0,1139.0,0.08939643670041598,1.0,13.0
+51770,Roanoke city,71,"Arts, Entertainment, and Recreation",653.0,1624.0,971.0,1.4869831546707504,2.0,12.0
+51770,Roanoke city,72,Accommodation and Food Services,6308.0,5718.0,-590.0,-0.09353202282815472,10.0,4.0
+51770,Roanoke city,81,Other Services,2880.0,2218.0,-662.0,-0.2298611111111111,11.0,3.0
+51775,Salem city,31-33,Manufacturing,2749.0,2835.0,86.0,0.03128410331029465,3.0,9.0
+51775,Salem city,42,Wholesale Trade,1633.0,1956.0,323.0,0.19779546846295162,1.0,11.0
+51775,Salem city,44-45,Retail Trade,1842.0,1546.0,-296.0,-0.16069489685124863,10.0,2.0
+51775,Salem city,52,Finance and Insurance,531.0,436.0,-95.0,-0.17890772128060264,9.0,3.0
+51775,Salem city,53,Real Estate and Rental and Leasing,188.0,165.0,-23.0,-0.12234042553191489,7.0,5.0
+51775,Salem city,54,"Professional, Scientific, and Technical Services",619.0,568.0,-51.0,-0.08239095315024232,8.0,4.0
+51775,Salem city,55,Management of Companies and Enterprises,254.0,258.0,4.0,0.015748031496062992,6.0,6.0
+51775,Salem city,56,Administrative and Support and Waste Management,866.0,909.0,43.0,0.049653579676674366,5.0,7.0
+51775,Salem city,71,"Arts, Entertainment, and Recreation",173.0,268.0,95.0,0.5491329479768786,2.0,10.0
+51775,Salem city,72,Accommodation and Food Services,1803.0,1475.0,-328.0,-0.18191902384914033,11.0,1.0
+51775,Salem city,81,Other Services,558.0,637.0,79.0,0.14157706093189965,4.0,8.0
+51790,Staunton city,31-33,Manufacturing,493.0,326.0,-167.0,-0.33874239350912777,12.0,1.0
+51790,Staunton city,44-45,Retail Trade,1568.0,1532.0,-36.0,-0.02295918367346939,9.0,4.0
+51790,Staunton city,52,Finance and Insurance,381.0,314.0,-67.0,-0.17585301837270342,11.0,2.0
+51790,Staunton city,53,Real Estate and Rental and Leasing,169.0,125.0,-44.0,-0.2603550295857988,10.0,3.0
+51790,Staunton city,54,"Professional, Scientific, and Technical Services",333.0,378.0,45.0,0.13513513513513514,4.0,9.0
+51790,Staunton city,55,Management of Companies and Enterprises,336.0,402.0,66.0,0.19642857142857142,2.0,11.0
+51790,Staunton city,56,Administrative and Support and Waste Management,247.0,300.0,53.0,0.2145748987854251,3.0,10.0
+51790,Staunton city,61,Educational Services,585.0,564.0,-21.0,-0.035897435897435895,6.0,7.0
+51790,Staunton city,62,Health Care and Social Assistance,1564.0,1700.0,136.0,0.08695652173913043,1.0,12.0
+51790,Staunton city,71,"Arts, Entertainment, and Recreation",99.0,142.0,43.0,0.43434343434343436,5.0,8.0
+51790,Staunton city,72,Accommodation and Food Services,1420.0,1393.0,-27.0,-0.019014084507042252,7.0,5.0
+51790,Staunton city,81,Other Services,567.0,540.0,-27.0,-0.047619047619047616,8.0,6.0
+51800,Suffolk city,23,Construction,1238.0,1855.0,617.0,0.4983844911147011,4.0,13.0
+51800,Suffolk city,31-33,Manufacturing,2129.0,2190.0,61.0,0.028651949271958667,8.0,9.0
+51800,Suffolk city,44-45,Retail Trade,3791.0,3904.0,113.0,0.02980743867053548,7.0,10.0
+51800,Suffolk city,48-49,Transportation and Warehousing,2323.0,9944.0,7621.0,3.280671545415411,1.0,16.0
+51800,Suffolk city,51,Information,160.0,133.0,-27.0,-0.16875,14.0,3.0
+51800,Suffolk city,52,Finance and Insurance,479.0,852.0,373.0,0.778705636743215,5.0,12.0
+51800,Suffolk city,53,Real Estate and Rental and Leasing,246.0,240.0,-6.0,-0.024390243902439025,13.0,4.0
+51800,Suffolk city,54,"Professional, Scientific, and Technical Services",2936.0,3709.0,773.0,0.263283378746594,3.0,14.0
+51800,Suffolk city,55,Management of Companies and Enterprises,617.0,576.0,-41.0,-0.06645056726094004,15.0,1.0
+51800,Suffolk city,56,Administrative and Support and Waste Management,1146.0,1480.0,334.0,0.2914485165794066,6.0,11.0
+51800,Suffolk city,61,Educational Services,349.0,368.0,19.0,0.054441260744985676,11.0,5.0
+51800,Suffolk city,62,Health Care and Social Assistance,4838.0,5920.0,1082.0,0.22364613476643241,2.0,15.0
+51800,Suffolk city,71,"Arts, Entertainment, and Recreation",263.0,303.0,40.0,0.1520912547528517,10.0,7.0
+51800,Suffolk city,72,Accommodation and Food Services,3135.0,3094.0,-41.0,-0.013078149920255184,16.0,2.0
+51800,Suffolk city,81,Other Services,897.0,948.0,51.0,0.056856187290969896,9.0,8.0
+51800,Suffolk city,99,Unclassified,78.0,97.0,19.0,0.24358974358974358,12.0,6.0
+51810,Virginia Beach city,23,Construction,10324.0,9264.0,-1060.0,-0.10267338240991863,13.0,3.0
+51810,Virginia Beach city,31-33,Manufacturing,6369.0,6678.0,309.0,0.04851625058878945,4.0,12.0
+51810,Virginia Beach city,44-45,Retail Trade,22847.0,21635.0,-1212.0,-0.05304854028975358,14.0,2.0
+51810,Virginia Beach city,51,Information,3071.0,2082.0,-989.0,-0.32204493650276783,12.0,4.0
+51810,Virginia Beach city,52,Finance and Insurance,8241.0,6224.0,-2017.0,-0.24475185050357967,15.0,1.0
+51810,Virginia Beach city,53,Real Estate and Rental and Leasing,4583.0,4476.0,-107.0,-0.023347152520183285,9.0,7.0
+51810,Virginia Beach city,54,"Professional, Scientific, and Technical Services",13163.0,13767.0,604.0,0.04588619615589151,3.0,13.0
+51810,Virginia Beach city,55,Management of Companies and Enterprises,2736.0,2881.0,145.0,0.05299707602339181,6.0,10.0
+51810,Virginia Beach city,56,Administrative and Support and Waste Management,11792.0,12013.0,221.0,0.018741519674355497,5.0,11.0
+51810,Virginia Beach city,61,Educational Services,3489.0,3534.0,45.0,0.012897678417884782,8.0,8.0
+51810,Virginia Beach city,62,Health Care and Social Assistance,23741.0,25375.0,1634.0,0.06882608146244892,1.0,15.0
+51810,Virginia Beach city,71,"Arts, Entertainment, and Recreation",3172.0,4216.0,1044.0,0.3291298865069357,2.0,14.0
+51810,Virginia Beach city,72,Accommodation and Food Services,24906.0,24635.0,-271.0,-0.010880912229984743,11.0,5.0
+51810,Virginia Beach city,81,Other Services,6068.0,5904.0,-164.0,-0.02702702702702703,10.0,6.0
+51810,Virginia Beach city,99,Unclassified,494.0,555.0,61.0,0.12348178137651822,7.0,9.0
+51820,Waynesboro city,31-33,Manufacturing,1341.0,1124.0,-217.0,-0.16181953765846382,11.0,1.0
+51820,Waynesboro city,44-45,Retail Trade,1857.0,2064.0,207.0,0.11147011308562198,2.0,10.0
+51820,Waynesboro city,48-49,Transportation and Warehousing,185.0,980.0,795.0,4.297297297297297,1.0,11.0
+51820,Waynesboro city,52,Finance and Insurance,201.0,169.0,-32.0,-0.15920398009950248,8.0,4.0
+51820,Waynesboro city,53,Real Estate and Rental and Leasing,113.0,108.0,-5.0,-0.04424778761061947,7.0,5.0
+51820,Waynesboro city,54,"Professional, Scientific, and Technical Services",270.0,348.0,78.0,0.28888888888888886,4.0,8.0
+51820,Waynesboro city,55,Management of Companies and Enterprises,438.0,522.0,84.0,0.1917808219178082,3.0,9.0
+51820,Waynesboro city,56,Administrative and Support and Waste Management,168.0,125.0,-43.0,-0.25595238095238093,10.0,2.0
+51820,Waynesboro city,71,"Arts, Entertainment, and Recreation",45.0,84.0,39.0,0.8666666666666667,5.0,7.0
+51820,Waynesboro city,72,Accommodation and Food Services,1467.0,1473.0,6.0,0.00408997955010225,6.0,6.0
+51820,Waynesboro city,81,Other Services,415.0,380.0,-35.0,-0.08433734939759036,9.0,3.0
+51830,Williamsburg city,23,Construction,82.0,102.0,20.0,0.24390243902439024,3.0,4.0
+51830,Williamsburg city,44-45,Retail Trade,1317.0,1054.0,-263.0,-0.19969627942293092,6.0,1.0
+51830,Williamsburg city,52,Finance and Insurance,166.0,123.0,-43.0,-0.25903614457831325,4.0,3.0
+51830,Williamsburg city,53,Real Estate and Rental and Leasing,95.0,128.0,33.0,0.3473684210526316,2.0,5.0
+51830,Williamsburg city,54,"Professional, Scientific, and Technical Services",588.0,372.0,-216.0,-0.3673469387755102,5.0,2.0
+51830,Williamsburg city,81,Other Services,220.0,265.0,45.0,0.20454545454545456,1.0,6.0
+51840,Winchester city,31-33,Manufacturing,1393.0,1368.0,-25.0,-0.017946877243359655,4.0,8.0
+51840,Winchester city,42,Wholesale Trade,360.0,263.0,-97.0,-0.26944444444444443,6.0,6.0
+51840,Winchester city,44-45,Retail Trade,4192.0,3694.0,-498.0,-0.11879770992366412,11.0,1.0
+51840,Winchester city,48-49,Transportation and Warehousing,273.0,171.0,-102.0,-0.37362637362637363,7.0,5.0
+51840,Winchester city,52,Finance and Insurance,654.0,526.0,-128.0,-0.19571865443425077,8.0,4.0
+51840,Winchester city,53,Real Estate and Rental and Leasing,363.0,214.0,-149.0,-0.41046831955922863,10.0,2.0
+51840,Winchester city,61,Educational Services,1181.0,1036.0,-145.0,-0.12277730736663844,9.0,3.0
+51840,Winchester city,62,Health Care and Social Assistance,7188.0,7640.0,452.0,0.06288258208124652,1.0,11.0
+51840,Winchester city,71,"Arts, Entertainment, and Recreation",296.0,330.0,34.0,0.11486486486486487,2.0,10.0
+51840,Winchester city,72,Accommodation and Food Services,2680.0,2606.0,-74.0,-0.027611940298507463,5.0,7.0
+51840,Winchester city,81,Other Services,655.0,685.0,30.0,0.04580152671755725,3.0,9.0

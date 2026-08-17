@@ -1,0 +1,13 @@
+metric,value
+Total records,17804.0
+Published employment records,12515.0
+Suppressed records,5289.0
+Overall suppression rate,0.2970680745899798
+Duplicate locality-industry-year keys,0.0
+Negative economic values,0.0
+Series with complete 7-year employment coverage,1375.0
+Series with both 2019 and 2025 employment,1459.0
+Eligible 2019-2025 growth series with >=100 baseline employment,1145.0
+Extreme YoY changes flagged,13.0
+High-pay observations flagged,13.0
+High establishment-to-employment ratio records,79.0

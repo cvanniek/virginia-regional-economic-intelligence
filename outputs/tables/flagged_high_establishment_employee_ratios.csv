@@ -1,0 +1,80 @@
+year,area_fips,locality_name,industry_code,industry_title,own_code,agglvl_code,disclosure_code,annual_avg_estabs,annual_avg_emplvl,total_annual_wages,annual_avg_wkly_wage,avg_annual_pay,is_suppressed,employment_change_yoy,employment_growth_yoy,prior_year_employment,high_pay_flag,establishments_per_employee,high_estab_emp_ratio_flag
+2022,51001,Accomack County,61,Educational Services,5,74,,14,6.0,281788.0,929.0,48307.0,False,-2.0,-0.25,8.0,False,2.3333333333333335,True
+2023,51001,Accomack County,61,Educational Services,5,74,,18,5.0,221027.0,810.0,42100.0,False,-1.0,-0.16666666666666663,6.0,False,3.6,True
+2024,51001,Accomack County,61,Educational Services,5,74,,14,7.0,446759.0,1242.0,64592.0,False,2.0,0.3999999999999999,5.0,False,2.0,True
+2020,51001,Accomack County,99,Unclassified,5,74,,3,1.0,22771.0,525.0,27325.0,False,-14.0,-0.9333333333333333,15.0,False,3.0,True
+2021,51001,Accomack County,99,Unclassified,5,74,,8,7.0,230878.0,599.0,31130.0,False,6.0,6.0,1.0,False,1.1428571428571428,True
+2022,51001,Accomack County,99,Unclassified,5,74,,37,24.0,779928.0,623.0,32385.0,False,17.0,2.4285714285714284,7.0,False,1.5416666666666667,True
+2023,51001,Accomack County,99,Unclassified,5,74,,30,12.0,329535.0,517.0,26901.0,False,-12.0,-0.5,24.0,False,2.5,True
+2022,51005,Alleghany County,51,Information,5,74,,7,5.0,335053.0,1432.0,74456.0,False,,,,False,1.4,True
+2022,51005,Alleghany County,99,Unclassified,5,74,,10,8.0,254280.0,611.0,31785.0,False,,,,False,1.25,True
+2019,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,8,7.0,298185.0,829.0,43111.0,False,,,,False,1.1428571428571428,True
+2020,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,8,6.0,230479.0,729.0,37887.0,False,-1.0,-0.1428571428571429,7.0,False,1.3333333333333333,True
+2021,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,9,7.0,305807.0,905.0,47047.0,False,1.0,0.16666666666666674,6.0,False,1.2857142857142858,True
+2022,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,10,6.0,268645.0,805.0,41867.0,False,-1.0,-0.1428571428571429,7.0,False,1.6666666666666667,True
+2023,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,10,7.0,253244.0,672.0,34930.0,False,1.0,0.16666666666666674,6.0,False,1.4285714285714286,True
+2024,51007,Amelia County,53,Real Estate and Rental and Leasing,5,74,,10,8.0,272480.0,629.0,32698.0,False,1.0,0.1428571428571428,7.0,False,1.25,True
+2023,51011,Appomattox County,51,Information,5,74,,11,8.0,312124.0,750.0,39016.0,False,,,,False,1.375,True
+2020,51017,Bath County,99,Unclassified,5,74,,3,2.0,113368.0,934.0,48586.0,False,-2.0,-0.5,4.0,False,1.5,True
+2022,51021,Bland County,54,"Professional, Scientific, and Technical Services",5,74,,39,26.0,3577247.0,2654.0,138029.0,False,,,,False,1.5,True
+2024,51021,Bland County,54,"Professional, Scientific, and Technical Services",5,74,,23,14.0,1362823.0,1872.0,97344.0,False,,,,False,1.6428571428571428,True
+2023,51025,Brunswick County,51,Information,5,74,,12,4.0,585168.0,2756.0,143306.0,False,-12.0,-0.75,16.0,False,3.0,True
+2023,51025,Brunswick County,53,Real Estate and Rental and Leasing,5,74,,9,8.0,347276.0,853.0,44333.0,False,-1.0,-0.11111111111111116,9.0,False,1.125,True
+2024,51025,Brunswick County,99,Unclassified,5,74,,5,4.0,63528.0,312.0,16220.0,False,-6.0,-0.6,10.0,False,1.25,True
+2022,51029,Buckingham County,51,Information,5,74,,9,6.0,1031815.0,3354.0,174391.0,False,,,,False,1.5,True
+2022,51033,Caroline County,51,Information,5,74,,18,8.0,900154.0,2120.0,110223.0,False,,,,False,2.25,True
+2023,51033,Caroline County,51,Information,5,74,,15,4.0,186821.0,829.0,43113.0,False,-4.0,-0.5,8.0,False,3.75,True
+2024,51033,Caroline County,51,Information,5,74,,7,6.0,492121.0,1494.0,77703.0,False,2.0,0.5,4.0,False,1.1666666666666667,True
+2022,51033,Caroline County,53,Real Estate and Rental and Leasing,5,74,,18,17.0,622996.0,698.0,36291.0,False,-4.0,-0.19047619047619047,21.0,False,1.0588235294117647,True
+2023,51033,Caroline County,53,Real Estate and Rental and Leasing,5,74,,17,13.0,488824.0,714.0,37126.0,False,-4.0,-0.23529411764705888,17.0,False,1.3076923076923077,True
+2023,51035,Carroll County,51,Information,5,74,,11,9.0,361684.0,818.0,42551.0,False,,,,False,1.2222222222222223,True
+2022,51037,Charlotte County,51,Information,5,74,,36,19.0,1671438.0,1722.0,89541.0,False,,,,False,1.894736842105263,True
+2023,51037,Charlotte County,51,Information,5,74,,38,8.0,720986.0,1664.0,86518.0,False,-11.0,-0.5789473684210527,19.0,False,4.75,True
+2024,51037,Charlotte County,51,Information,5,74,,18,9.0,1021840.0,2183.0,113538.0,False,1.0,0.125,8.0,False,2.0,True
+2023,51037,Charlotte County,61,Educational Services,5,74,,15,3.0,29511.0,184.0,9571.0,False,,,,False,5.0,True
+2022,51037,Charlotte County,99,Unclassified,5,74,,31,19.0,647455.0,664.0,34531.0,False,,,,False,1.631578947368421,True
+2023,51037,Charlotte County,99,Unclassified,5,74,,31,21.0,968722.0,898.0,46685.0,False,2.0,0.10526315789473695,19.0,False,1.4761904761904763,True
+2019,51043,Clarke County,99,Unclassified,5,74,,8,5.0,414629.0,1472.0,76547.0,False,,,,False,1.6,True
+2020,51053,Dinwiddie County,99,Unclassified,5,74,,11,10.0,482373.0,920.0,47839.0,False,-6.0,-0.375,16.0,False,1.1,True
+2021,51061,Fauquier County,99,Unclassified,5,74,,16,8.0,301571.0,756.0,39335.0,False,-39.0,-0.8297872340425532,47.0,False,2.0,True
+2021,51065,Fluvanna County,99,Unclassified,5,74,,8,5.0,195399.0,820.0,42633.0,False,-15.0,-0.75,20.0,False,1.6,True
+2022,51065,Fluvanna County,99,Unclassified,5,74,,12,7.0,156943.0,447.0,23251.0,False,2.0,0.3999999999999999,5.0,False,1.7142857142857142,True
+2019,51071,Giles County,53,Real Estate and Rental and Leasing,5,74,,9,8.0,274270.0,633.0,32912.0,False,,,,False,1.125,True
+2023,51073,Gloucester County,99,Unclassified,5,74,,24,18.0,802303.0,873.0,45413.0,False,-23.0,-0.5609756097560976,41.0,False,1.3333333333333333,True
+2024,51073,Gloucester County,99,Unclassified,5,74,,15,13.0,602278.0,863.0,44890.0,False,-5.0,-0.2777777777777778,18.0,False,1.1538461538461537,True
+2025,51073,Gloucester County,99,Unclassified,5,74,,16,14.0,828632.0,1105.0,57477.0,False,1.0,0.07692307692307687,13.0,False,1.1428571428571428,True
+2022,51077,Grayson County,54,"Professional, Scientific, and Technical Services",5,74,,21,18.0,978942.0,1066.0,55412.0,False,0.0,0.0,18.0,False,1.1666666666666667,True
+2023,51077,Grayson County,54,"Professional, Scientific, and Technical Services",5,74,,22,17.0,917702.0,1018.0,52944.0,False,-1.0,-0.05555555555555558,18.0,False,1.2941176470588236,True
+2019,51079,Greene County,99,Unclassified,5,74,,5,4.0,151808.0,745.0,38759.0,False,,,,False,1.25,True
+2020,51079,Greene County,99,Unclassified,5,74,,9,7.0,174065.0,456.0,23736.0,False,3.0,0.75,4.0,False,1.2857142857142858,True
+2024,51091,Highland County,54,"Professional, Scientific, and Technical Services",5,74,,23,10.0,620954.0,1225.0,63688.0,False,,,,False,2.3,True
+2022,51091,Highland County,99,Unclassified,5,74,,8,5.0,110586.0,440.0,22880.0,False,,,,False,1.6,True
+2019,51109,Louisa County,61,Educational Services,5,74,,4,3.0,84516.0,557.0,28977.0,False,,,,False,1.3333333333333333,True
+2020,51109,Louisa County,61,Educational Services,5,74,,5,3.0,71751.0,552.0,28700.0,False,0.0,0.0,3.0,False,1.6666666666666667,True
+2022,51113,Madison County,54,"Professional, Scientific, and Technical Services",5,74,,69,63.0,5059806.0,1540.0,80102.0,False,-2.0,-0.03076923076923077,65.0,False,1.0952380952380953,True
+2023,51113,Madison County,54,"Professional, Scientific, and Technical Services",5,74,,103,64.0,5505929.0,1659.0,86255.0,False,1.0,0.015873015873015817,63.0,False,1.609375,True
+2024,51113,Madison County,54,"Professional, Scientific, and Technical Services",5,74,,83,70.0,6816057.0,1868.0,97141.0,False,6.0,0.09375,64.0,False,1.1857142857142857,True
+2022,51115,Mathews County,53,Real Estate and Rental and Leasing,5,74,,5,4.0,428977.0,2062.0,107244.0,False,-3.0,-0.4285714285714286,7.0,False,1.25,True
+2023,51115,Mathews County,53,Real Estate and Rental and Leasing,5,74,,6,5.0,335668.0,1230.0,63937.0,False,1.0,0.25,4.0,False,1.2,True
+2022,51115,Mathews County,99,Unclassified,5,74,,5,3.0,160932.0,1061.0,55177.0,False,,,,False,1.6666666666666667,True
+2019,51133,Northumberland County,53,Real Estate and Rental and Leasing,5,74,,16,14.0,681409.0,909.0,47265.0,False,,,,False,1.1428571428571428,True
+2020,51133,Northumberland County,53,Real Estate and Rental and Leasing,5,74,,17,16.0,754434.0,931.0,48413.0,False,2.0,0.1428571428571428,14.0,False,1.0625,True
+2021,51133,Northumberland County,53,Real Estate and Rental and Leasing,5,74,,15,13.0,647741.0,990.0,51476.0,False,-3.0,-0.1875,16.0,False,1.1538461538461537,True
+2022,51133,Northumberland County,53,Real Estate and Rental and Leasing,5,74,,15,14.0,620855.0,858.0,44612.0,False,1.0,0.07692307692307687,13.0,False,1.0714285714285714,True
+2024,51133,Northumberland County,53,Real Estate and Rental and Leasing,5,74,,16,15.0,717685.0,936.0,48657.0,False,-2.0,-0.11764705882352944,17.0,False,1.0666666666666667,True
+2022,51133,Northumberland County,62,Health Care and Social Assistance,5,74,,58,55.0,1840186.0,641.0,33357.0,False,,,,False,1.0545454545454545,True
+2023,51133,Northumberland County,99,Unclassified,5,74,,6,4.0,107867.0,579.0,30102.0,False,-19.0,-0.8260869565217391,23.0,False,1.5,True
+2019,51135,Nottoway County,99,Unclassified,5,74,,12,10.0,194948.0,381.0,19825.0,False,,,,False,1.2,True
+2023,51157,Rappahannock County,52,Finance and Insurance,5,74,,9,5.0,950478.0,3374.0,175473.0,False,-4.0,-0.4444444444444444,9.0,False,1.8,True
+2024,51157,Rappahannock County,52,Finance and Insurance,5,74,,8,7.0,1278780.0,3316.0,172420.0,False,2.0,0.3999999999999999,5.0,False,1.1428571428571428,True
+2019,51163,Rockbridge County,99,Unclassified,5,74,,9,6.0,135725.0,423.0,22009.0,False,,,,False,1.5,True
+2020,51163,Rockbridge County,99,Unclassified,5,74,,13,11.0,307665.0,518.0,26949.0,False,5.0,0.8333333333333333,6.0,False,1.1818181818181819,True
+2019,51169,Scott County,99,Unclassified,5,74,,5,4.0,69417.0,327.0,17000.0,False,,,,False,1.25,True
+2020,51181,Surry County,99,Unclassified,5,74,,2,1.0,26463.0,407.0,21170.0,False,1.0,inf,0.0,False,2.0,True
+2021,51195,Wise County,99,Unclassified,5,74,,6,3.0,70502.0,479.0,24883.0,False,-10.0,-0.7692307692307692,13.0,False,2.0,True
+2019,51199,York County,99,Unclassified,5,74,,26,25.0,1028652.0,799.0,41562.0,False,,,,False,1.04,True
+2019,51650,Hampton city,11,"Agriculture, Forestry, Fishing and Hunting",5,74,,4,3.0,99600.0,718.0,37350.0,False,,,,False,1.3333333333333333,True
+2019,51678,Lexington city,56,Administrative and Support and Waste Management,5,74,,4,3.0,61813.0,446.0,23180.0,False,,,,False,1.3333333333333333,True
+2021,51678,Lexington city,56,Administrative and Support and Waste Management,5,74,,4,3.0,74785.0,421.0,21888.0,False,,,,False,1.3333333333333333,True
+2023,51685,Manassas Park city,99,Unclassified,5,74,,7,5.0,196993.0,798.0,41472.0,False,-7.0,-0.5833333333333333,12.0,False,1.4,True
+2022,51735,Poquoson city,71,"Arts, Entertainment, and Recreation",5,74,,4,3.0,121950.0,741.0,38511.0,False,,,,False,1.3333333333333333,True
